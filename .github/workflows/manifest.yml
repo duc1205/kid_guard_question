@@ -1,0 +1,72 @@
+# Mỗi khi file câu hỏi thay đổi (kể cả sửa trực tiếp trên GitHub):
+# kiểm tra định dạng giống app → tạo lại manifest.json (tự tăng version) → commit.
+# File sai định dạng thì workflow báo lỗi và manifest giữ nguyên, nên app
+# vẫn dùng bản cũ.
+name: Build question manifest
+
+on:
+  push:
+    branches: [main, develop]
+    paths:
+      - "grade_*.json"
+      - "manifest.json"
+      - "scripts/build_manifest.py"
+      - ".github/workflows/manifest.yml"
+  pull_request:
+    paths:
+      - "grade_*.json"
+      - "manifest.json"
+      - "scripts/build_manifest.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: manifest-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Kiểm tra câu hỏi (pull request)
+        if: github.event_name == 'pull_request'
+        run: python3 scripts/build_manifest.py
+
+      - name: Lấy manifest đã phát hành trước lần push này
+        if: github.event_name == 'push'
+        env:
+          BEFORE: ${{ github.event.before }}
+        run: |
+          if [ -n "$BEFORE" ] && git cat-file -e "$BEFORE:manifest.json" 2>/dev/null; then
+            git show "$BEFORE:manifest.json" > "$RUNNER_TEMP/previous.json"
+          else
+            cp manifest.json "$RUNNER_TEMP/previous.json"
+          fi
+
+      - name: Kiểm tra câu hỏi và tạo lại manifest.json
+        if: github.event_name != 'pull_request'
+        run: |
+          if [ -f "$RUNNER_TEMP/previous.json" ]; then
+            python3 scripts/build_manifest.py --previous "$RUNNER_TEMP/previous.json"
+          else
+            python3 scripts/build_manifest.py
+          fi
+
+      - name: Commit manifest.json
+        if: github.event_name != 'pull_request'
+        run: |
+          if git diff --quiet -- manifest.json; then
+            echo "manifest.json đã đúng, không cần commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json
+          git commit -m "chore(manifest): regenerate manifest.json"
+          git push
