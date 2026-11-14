@@ -1,0 +1,386 @@
+[
+  {
+    "id": "g4_toan_01",
+    "subject": "Toán",
+    "topic": "Số có nhiều chữ số - Lớp triệu",
+    "type": "academic",
+    "question": "Số một triệu (1 000 000) có bao nhiêu chữ số 0?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "9"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài các số có nhiều chữ số, lớp nghìn và lớp triệu ở môn Toán lớp 4.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 4 – Số tự nhiên – Số và cấu tạo thập phân của một số – YCCĐ: Đọc, viết được các số có nhiều chữ số (đến lớp triệu)"
+  },
+  {
+    "id": "g4_toan_02",
+    "subject": "Toán",
+    "topic": "Phép cộng phân số",
+    "type": "academic",
+    "question": "2/5 + 1/5 bằng bao nhiêu?",
+    "options": [
+      "3/10",
+      "2/25",
+      "3/5",
+      "1/5"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại phép cộng hai phân số cùng mẫu số ở môn Toán lớp 4: cộng hai tử số và giữ nguyên mẫu số.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 4 – Phân số – Các phép tính cộng, trừ phân số – YCCĐ: Thực hiện được phép cộng, phép trừ phân số khi các phân số có cùng mẫu số"
+  },
+  {
+    "id": "g4_toan_03",
+    "subject": "Toán",
+    "topic": "Số trung bình cộng",
+    "type": "academic",
+    "question": "Trung bình cộng của ba số 4, 6 và 8 là bao nhiêu?",
+    "options": [
+      "6",
+      "18",
+      "7",
+      "5"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cách tìm số trung bình cộng ở môn Toán lớp 4: tính tổng các số rồi chia cho số các số hạng.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 4 – Các phép tính với số tự nhiên – YCCĐ: Tính được số trung bình cộng của hai hay nhiều số"
+  },
+  {
+    "id": "g4_toan_04",
+    "subject": "Toán",
+    "topic": "Góc nhọn, góc tù, góc bẹt",
+    "type": "academic",
+    "question": "Góc tù là góc như thế nào?",
+    "options": [
+      "Góc bé hơn góc vuông",
+      "Góc bằng góc vuông",
+      "Góc bằng hai góc vuông",
+      "Góc lớn hơn góc vuông nhưng bé hơn góc bẹt"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài góc nhọn, góc tù, góc bẹt ở môn Toán lớp 4, dùng ê ke để so sánh với góc vuông.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 4 – Hình học trực quan – Hình phẳng – YCCĐ: Nhận biết được góc nhọn, góc tù, góc bẹt"
+  },
+  {
+    "id": "g4_toan_05",
+    "subject": "Toán",
+    "topic": "Làm tròn số",
+    "type": "academic",
+    "question": "Làm tròn số 47 362 đến hàng nghìn thì được số nào?",
+    "options": [
+      "48 000",
+      "47 400",
+      "47 000",
+      "50 000"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài làm tròn số ở môn Toán lớp 4: nhìn chữ số hàng trăm, nếu bé hơn 5 thì làm tròn xuống, từ 5 trở lên thì làm tròn lên.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 4 – Số tự nhiên – Làm tròn số – YCCĐ: Làm tròn được số đến tròn chục, tròn trăm, tròn nghìn, tròn mười nghìn, tròn trăm nghìn"
+  },
+  {
+    "id": "g4_tiengviet_01",
+    "subject": "Tiếng Việt",
+    "topic": "Danh từ",
+    "type": "academic",
+    "question": "Từ nào là danh từ?",
+    "options": [
+      "chạy",
+      "xinh đẹp",
+      "dòng sông",
+      "nhanh nhẹn"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài danh từ, động từ, tính từ ở môn Tiếng Việt lớp 4: danh từ là từ chỉ sự vật như người, con vật, đồ vật, hiện tượng.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 4 – Kiến thức tiếng Việt – Từ loại – YCCĐ: Danh từ, động từ, tính từ: đặc điểm và chức năng"
+  },
+  {
+    "id": "g4_tiengviet_02",
+    "subject": "Tiếng Việt",
+    "topic": "Biện pháp nhân hóa",
+    "type": "academic",
+    "question": "Câu nào có sử dụng biện pháp nhân hóa?",
+    "options": [
+      "Mặt Trời mọc ở đằng đông.",
+      "Ông Mặt Trời mỉm cười chào bé.",
+      "Trời hôm nay rất nắng.",
+      "Mặt Trời to hơn Trái Đất."
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại biện pháp nhân hóa ở môn Tiếng Việt lớp 4: gọi hoặc tả sự vật bằng những từ dùng cho con người.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 4 – Kiến thức tiếng Việt – Biện pháp tu từ – YCCĐ: Biện pháp tu từ nhân hoá: đặc điểm và tác dụng"
+  },
+  {
+    "id": "g4_tiengviet_03",
+    "subject": "Tiếng Việt",
+    "topic": "Chủ ngữ và vị ngữ",
+    "type": "academic",
+    "question": "Chủ ngữ trong câu \"Đàn chim bay về phía chân trời.\" là gì?",
+    "options": [
+      "bay về phía chân trời",
+      "phía chân trời",
+      "bay",
+      "Đàn chim"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài chủ ngữ và vị ngữ ở môn Tiếng Việt lớp 4: chủ ngữ trả lời câu hỏi \"Ai?\", \"Cái gì?\", \"Con gì?\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 4 – Kiến thức tiếng Việt – Câu – YCCĐ: Câu và thành phần chính của câu: đặc điểm và chức năng"
+  },
+  {
+    "id": "g4_daoduc_01",
+    "subject": "Đạo đức",
+    "topic": "Biết ơn người lao động",
+    "type": "academic",
+    "question": "Việc làm nào thể hiện sự biết ơn người lao động?",
+    "options": [
+      "Giữ gìn đồ dùng và không vứt rác bừa bãi",
+      "Lãng phí cơm, thức ăn",
+      "Vẽ bậy lên tường",
+      "Chế giễu cô lao công"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài biết ơn người lao động ở môn Đạo đức lớp 4: trân trọng và giữ gìn sản phẩm của người lao động.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 4 – Biết ơn người lao động – YCCĐ: Thể hiện được lòng biết ơn người lao động bằng lời nói, việc làm cụ thể phù hợp với lứa tuổi"
+  },
+  {
+    "id": "g4_khoahoc_01_v2",
+    "subject": "Khoa học",
+    "topic": "Sự chuyển thể của nước",
+    "type": "academic",
+    "question": "Hiện tượng nước từ thể lỏng chuyển thành hơi nước được gọi là gì?",
+    "options": [
+      "Đông đặc",
+      "Nóng chảy",
+      "Bay hơi",
+      "Ngưng tụ"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài sự chuyển thể của nước ở môn Khoa học lớp 4: bay hơi (lỏng thành hơi), ngưng tụ (hơi thành lỏng), đông đặc (lỏng thành rắn), nóng chảy (rắn thành lỏng).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học – Lớp 4 – Chất – Nước – YCCĐ: Sử dụng được các thuật ngữ bay hơi, ngưng tụ, đông đặc, nóng chảy để mô tả sự chuyển thể của nước"
+  },
+  {
+    "id": "g4_khoahoc_02",
+    "subject": "Khoa học",
+    "topic": "Thực vật cần gì để sống",
+    "type": "academic",
+    "question": "Để sống và phát triển bình thường, thực vật cần những yếu tố nào?",
+    "options": [
+      "Chỉ cần nước",
+      "Ánh sáng, nước, không khí và chất khoáng",
+      "Chỉ cần ánh sáng",
+      "Bóng tối và nước"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài nhu cầu sống của thực vật ở môn Khoa học lớp 4, có thể làm thí nghiệm trồng cây đậu để quan sát.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học – Lớp 4 – Thực vật và động vật – Nhu cầu sống của thực vật – YCCĐ: Nhận biết được các yếu tố cần cho sự sống và phát triển của thực vật (ánh sáng, không khí, nước, chất khoáng và nhiệt độ)"
+  },
+  {
+    "id": "g4_khoahoc_03",
+    "subject": "Khoa học",
+    "topic": "Ánh sáng – Nguồn sáng",
+    "type": "academic",
+    "question": "Vật nào sau đây tự phát ra ánh sáng (là vật phát sáng)?",
+    "options": [
+      "Mặt Trăng",
+      "Mặt Trời",
+      "Cái gương",
+      "Quyển sách"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài ánh sáng ở môn Khoa học lớp 4: phân biệt vật tự phát sáng (Mặt Trời, ngọn lửa, bóng đèn đang sáng) với vật được chiếu sáng (Mặt Trăng, gương, sách vở).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học – Lớp 4 – Năng lượng – Ánh sáng – YCCĐ: Nêu được ví dụ về các vật phát sáng và các vật được chiếu sáng"
+  },
+  {
+    "id": "g4_lichsudiali_01",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Đền Hùng và lễ giỗ Tổ Hùng Vương",
+    "type": "academic",
+    "question": "Lễ giỗ Tổ Hùng Vương được tổ chức vào ngày nào?",
+    "options": [
+      "Mùng 1 tháng Giêng âm lịch",
+      "Rằm tháng Tám âm lịch",
+      "Mùng 10 tháng 3 âm lịch",
+      "Mùng 5 tháng 5 âm lịch"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Đền Hùng và lễ giỗ Tổ Hùng Vương ở môn Lịch sử và Địa lí lớp 4.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 4 – Trung du và miền núi phía Bắc – Đền Hùng và lễ giỗ Tổ Hùng Vương – YCCĐ: Sử dụng tư liệu, trình bày được những nét sơ lược về lễ giỗ Tổ Hùng Vương"
+  },
+  {
+    "id": "g4_lichsudiali_02",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Thiên nhiên vùng Nam Bộ",
+    "type": "academic",
+    "question": "Đồng bằng nào lớn nhất nước ta?",
+    "options": [
+      "Đồng bằng Bắc Bộ",
+      "Đồng bằng sông Cửu Long",
+      "Đồng bằng duyên hải miền Trung",
+      "Cao nguyên Mộc Châu"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài thiên nhiên vùng Nam Bộ ở môn Lịch sử và Địa lí lớp 4, quan sát lược đồ các đồng bằng của nước ta.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 4 – Nam Bộ – Thiên nhiên – YCCĐ: Trình bày được một trong những đặc điểm thiên nhiên (địa hình, đất, sông ngòi,...) của vùng Nam Bộ"
+  },
+  {
+    "id": "g4_lichsudiali_03",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Văn Miếu – Quốc Tử Giám",
+    "type": "academic",
+    "question": "Khuê Văn Các là một công trình tiêu biểu thuộc khu di tích nào?",
+    "options": [
+      "Cố đô Huế",
+      "Phố cổ Hội An",
+      "Đền Hùng",
+      "Văn Miếu – Quốc Tử Giám"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Văn Miếu – Quốc Tử Giám ở môn Lịch sử và Địa lí lớp 4: Khuê Văn Các, nhà bia tiến sĩ và truyền thống hiếu học của dân tộc.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 4 – Đồng bằng Bắc Bộ – Văn Miếu – Quốc Tử Giám – YCCĐ: Xác định được một số công trình tiêu biểu (Khuê Văn Các, nhà bia tiến sĩ,...) trên sơ đồ khu di tích"
+  },
+  {
+    "id": "g4_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Time - Hỏi giờ",
+    "type": "academic",
+    "question": "Câu trả lời đúng cho câu hỏi \"What time is it?\" là gì?",
+    "options": [
+      "It's Monday.",
+      "It's sunny.",
+      "I'm ten years old.",
+      "It's seven o'clock."
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài hỏi và trả lời về giờ trong Tiếng Anh lớp 4: \"What time is it?\" - \"It's ... o'clock.\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 4 – Hoạt động hằng ngày – Câu hỏi có từ để hỏi – YCCĐ: Hỏi và trả lời các câu hỏi đơn giản về các chủ đề trong chương trình"
+  },
+  {
+    "id": "g4_tinhoc_01",
+    "subject": "Tin học",
+    "topic": "Soạn thảo văn bản",
+    "type": "academic",
+    "question": "Khi soạn thảo văn bản, phím nào dùng để xóa kí tự ở bên trái con trỏ?",
+    "options": [
+      "Enter",
+      "Backspace",
+      "Shift",
+      "Delete"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài soạn thảo văn bản ở môn Tin học lớp 4: phím Backspace xóa kí tự bên trái, phím Delete xóa kí tự bên phải con trỏ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 4 – Chủ đề E. Ứng dụng tin học – Tập soạn thảo văn bản – YCCĐ: Chỉnh sửa được văn bản với các thao tác chọn, xoá, sao chép, di chuyển"
+  },
+  {
+    "id": "g4_congnghe_01",
+    "subject": "Công nghệ",
+    "topic": "Trồng và chăm sóc hoa trong chậu",
+    "type": "academic",
+    "question": "Khi trồng cây hoa trong chậu, việc làm nào giúp cây phát triển tốt?",
+    "options": [
+      "Tưới thật nhiều nước liên tục mỗi giờ",
+      "Đặt chậu trong tủ kín",
+      "Tưới nước vừa đủ và đặt chậu ở nơi có ánh sáng",
+      "Không bao giờ tưới nước"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài trồng và chăm sóc hoa trong chậu ở môn Công nghệ lớp 4: tưới nước vừa đủ, đủ ánh sáng và nhổ cỏ dại.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Công nghệ – Lớp 4 – Trồng hoa và cây cảnh trong chậu – YCCĐ: Mô tả được các công việc chủ yếu để chăm sóc một số loại hoa và cây cảnh phổ biến"
+  },
+  {
+    "id": "g4_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Sinh hoạt điều độ",
+    "type": "open",
+    "question": "Bạn rủ em chơi game trên mạng đến nửa đêm. Em nên làm gì?",
+    "options": [
+      "Từ chối và đi ngủ đúng giờ để giữ sức khỏe",
+      "Chơi đến sáng cho vui",
+      "Chơi lén khi bố mẹ đã ngủ",
+      "Nghỉ học ngày mai để ngủ bù"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Con hãy nhớ ngủ đủ giấc và đúng giờ giúp con khỏe mạnh, học tốt; hãy biết từ chối khi bị rủ chơi game quá khuya.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 4 – Hoạt động hướng vào bản thân – Rèn luyện bản thân – YCCĐ: Thể hiện được nền nếp sinh hoạt"
+  },
+  {
+    "id": "g4_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Trung thực trong học tập",
+    "type": "open",
+    "question": "Trong giờ kiểm tra, bạn ngồi cạnh nhờ em cho chép bài. Em nên làm gì?",
+    "options": [
+      "Cho bạn chép hết bài",
+      "Nhắc đáp án nhỏ cho bạn",
+      "Đổi bài cho bạn",
+      "Từ chối nhẹ nhàng và khuyên bạn tự làm bài"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Con hãy nhớ trung thực trong học tập: không cho chép và không chép bài, sau giờ kiểm tra có thể giúp bạn ôn bài.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 4 – Hoạt động xây dựng nhà trường – YCCĐ: Nêu được một số vấn đề thường xảy ra trong quan hệ với bạn bè và đề xuất được cách giải quyết"
+  },
+  {
+    "id": "g4_mo_04",
+    "subject": "Câu hỏi mở",
+    "topic": "Phòng tránh bị xâm hại",
+    "type": "open",
+    "question": "Một người lạ cho em kẹo và rủ em đi theo để xem \"một thứ rất hay\". Em nên làm gì?",
+    "options": [
+      "Từ chối, đi nhanh đến chỗ đông người và kể ngay cho bố mẹ, thầy cô",
+      "Đi theo vì người đó có vẻ tốt bụng",
+      "Nhận kẹo rồi đi theo một lúc",
+      "Giữ bí mật, không kể với ai"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Con hãy nhớ: không nhận quà và không đi theo người lạ; khi thấy không an toàn hãy chạy đến chỗ đông người và báo ngay cho người lớn tin cậy.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 4 – Hoạt động hướng vào bản thân – Rèn luyện bản thân – YCCĐ: Nhận biết được nguy cơ bị xâm hại và thực hiện được những hành động để phòng tránh bị xâm hại"
+  },
+  {
+    "id": "g4_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Bổn phận của trẻ em",
+    "type": "social",
+    "question": "Việc nào sau đây là bổn phận của trẻ em đối với gia đình?",
+    "options": [
+      "Đòi bố mẹ mua mọi thứ mình thích",
+      "Kính trọng, lễ phép, hiếu thảo với ông bà, cha mẹ",
+      "Chỉ lo chơi, không phụ giúp việc nhà",
+      "Nói dối bố mẹ để được đi chơi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em hãy nhớ bổn phận của trẻ em với gia đình: kính trọng, lễ phép, hiếu thảo với ông bà, cha mẹ và phụ giúp việc nhà vừa sức.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 4 – Quyền và bổn phận của trẻ em – YCCĐ: Kể được một số quyền và bổn phận cơ bản của trẻ em; Luật Trẻ em 2016 (Luật số 102/2016/QH13), Điều 37 – Bổn phận của trẻ em đối với gia đình"
+  },
+  {
+    "id": "g4_xahoi_05",
+    "subject": "Kiến thức xã hội",
+    "topic": "Thủ đô Hà Nội",
+    "type": "social",
+    "question": "Thủ đô của nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành phố nào?",
+    "options": [
+      "Thành phố Hồ Chí Minh",
+      "Huế",
+      "Đà Nẵng",
+      "Hà Nội"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em hãy nhớ Hà Nội là Thủ đô, là trung tâm chính trị, kinh tế, văn hoá, giáo dục quan trọng của cả nước.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 4 – Đồng bằng Bắc Bộ – Thăng Long – Hà Nội – YCCĐ: Nêu được Hà Nội là trung tâm chính trị, kinh tế, văn hoá, giáo dục quan trọng của Việt Nam; Hiến pháp 2013 (sửa đổi, bổ sung năm 2025), Điều 13 khoản 5"
+  },
+  {
+    "id": "g4_xahoi_06",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quyền của trẻ em",
+    "type": "social",
+    "question": "Quyền nào sau đây là quyền của trẻ em?",
+    "options": [
+      "Quyền được giáo dục, học tập",
+      "Quyền được lái xe máy",
+      "Quyền được bỏ học để đi làm",
+      "Quyền được bầu cử đại biểu Quốc hội"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em hãy nhớ trẻ em có quyền được học tập, được chăm sóc sức khoẻ, được vui chơi; em cũng cần thực hiện tốt bổn phận của mình.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 4 – Quyền và bổn phận của trẻ em – YCCĐ: Kể được một số quyền và bổn phận cơ bản của trẻ em; Luật Trẻ em 2016 (Luật số 102/2016/QH13), Chương II – Quyền của trẻ em (quyền được giáo dục, học tập)"
+  }
+]

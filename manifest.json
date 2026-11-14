@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-14",
+  "grades": {
+    "1": {
+      "file": "grade_1.json",
+      "sha256": "5e79c32e35647a0d15252d52b8a120fba4b706b179c7091273ebc161042d684f",
+      "count": 24
+    },
+    "2": {
+      "file": "grade_2.json",
+      "sha256": "4e91f88310117d60e4db11e241d5f5c6863df119921543533c072a0167dfba44",
+      "count": 24
+    },
+    "3": {
+      "file": "grade_3.json",
+      "sha256": "db82328b63c84e5f411ec59764fbe487ce0d92ad6b6f60f6909cd9c6cffe7d1a",
+      "count": 24
+    },
+    "4": {
+      "file": "grade_4.json",
+      "sha256": "264ded6c2f1e19b0aec126e1bb33fb869f5b5178bbea18c72a4236ca94f3f7e4",
+      "count": 24
+    },
+    "5": {
+      "file": "grade_5.json",
+      "sha256": "e86c9d87affa5e10cef0cac22514a601443ab9c2c9dbb416795c5f6812a7ffae",
+      "count": 23
+    },
+    "6": {
+      "file": "grade_6.json",
+      "sha256": "b888d28a68bc74b4ff4e2d28a202b46d49f7a5cb4ddc571b4c13b3958fbef317",
+      "count": 23
+    },
+    "7": {
+      "file": "grade_7.json",
+      "sha256": "e8cd00f2c4255f8513930274b4ac8502af0153c617af4bfbf882d004bbc2c307",
+      "count": 20
+    },
+    "8": {
+      "file": "grade_8.json",
+      "sha256": "996fbae465acd9622efaaae3c5da6de3aae51c47baa9822fd6d09b3d95c56ff6",
+      "count": 20
+    },
+    "9": {
+      "file": "grade_9.json",
+      "sha256": "cea10bdcb4665c1bf954114dab3948f3b35810aad0508651e0215f6dc9bbe983",
+      "count": 20
+    },
+    "10": {
+      "file": "grade_10.json",
+      "sha256": "4bb7adf3ee3172b057b41c889f99b6ae75be255cc87c3fa74abe1dec2bdfd3bd",
+      "count": 21
+    },
+    "11": {
+      "file": "grade_11.json",
+      "sha256": "79fc190930ea2f95adecb427418dd806f586707c636acaea31d8d9b1820c81de",
+      "count": 22
+    },
+    "12": {
+      "file": "grade_12.json",
+      "sha256": "98644a91afcad662eb8931a12f483abd7b534457c9fdbfb3f5a66449631dd690",
+      "count": 22
+    },
+    "13": {
+      "file": "grade_13.json",
+      "sha256": "aa451967cc91c494fa1d8bf45cd68a8dc9f98cb2650a411fc18744ac76868881",
+      "count": 24
+    },
+    "14": {
+      "file": "grade_14.json",
+      "sha256": "ce8cf06001883711f5d31c99086ba656aeb39cef5752baac7343a99df7f2e0e8",
+      "count": 24
+    }
+  }
+}

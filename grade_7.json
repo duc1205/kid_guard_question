@@ -1,0 +1,322 @@
+[
+  {
+    "id": "g7_toan_01",
+    "subject": "Toán",
+    "topic": "Số hữu tỉ",
+    "type": "academic",
+    "question": "Kết quả của phép tính (-2/3) · (9/4) là bao nhiêu?",
+    "options": [
+      "3/2",
+      "-3/2",
+      "-2/3",
+      "-6/7"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại quy tắc nhân hai số hữu tỉ và rút gọn phân số trong chương Số hữu tỉ (Toán 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 7 – Số hữu tỉ – Các phép tính với số hữu tỉ – YCCĐ: Thực hiện được các phép tính cộng, trừ, nhân, chia trong tập hợp số hữu tỉ"
+  },
+  {
+    "id": "g7_toan_02",
+    "subject": "Toán",
+    "topic": "Tỉ lệ thức",
+    "type": "academic",
+    "question": "Tìm x biết x/4 = 6/8.",
+    "options": [
+      "x = 12",
+      "x = 2",
+      "x = 3",
+      "x = 4"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại tính chất của tỉ lệ thức: tích các trung tỉ bằng tích các ngoại tỉ (Toán 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 7 – Tỉ lệ thức và dãy tỉ số bằng nhau – YCCĐ: Nhận biết được tỉ lệ thức và các tính chất của tỉ lệ thức; vận dụng được tính chất của tỉ lệ thức trong giải toán"
+  },
+  {
+    "id": "g7_toan_03",
+    "subject": "Toán",
+    "topic": "Tổng các góc trong một tam giác",
+    "type": "academic",
+    "question": "Một tam giác có hai góc lần lượt bằng 50° và 60°. Góc còn lại bằng bao nhiêu?",
+    "options": [
+      "70°",
+      "80°",
+      "60°",
+      "110°"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại định lí tổng ba góc trong một tam giác bằng 180° (Toán 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 7 – Tam giác – Tổng các góc trong một tam giác – YCCĐ: Giải thích được định lí về tổng các góc trong một tam giác bằng 180°"
+  },
+  {
+    "id": "g7_nguvan_01",
+    "subject": "Ngữ văn",
+    "topic": "Tục ngữ",
+    "type": "academic",
+    "question": "Câu tục ngữ \"Ăn quả nhớ kẻ trồng cây\" khuyên chúng ta điều gì?",
+    "options": [
+      "Phải chăm chỉ trồng cây ăn quả",
+      "Nên ăn nhiều trái cây cho khỏe",
+      "Chỉ ăn quả do mình tự trồng",
+      "Biết ơn những người đã tạo ra thành quả cho mình hưởng"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Tục ngữ, chú ý cách hiểu nghĩa đen và nghĩa bóng của câu tục ngữ (Ngữ văn 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 7 – Đọc văn bản – Tục ngữ – YCCĐ: Nhận biết được một số yếu tố của tục ngữ (số lượng câu, chữ, vần); thành ngữ và tục ngữ: đặc điểm và chức năng"
+  },
+  {
+    "id": "g7_nguvan_02",
+    "subject": "Ngữ văn",
+    "topic": "Trạng ngữ",
+    "type": "academic",
+    "question": "Trạng ngữ trong câu \"Sáng nay, lớp em tổ chức lao động vệ sinh sân trường.\" là gì?",
+    "options": [
+      "lớp em",
+      "Sáng nay",
+      "tổ chức lao động",
+      "vệ sinh sân trường"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài Trạng ngữ: thành phần phụ chỉ thời gian, nơi chốn, nguyên nhân, mục đích... của sự việc (Ngữ văn 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 7 – Kiến thức tiếng Việt – Thành phần trạng ngữ – YCCĐ: Các thành phần chính và thành phần trạng ngữ trong câu: mở rộng thành phần chính và trạng ngữ bằng cụm từ"
+  },
+  {
+    "id": "g7_khtn_01",
+    "subject": "Khoa học tự nhiên",
+    "topic": "Nguyên tử",
+    "type": "academic",
+    "question": "Trong nguyên tử, loại hạt nào mang điện tích âm?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Hạt nhân"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Nguyên tử: hạt nhân gồm proton (mang điện dương) và neutron (không mang điện), lớp vỏ gồm electron (mang điện âm) (Khoa học tự nhiên 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học tự nhiên – Lớp 7 – Nguyên tử. Nguyên tố hoá học – YCCĐ: Trình bày được mô hình nguyên tử của Rutherford – Bohr (mô hình sắp xếp electron trong các lớp vỏ nguyên tử)"
+  },
+  {
+    "id": "g7_khtn_02",
+    "subject": "Khoa học tự nhiên",
+    "topic": "Tốc độ chuyển động",
+    "type": "academic",
+    "question": "Một bạn chạy được quãng đường 100 m trong 20 giây. Tốc độ của bạn đó là bao nhiêu?",
+    "options": [
+      "2000 m/s",
+      "0,2 m/s",
+      "120 m/s",
+      "5 m/s"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại công thức tính tốc độ: tốc độ bằng quãng đường chia cho thời gian, v = s/t (Khoa học tự nhiên 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học tự nhiên – Lớp 7 – Tốc độ – Tốc độ chuyển động – YCCĐ: Xác định được tốc độ qua quãng đường vật đi được trong khoảng thời gian tương ứng, tốc độ = quãng đường/thời gian"
+  },
+  {
+    "id": "g7_lsdl_01",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Nhà Lý dời đô về Thăng Long",
+    "type": "academic",
+    "question": "Năm 1010, vua Lý Công Uẩn dời đô từ Hoa Lư về đâu?",
+    "options": [
+      "Đại La",
+      "Phú Xuân",
+      "Cổ Loa",
+      "Tây Đô"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài Nhà Lý xây dựng và phát triển đất nước, sự kiện dời đô về Đại La và đổi tên thành Thăng Long (Lịch sử và Địa lí 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 7 – Phân môn Lịch sử – Việt Nam từ thế kỉ XI đến đầu thế kỉ XIII: thời Lý – YCCĐ: Trình bày được sự thành lập nhà Lý; đánh giá được sự kiện dời đô ra Đại La của Lý Công Uẩn"
+  },
+  {
+    "id": "g7_lsdl_02",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Châu Nam Cực",
+    "type": "academic",
+    "question": "Châu lục nào nằm gần như hoàn toàn trong vòng cực Nam, quanh năm băng giá và không có dân cư sinh sống thường xuyên?",
+    "options": [
+      "Châu Đại Dương",
+      "Châu Nam Cực",
+      "Châu Mỹ",
+      "Châu Phi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài Châu Nam Cực: vị trí địa lí và đặc điểm tự nhiên của châu lục lạnh nhất thế giới (Lịch sử và Địa lí 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 7 – Phân môn Địa lí – Châu Nam Cực – YCCĐ: Trình bày được đặc điểm vị trí địa lí và đặc điểm thiên nhiên nổi bật của châu Nam Cực"
+  },
+  {
+    "id": "g7_gdcd_01",
+    "subject": "Giáo dục công dân",
+    "topic": "Giữ gìn, phát huy truyền thống quê hương",
+    "type": "academic",
+    "question": "Việc làm nào sau đây thể hiện sự giữ gìn và phát huy truyền thống quê hương?",
+    "options": [
+      "Chê bai phong tục quê mình là lạc hậu",
+      "Vẽ bậy lên di tích lịch sử ở địa phương",
+      "Tham gia lễ hội truyền thống và giới thiệu nét đẹp quê mình với bạn bè",
+      "Không quan tâm đến lịch sử địa phương"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Tự hào về truyền thống quê hương và những việc làm để giữ gìn, phát huy truyền thống đó (Giáo dục công dân 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 7 – Tự hào về truyền thống quê hương – YCCĐ: Thực hiện được những việc làm phù hợp để giữ gìn, phát huy truyền thống của quê hương; phê phán việc làm trái ngược"
+  },
+  {
+    "id": "g7_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Thì quá khứ đơn",
+    "type": "academic",
+    "question": "Chọn từ đúng để hoàn thành câu: \"We ___ to Da Nang last summer.\"",
+    "options": [
+      "go",
+      "goes",
+      "gone",
+      "went"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại thì quá khứ đơn và dạng quá khứ của các động từ bất quy tắc như go – went (Tiếng Anh 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 7 – Kiến thức ngôn ngữ – Ngữ pháp – YCCĐ: Thì quá khứ đơn (củng cố và mở rộng)"
+  },
+  {
+    "id": "g7_tienganh_02",
+    "subject": "Tiếng Anh",
+    "topic": "How much / How many",
+    "type": "academic",
+    "question": "Chọn từ đúng để hoàn thành câu: \"How ___ water do you drink every day?\"",
+    "options": [
+      "much",
+      "many",
+      "long",
+      "often"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cách dùng \"How much\" với danh từ không đếm được và \"How many\" với danh từ đếm được số nhiều (Tiếng Anh 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 7 – Kiến thức ngôn ngữ – Ngữ pháp – YCCĐ: Danh từ đếm được/không đếm được; lượng từ"
+  },
+  {
+    "id": "g7_tinhoc_01",
+    "subject": "Tin học",
+    "topic": "Sử dụng hàm trong bảng tính",
+    "type": "academic",
+    "question": "Trong phần mềm bảng tính, công thức nào dùng để tính tổng các ô từ A1 đến A5?",
+    "options": [
+      "=SUM(A1-A5)",
+      "=SUM(A1:A5)",
+      "SUM(A1:A5)",
+      "=TOTAL(A1:A5)"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại cách nhập công thức (bắt đầu bằng dấu \"=\") và cách dùng hàm SUM với vùng dữ liệu viết bằng dấu \":\" (Tin học 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 7 – Chủ đề E. Ứng dụng tin học – Bảng tính điện tử cơ bản – YCCĐ: Sử dụng được một số hàm đơn giản như MAX, MIN, SUM, AVERAGE, COUNT; sử dụng được công thức và địa chỉ trong công thức"
+  },
+  {
+    "id": "g7_congnghe_01",
+    "subject": "Công nghệ",
+    "topic": "Phòng bệnh cho vật nuôi",
+    "type": "academic",
+    "question": "Biện pháp nào sau đây giúp phòng bệnh cho vật nuôi hiệu quả?",
+    "options": [
+      "Để chuồng trại ẩm ướt, ít khi dọn dẹp",
+      "Cho vật nuôi ăn thức ăn ôi thiu",
+      "Tiêm vaccine đầy đủ và giữ chuồng trại sạch sẽ",
+      "Nuôi chung vật nuôi khỏe với vật nuôi bị bệnh"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Phòng và trị bệnh cho vật nuôi, đặc biệt là vai trò của vệ sinh chuồng trại và tiêm vaccine (Công nghệ 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Công nghệ – Lớp 7 – Chăn nuôi – Nuôi dưỡng, chăm sóc và phòng, trị bệnh cho vật nuôi – YCCĐ: Trình bày được vai trò của việc nuôi dưỡng, chăm sóc và phòng, trị bệnh cho vật nuôi"
+  },
+  {
+    "id": "g7_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Tin giả trên mạng",
+    "type": "open",
+    "question": "Em thấy một bài đăng gây hoang mang trên mạng xã hội nhưng không rõ nguồn gốc. Em nên làm gì?",
+    "options": [
+      "Chia sẻ ngay cho mọi người cùng biết",
+      "Thêm bình luận bịa thêm chi tiết",
+      "Gửi cho tất cả các nhóm chat của lớp",
+      "Kiểm tra lại qua các nguồn tin chính thống và không chia sẻ khi chưa xác thực"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em hãy rèn luyện thói quen kiểm chứng thông tin từ nguồn chính thống trước khi tin và chia sẻ để tránh lan truyền tin giả.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 7 – Chủ đề D. Đạo đức, pháp luật và văn hoá trong môi trường số – Văn hoá ứng xử – YCCĐ: Nêu được cách ứng xử hợp lí khi gặp trên mạng những thông tin có nội dung xấu, không phù hợp; biết nhờ người lớn giúp đỡ khi cần"
+  },
+  {
+    "id": "g7_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Từ chối lời rủ rê",
+    "type": "open",
+    "question": "Một nhóm bạn rủ em trốn tiết học để ra quán chơi game. Em nên làm gì?",
+    "options": [
+      "Từ chối và khuyên các bạn quay lại lớp học",
+      "Đi cùng vì sợ các bạn giận",
+      "Đi chơi nhưng nhờ bạn khác điểm danh hộ",
+      "Đồng ý nhưng chỉ chơi một lúc"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em hãy rèn luyện kĩ năng từ chối những lời rủ rê không tốt và luôn ưu tiên việc học tập đúng giờ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 7 – Học tập tự giác, tích cực – YCCĐ: Thực hiện được việc học tập tự giác, tích cực; biết góp ý, nhắc nhở những bạn chưa tự giác, tích cực học tập"
+  },
+  {
+    "id": "g7_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Quan tâm, chia sẻ với bạn bè",
+    "type": "open",
+    "question": "Bạn thân của em buồn và khóc vì bị điểm kém. Cách cư xử nào phù hợp nhất?",
+    "options": [
+      "Cười chê bạn học kém",
+      "Hỏi han, động viên và rủ bạn cùng ôn bài",
+      "Kể chuyện bạn bị điểm kém cho cả lớp",
+      "Mặc kệ vì không phải việc của mình"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em hãy biết quan tâm, cảm thông và giúp đỡ bạn bè khi bạn gặp khó khăn trong học tập và cuộc sống.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 7 – Quan tâm, cảm thông và chia sẻ – YCCĐ: Thường xuyên có lời nói, việc làm thể hiện sự quan tâm, cảm thông và chia sẻ với mọi người"
+  },
+  {
+    "id": "g7_xahoi_01_v2",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quyền trẻ em",
+    "type": "social",
+    "question": "Theo Luật Trẻ em năm 2016 của Việt Nam, trẻ em là người dưới bao nhiêu tuổi?",
+    "options": [
+      "Dưới 14 tuổi",
+      "Dưới 16 tuổi",
+      "Dưới 18 tuổi",
+      "Dưới 12 tuổi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu Luật Trẻ em năm 2016: trẻ em là người dưới 16 tuổi và có các quyền được pháp luật bảo vệ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 7 – Phòng, chống bạo lực học đường – YCCĐ: Nêu được một số quy định cơ bản của pháp luật liên quan đến phòng, chống bạo lực học đường; Luật Trẻ em 2016, Điều 1"
+  },
+  {
+    "id": "g7_xahoi_02_v2",
+    "subject": "Kiến thức xã hội",
+    "topic": "Văn hoá thời Lý",
+    "type": "social",
+    "question": "Văn Miếu ở kinh thành Thăng Long được xây dựng dưới triều đại nào?",
+    "options": [
+      "Nhà Trần",
+      "Nhà Hồ",
+      "Nhà Lý",
+      "Nhà Lê sơ"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại những thành tựu văn hoá, giáo dục thời Lý như xây dựng Văn Miếu, lập Quốc Tử Giám, mở khoa thi (Lịch sử và Địa lí 7).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 7 – Phân môn Lịch sử – Việt Nam thời Lý – YCCĐ: Giới thiệu được những thành tựu văn hoá tiêu biểu thời Lý (Văn Miếu – Quốc Tử Giám, mở khoa thi,...)"
+  },
+  {
+    "id": "g7_xahoi_03_v2",
+    "subject": "Kiến thức xã hội",
+    "topic": "Tổng đài bảo vệ trẻ em",
+    "type": "social",
+    "question": "Khi em hoặc bạn bè bị bạo lực, xâm hại và cần được giúp đỡ, em có thể gọi miễn phí đến Tổng đài điện thoại quốc gia bảo vệ trẻ em số nào?",
+    "options": [
+      "113",
+      "114",
+      "115",
+      "111"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em hãy ghi nhớ số 111 – Tổng đài điện thoại quốc gia bảo vệ trẻ em, hoạt động 24/7 và miễn phí; đồng thời luôn báo cho bố mẹ, thầy cô.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 7 – Phòng, chống bạo lực học đường – YCCĐ: Biết cách ứng phó trước, trong và sau khi bị bạo lực học đường; Tổng đài điện thoại quốc gia bảo vệ trẻ em 111"
+  }
+]

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "g12_toan_01",
+    "subject": "Toán",
+    "topic": "Cực trị của hàm số",
+    "type": "academic",
+    "question": "Hàm số y = x³ − 3x đạt cực đại tại điểm nào?",
+    "options": [
+      "x = 1",
+      "x = 0",
+      "x = −1",
+      "x = 3"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại cách tìm cực trị: giải y' = 0 rồi xét dấu y' (hoặc dấu y'') tại các điểm tìm được (Toán 12, chương Ứng dụng đạo hàm để khảo sát hàm số).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 12 – Ứng dụng đạo hàm để khảo sát và vẽ đồ thị hàm số (KNTT Toán 12, Chương I) – YCCĐ: tìm được điểm cực trị của hàm số bằng xét dấu đạo hàm"
+  },
+  {
+    "id": "g12_toan_02",
+    "subject": "Toán",
+    "topic": "Nguyên hàm",
+    "type": "academic",
+    "question": "Họ nguyên hàm của hàm số f(x) = 2x là:",
+    "options": [
+      "F(x) = 2 + C",
+      "F(x) = x² + C",
+      "F(x) = 2x² + C",
+      "F(x) = x + C"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bảng nguyên hàm cơ bản, đặc biệt ∫xⁿdx = xⁿ⁺¹/(n + 1) + C (Toán 12, chương Nguyên hàm và tích phân).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 12 – Nguyên hàm và tích phân (KNTT Toán 12, Chương IV) – YCCĐ: tính được nguyên hàm của hàm số lũy thừa"
+  },
+  {
+    "id": "g12_toan_03",
+    "subject": "Toán",
+    "topic": "Tích phân",
+    "type": "academic",
+    "question": "Giá trị của tích phân ∫₀¹ 2x dx bằng:",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "1/2"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại công thức Newton – Leibniz: ∫ₐᵇ f(x)dx = F(b) − F(a) (Toán 12, chương Nguyên hàm và tích phân).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 12 – Nguyên hàm và tích phân (KNTT Toán 12, Chương IV) – YCCĐ: tính được tích phân bằng công thức Newton – Leibniz"
+  },
+  {
+    "id": "g12_toan_04",
+    "subject": "Toán",
+    "topic": "Phương trình mặt cầu trong không gian Oxyz",
+    "type": "academic",
+    "question": "Mặt cầu tâm I(1; 2; 3), bán kính R = 2 có phương trình là:",
+    "options": [
+      "(x + 1)² + (y + 2)² + (z + 3)² = 4",
+      "(x − 1)² + (y − 2)² + (z − 3)² = 2",
+      "(x + 1)² + (y + 2)² + (z + 3)² = 2",
+      "(x − 1)² + (y − 2)² + (z − 3)² = 4"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại phương trình mặt cầu (x − a)² + (y − b)² + (z − c)² = R² (Toán 12, chương Phương pháp tọa độ trong không gian).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 12 – Phương pháp toạ độ trong không gian (KNTT Toán 12, Chương V) – YCCĐ: lập được phương trình mặt cầu khi biết tâm và bán kính"
+  },
+  {
+    "id": "g12_nguvan_01",
+    "subject": "Ngữ văn",
+    "topic": "Văn bản nghị luận",
+    "type": "academic",
+    "question": "Bản \"Tuyên ngôn Độc lập\" (1945) của Chủ tịch Hồ Chí Minh thuộc thể loại nào?",
+    "options": [
+      "Truyện ngắn",
+      "Văn chính luận",
+      "Tùy bút",
+      "Kí sự"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại đặc trưng của văn chính luận qua tác phẩm \"Tuyên ngôn Độc lập\" của Hồ Chí Minh (Ngữ văn 12).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 12 – Tác gia Hồ Chí Minh (KNTT Ngữ văn 12, Bài 6 \"Hồ Chí Minh – Văn hoá phải soi đường cho quốc dân đi\": Tuyên ngôn Độc lập) – YCCĐ: nhận biết được đặc điểm văn chính luận của \"Tuyên ngôn Độc lập\" (văn bản bắt buộc)"
+  },
+  {
+    "id": "g12_vatli_01",
+    "subject": "Vật lí",
+    "topic": "Định luật Boyle",
+    "type": "academic",
+    "question": "Một lượng khí lí tưởng được giữ ở nhiệt độ không đổi. Nếu áp suất tăng lên 2 lần thì thể tích của khí:",
+    "options": [
+      "giảm 2 lần",
+      "tăng 2 lần",
+      "giảm 4 lần",
+      "không đổi"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại định luật Boyle: khi nhiệt độ không đổi, p·V = hằng số (Vật lí 12, chương Khí lí tưởng).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Vật lí – Lớp 12 – Khí lí tưởng – Định luật Boyle – YCCĐ: vận dụng được định luật Boyle: ở nhiệt độ không đổi p·V = hằng số"
+  },
+  {
+    "id": "g12_vatli_02",
+    "subject": "Vật lí",
+    "topic": "Cấu tạo hạt nhân",
+    "type": "academic",
+    "question": "Hạt nhân ²³⁵₉₂U có bao nhiêu neutron?",
+    "options": [
+      "92",
+      "235",
+      "327",
+      "143"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cấu tạo hạt nhân: số neutron N = A − Z (Vật lí 12, chương Vật lí hạt nhân).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Vật lí – Lớp 12 – Vật lí hạt nhân và phóng xạ – Cấu trúc hạt nhân – YCCĐ: xác định được số proton, số neutron của hạt nhân (N = A − Z)"
+  },
+  {
+    "id": "g12_hoahoc_01",
+    "subject": "Hóa học",
+    "topic": "Carbohydrate",
+    "type": "academic",
+    "question": "Công thức phân tử của glucose là:",
+    "options": [
+      "C₁₂H₂₂O₁₁",
+      "C₆H₁₂O₆",
+      "(C₆H₁₀O₅)ₙ",
+      "C₂H₅OH"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại công thức và tính chất của các carbohydrate: glucose, fructose, saccharose, tinh bột, cellulose (Hóa học 12).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoá học – Lớp 12 – Carbohydrate – YCCĐ: nêu được công thức phân tử của glucose (C₆H₁₂O₆)"
+  },
+  {
+    "id": "g12_hoahoc_02",
+    "subject": "Hóa học",
+    "topic": "Tính chất vật lí của kim loại",
+    "type": "academic",
+    "question": "Kim loại nào dẫn điện tốt nhất?",
+    "options": [
+      "Đồng (Cu)",
+      "Nhôm (Al)",
+      "Bạc (Ag)",
+      "Sắt (Fe)"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại tính chất vật lí chung của kim loại và thứ tự dẫn điện Ag > Cu > Au > Al > Fe (Hóa học 12).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoá học – Lớp 12 – Đại cương về kim loại – tính chất vật lí – YCCĐ: trình bày được tính chất vật lí chung của kim loại (bạc dẫn điện tốt nhất)"
+  },
+  {
+    "id": "g12_sinhhoc_01",
+    "subject": "Sinh học",
+    "topic": "Quy luật phân li của Mendel",
+    "type": "academic",
+    "question": "Phép lai Aa × Aa cho đời con có tỉ lệ kiểu gen là:",
+    "options": [
+      "1 AA : 2 Aa : 1 aa",
+      "3 AA : 1 aa",
+      "1 AA : 1 aa",
+      "1 Aa : 1 aa"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại quy luật phân li của Mendel và cách lập sơ đồ lai một cặp tính trạng (Sinh học 12, phần Di truyền học).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Sinh học – Lớp 12 – Di truyền học – Quy luật di truyền Mendel – YCCĐ: giải thích được quy luật phân li; xác định được tỉ lệ kiểu gen của phép lai Aa × Aa"
+  },
+  {
+    "id": "g12_lichsu_01",
+    "subject": "Lịch sử",
+    "topic": "Công cuộc Đổi mới",
+    "type": "academic",
+    "question": "Đường lối Đổi mới đất nước được Đảng Cộng sản Việt Nam đề ra tại Đại hội đại biểu toàn quốc lần thứ mấy (năm 1986)?",
+    "options": [
+      "Lần thứ IV",
+      "Lần thứ V",
+      "Lần thứ VII",
+      "Lần thứ VI"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài công cuộc Đổi mới ở Việt Nam từ năm 1986 (Lịch sử 12).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử – Lớp 12 – Công cuộc Đổi mới ở Việt Nam từ năm 1986 đến nay – YCCĐ: nêu được bối cảnh và đường lối Đổi mới đề ra tại Đại hội VI (1986)"
+  },
+  {
+    "id": "g12_diali_01",
+    "subject": "Địa lí",
+    "topic": "Thiên nhiên nhiệt đới ẩm gió mùa",
+    "type": "academic",
+    "question": "Khí hậu Việt Nam mang tính chất cơ bản nào?",
+    "options": [
+      "Ôn đới lục địa",
+      "Nhiệt đới ẩm gió mùa",
+      "Cận nhiệt khô hạn",
+      "Xích đạo khô"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài thiên nhiên nhiệt đới ẩm gió mùa và các nhân tố hình thành khí hậu Việt Nam (Địa lí 12).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Địa lí – Lớp 12 – Địa lí tự nhiên – Thiên nhiên nhiệt đới ẩm gió mùa – YCCĐ: chứng minh được tính chất nhiệt đới ẩm gió mùa của khí hậu Việt Nam (nội dung không thuộc phần vùng kinh tế – xã hội sửa đổi theo TT 17/2025)"
+  },
+  {
+    "id": "g12_gdktpl_01",
+    "subject": "Giáo dục kinh tế và pháp luật",
+    "topic": "Tăng trưởng và phát triển kinh tế",
+    "type": "academic",
+    "question": "Chỉ tiêu nào thường được dùng để đo lường tăng trưởng kinh tế của một quốc gia?",
+    "options": [
+      "Tổng sản phẩm quốc nội (GDP)",
+      "Chỉ số giá tiêu dùng (CPI)",
+      "Tỉ lệ thất nghiệp",
+      "Tỉ lệ biết chữ"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại các chỉ tiêu đo lường tăng trưởng kinh tế như GDP, GNI và phân biệt tăng trưởng với phát triển kinh tế (Giáo dục kinh tế và pháp luật 12).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 12 – Tăng trưởng và phát triển kinh tế – YCCĐ: nêu được các chỉ tiêu đo lường tăng trưởng kinh tế (GDP, GNI)"
+  },
+  {
+    "id": "g12_nguvan_03",
+    "subject": "Ngữ văn",
+    "topic": "Thơ hiện đại Việt Nam",
+    "type": "academic",
+    "question": "Bài thơ \"Tây Tiến\" là sáng tác của nhà thơ nào?",
+    "options": [
+      "Chính Hữu",
+      "Tố Hữu",
+      "Thanh Thảo",
+      "Quang Dũng"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài thơ \"Tây Tiến\" của Quang Dũng trong bài học \"Những thế giới thơ\" (Ngữ văn 12).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 12 – Đọc văn bản văn học – Thơ (KNTT Ngữ văn 12, Bài 2 \"Những thế giới thơ\": Tây Tiến) – YCCĐ: nhận biết và phân tích được tác giả, hình tượng và giá trị của bài thơ trữ tình hiện đại"
+  },
+  {
+    "id": "g12_tienganh_03",
+    "subject": "Tiếng Anh",
+    "topic": "Câu nhờ bảo (Causative)",
+    "type": "academic",
+    "question": "Choose the correct answer: \"I had my car ___ at the garage yesterday.\"",
+    "options": [
+      "washed",
+      "wash",
+      "washing",
+      "to wash"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cấu trúc nhờ bảo: have/get + something + V3/V-ed (have something done).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 12 – Kiến thức ngôn ngữ – Ngữ pháp: câu nhờ bảo (KNTT Tiếng Anh 12 Global Success, Unit 6) – YCCĐ: sử dụng đúng cấu trúc have/get something done"
+  },
+  {
+    "id": "g12_tienganh_04",
+    "subject": "Tiếng Anh",
+    "topic": "So sánh kép (Double comparatives)",
+    "type": "academic",
+    "question": "Choose the correct answer: \"The more you practise speaking English, ___ you become.\"",
+    "options": [
+      "more confident",
+      "the most confident",
+      "the more confident",
+      "most confident"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại cấu trúc so sánh kép: The + so sánh hơn + S + V, the + so sánh hơn + S + V.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 12 – Kiến thức ngôn ngữ – Ngữ pháp: so sánh kép (KNTT Tiếng Anh 12 Global Success, Unit 4) – YCCĐ: sử dụng đúng cấu trúc so sánh kép the more … the more …"
+  },
+  {
+    "id": "g12_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Chọn ngành nghề",
+    "type": "open",
+    "question": "Khi chọn ngành học đại học hoặc nghề nghiệp, em nên dựa vào yếu tố nào là hợp lí nhất?",
+    "options": [
+      "Chỉ chọn ngành đang \"hot\" dù không hợp với mình",
+      "Chọn theo đông đảo bạn bè",
+      "Kết hợp năng lực, sở thích của bản thân và nhu cầu xã hội",
+      "Chọn ngành có điểm chuẩn thấp nhất để chắc đỗ"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên tìm hiểu về định hướng nghề nghiệp: cân nhắc năng lực, sở thích, giá trị bản thân và nhu cầu thị trường lao động.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 12 – Hoạt động hướng nghiệp – lựa chọn nghề nghiệp – YCCĐ: lựa chọn được ngành nghề dựa trên năng lực, sở thích của bản thân và nhu cầu xã hội"
+  },
+  {
+    "id": "g12_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Lừa đảo việc làm trực tuyến",
+    "type": "open",
+    "question": "Em thấy một quảng cáo tuyển cộng tác viên online \"việc nhẹ lương cao\" nhưng yêu cầu chuyển tiền đặt cọc trước. Em nên làm gì?",
+    "options": [
+      "Chuyển tiền ngay để giữ chỗ",
+      "Không chuyển tiền, cảnh giác vì đây là dấu hiệu lừa đảo và báo cho người thân",
+      "Vay tiền bạn bè để đặt cọc",
+      "Cung cấp số tài khoản ngân hàng và mật khẩu để nhận lương"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu các dấu hiệu lừa đảo việc làm trực tuyến: yêu cầu đặt cọc, nạp tiền, hứa hẹn thu nhập cao bất thường.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 12 – Hoạt động hướng nghiệp – tìm hiểu thị trường lao động – YCCĐ: nhận diện được các dấu hiệu lừa đảo trong tuyển dụng, việc làm và biết cách phòng tránh"
+  },
+  {
+    "id": "g12_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Chuẩn bị cho kì thi",
+    "type": "open",
+    "question": "Kì thi tốt nghiệp THPT đang đến gần. Cách chuẩn bị nào hợp lí nhất?",
+    "options": [
+      "Thức trắng nhiều đêm liền để học",
+      "Bỏ bữa để có thêm thời gian ôn bài",
+      "Chỉ học tủ một vài chủ đề",
+      "Lập kế hoạch ôn tập cụ thể, ngủ đủ giấc và ăn uống điều độ"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên tìm hiểu cách lập kế hoạch ôn thi khoa học, kết hợp học tập với nghỉ ngơi và chăm sóc sức khỏe.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 12 – Hoạt động hướng vào bản thân – rèn luyện bản thân – YCCĐ: lập được kế hoạch học tập, rèn luyện và chăm sóc sức khoẻ hợp lí"
+  },
+  {
+    "id": "g12_xahoi_01",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quyền công dân",
+    "type": "social",
+    "question": "Theo Hiến pháp Việt Nam, công dân đủ bao nhiêu tuổi trở lên có quyền bầu cử?",
+    "options": [
+      "16 tuổi",
+      "18 tuổi",
+      "20 tuổi",
+      "21 tuổi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu quyền bầu cử và ứng cử của công dân: đủ 18 tuổi được bầu cử, đủ 21 tuổi được ứng cử đại biểu Quốc hội, Hội đồng nhân dân.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 10 – Hiến pháp nước CHXHCN Việt Nam – quyền và nghĩa vụ cơ bản của công dân – YCCĐ: nêu được quyền bầu cử, ứng cử của công dân; Hiến pháp 2013, Điều 27 (không bị sửa đổi bởi Nghị quyết 203/2025/QH15)"
+  },
+  {
+    "id": "g12_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Hội nhập kinh tế quốc tế",
+    "type": "social",
+    "question": "Việt Nam chính thức trở thành thành viên của Tổ chức Thương mại Thế giới (WTO) vào năm nào?",
+    "options": [
+      "1995",
+      "2000",
+      "2007",
+      "2015"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên tìm hiểu thêm về quá trình hội nhập kinh tế quốc tế của Việt Nam, trong đó có việc gia nhập WTO năm 2007.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 12 – Hội nhập kinh tế quốc tế – YCCĐ: nêu được các hình thức và quá trình hội nhập kinh tế quốc tế của Việt Nam (thành viên WTO từ năm 2007)"
+  },
+  {
+    "id": "g12_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Nghĩa vụ nộp thuế",
+    "type": "social",
+    "question": "Theo Hiến pháp năm 2013 (Điều 47), nộp thuế theo luật định là nghĩa vụ của ai?",
+    "options": [
+      "Chỉ của doanh nghiệp nhà nước",
+      "Chỉ của người nước ngoài",
+      "Chỉ của cán bộ, công chức",
+      "Mọi người"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên tìm hiểu Điều 47 Hiến pháp năm 2013: \"Mọi người có nghĩa vụ nộp thuế theo luật định\" và bài ngân sách nhà nước, thuế (Giáo dục kinh tế và pháp luật).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 10 – Ngân sách nhà nước và thuế (chủ đề sửa đổi theo TT 17/2025) – YCCĐ: nêu được trách nhiệm của công dân trong việc thực hiện pháp luật về thuế; Hiến pháp 2013, Điều 47 (không bị sửa đổi bởi Nghị quyết 203/2025/QH15)"
+  }
+]

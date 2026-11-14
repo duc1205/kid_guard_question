@@ -1,0 +1,370 @@
+[
+  {
+    "id": "g5_toan_01",
+    "subject": "Toán",
+    "topic": "Cộng số thập phân",
+    "type": "academic",
+    "question": "Kết quả của phép tính 3,45 + 2,7 là bao nhiêu?",
+    "options": [
+      "6,15",
+      "5,52",
+      "6,52",
+      "3,72"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cách cộng hai số thập phân: viết các chữ số cùng hàng thẳng cột và dấu phẩy thẳng hàng (Toán 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 5 – Số thập phân – Các phép tính với số thập phân – YCCĐ: Thực hiện được phép cộng, phép trừ hai số thập phân"
+  },
+  {
+    "id": "g5_toan_02",
+    "subject": "Toán",
+    "topic": "Tỉ số phần trăm",
+    "type": "academic",
+    "question": "25% của 80 là bao nhiêu?",
+    "options": [
+      "32",
+      "20",
+      "25",
+      "40"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại cách tìm giá trị phần trăm của một số: lấy số đó nhân với số phần trăm rồi chia cho 100 (Toán 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 5 – Tỉ số. Tỉ số phần trăm – YCCĐ: Giải quyết được bài toán tìm giá trị phần trăm của một số cho trước"
+  },
+  {
+    "id": "g5_toan_03",
+    "subject": "Toán",
+    "topic": "Diện tích hình tam giác",
+    "type": "academic",
+    "question": "Một hình tam giác có độ dài đáy 8 cm và chiều cao 5 cm. Diện tích hình tam giác đó là bao nhiêu?",
+    "options": [
+      "40 cm²",
+      "13 cm²",
+      "20 cm²",
+      "26 cm²"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại công thức tính diện tích hình tam giác: lấy độ dài đáy nhân với chiều cao rồi chia cho 2 (Toán 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 5 – Đo lường – Tính toán với các số đo đại lượng – YCCĐ: Tính được diện tích hình tam giác, hình thang"
+  },
+  {
+    "id": "g5_toan_04",
+    "subject": "Toán",
+    "topic": "Số đo thời gian",
+    "type": "academic",
+    "question": "2,5 giờ bằng bao nhiêu phút?",
+    "options": [
+      "125 phút",
+      "250 phút",
+      "25 phút",
+      "150 phút"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cách đổi đơn vị đo thời gian: 1 giờ = 60 phút, nên lấy số giờ nhân với 60 (Toán 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 5 – Đo lường – Tính toán với các số đo đại lượng – YCCĐ: Thực hiện được việc chuyển đổi và tính toán với số đo thời gian"
+  },
+  {
+    "id": "g5_toan_05",
+    "subject": "Toán",
+    "topic": "Chuyển động đều",
+    "type": "academic",
+    "question": "Một ô tô đi được quãng đường 120 km trong 2 giờ. Vận tốc của ô tô là bao nhiêu?",
+    "options": [
+      "240 km/giờ",
+      "60 km/giờ",
+      "122 km/giờ",
+      "118 km/giờ"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài chuyển động đều ở môn Toán lớp 5: vận tốc = quãng đường : thời gian.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 5 – Đo lường – Chuyển động đều – YCCĐ: Giải quyết được bài toán liên quan đến chuyển động đều (tìm vận tốc, quãng đường, thời gian)"
+  },
+  {
+    "id": "g5_tiengviet_01",
+    "subject": "Tiếng Việt",
+    "topic": "Từ đồng nghĩa",
+    "type": "academic",
+    "question": "Từ nào sau đây đồng nghĩa với từ \"siêng năng\"?",
+    "options": [
+      "lười biếng",
+      "chăm chỉ",
+      "thông minh",
+      "nhanh nhẹn"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài Từ đồng nghĩa: đó là những từ có nghĩa giống nhau hoặc gần giống nhau (Tiếng Việt 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 5 – Kiến thức tiếng Việt – Từ vựng – YCCĐ: Từ đồng nghĩa: đặc điểm và tác dụng"
+  },
+  {
+    "id": "g5_tiengviet_04",
+    "subject": "Tiếng Việt",
+    "topic": "Đại từ",
+    "type": "academic",
+    "question": "Từ nào sau đây là đại từ xưng hô?",
+    "options": [
+      "học sinh",
+      "xinh đẹp",
+      "chạy nhảy",
+      "chúng tôi"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Đại từ ở môn Tiếng Việt lớp 5: đại từ xưng hô dùng để tự xưng hoặc gọi người khác như tôi, chúng tôi, bạn, họ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 5 – Kiến thức tiếng Việt – Từ loại – YCCĐ: Đại từ và kết từ: đặc điểm và chức năng"
+  },
+  {
+    "id": "g5_tiengviet_03",
+    "subject": "Tiếng Việt",
+    "topic": "Câu ghép",
+    "type": "academic",
+    "question": "Câu nào sau đây là câu ghép?",
+    "options": [
+      "Sáng nay, em đi học sớm.",
+      "Những bông hoa trong vườn nở rộ.",
+      "Mặt trời mọc, sương tan dần.",
+      "Chú mèo nhà em rất lười."
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Câu ghép: câu ghép do nhiều vế câu ghép lại, mỗi vế có đủ chủ ngữ và vị ngữ (Tiếng Việt 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 5 – Kiến thức tiếng Việt – Câu – YCCĐ: Câu đơn và câu ghép: đặc điểm và chức năng"
+  },
+  {
+    "id": "g5_khoahoc_01",
+    "subject": "Khoa học",
+    "topic": "Hỗn hợp và dung dịch",
+    "type": "academic",
+    "question": "Hỗn hợp nào sau đây là dung dịch?",
+    "options": [
+      "Nước và cát",
+      "Dầu ăn và nước",
+      "Gạo lẫn sạn",
+      "Nước muối"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Hỗn hợp và dung dịch: dung dịch được tạo thành khi một chất hòa tan đều vào chất lỏng (Khoa học 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học – Lớp 5 – Chất – Hỗn hợp và dung dịch – YCCĐ: Phân biệt được hỗn hợp và dung dịch từ các ví dụ đã cho"
+  },
+  {
+    "id": "g5_khoahoc_02",
+    "subject": "Khoa học",
+    "topic": "Năng lượng",
+    "type": "academic",
+    "question": "Nguồn năng lượng nào sau đây là năng lượng sạch, gần như không gây ô nhiễm môi trường?",
+    "options": [
+      "Than đá",
+      "Xăng dầu",
+      "Năng lượng mặt trời",
+      "Củi đốt"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài về các nguồn năng lượng và năng lượng sạch như năng lượng mặt trời, gió, nước chảy (Khoa học 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học – Lớp 5 – Năng lượng – Năng lượng mặt trời, gió và nước chảy – YCCĐ: Kể được tên một số phương tiện, máy móc, hoạt động sử dụng năng lượng mặt trời, gió và nước chảy"
+  },
+  {
+    "id": "g5_khoahoc_03",
+    "subject": "Khoa học",
+    "topic": "Vật dẫn điện và vật cách điện",
+    "type": "academic",
+    "question": "Vật nào sau đây dẫn điện tốt?",
+    "options": [
+      "Dây đồng",
+      "Thước nhựa",
+      "Cục tẩy",
+      "Mảnh gỗ khô"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài năng lượng điện ở môn Khoa học lớp 5: kim loại như đồng, nhôm dẫn điện tốt; nhựa, cao su, gỗ khô là vật cách điện.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học – Lớp 5 – Năng lượng – Năng lượng điện – YCCĐ: Giải thích được lí do sử dụng vật dẫn điện, vật cách điện trong một số đồ vật, tình huống thường gặp"
+  },
+  {
+    "id": "g5_lsdl_01",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Chiến thắng Điện Biên Phủ",
+    "type": "academic",
+    "question": "Chiến thắng Điện Biên Phủ \"lừng lẫy năm châu, chấn động địa cầu\" diễn ra vào năm nào?",
+    "options": [
+      "1945",
+      "1954",
+      "1975",
+      "1930"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài Chiến dịch Điện Biên Phủ năm 1954 trong phần Lịch sử (Lịch sử và Địa lí 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 5 – Xây dựng và bảo vệ đất nước – Chiến dịch Điện Biên Phủ năm 1954 – YCCĐ: Kể lại được diễn biến chính của chiến dịch Điện Biên Phủ năm 1954"
+  },
+  {
+    "id": "g5_lsdl_02",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Địa hình Việt Nam",
+    "type": "academic",
+    "question": "Dãy núi nào cao nhất Việt Nam, có đỉnh Phan-xi-păng?",
+    "options": [
+      "Hoàng Liên Sơn",
+      "Trường Sơn",
+      "Bạch Mã",
+      "Ngân Sơn"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài về địa hình Việt Nam, đặc biệt là dãy Hoàng Liên Sơn với đỉnh Phan-xi-păng (Lịch sử và Địa lí 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 5 – Đất nước và con người Việt Nam – Thiên nhiên Việt Nam – YCCĐ: Trình bày được một số đặc điểm của một trong những thành phần của thiên nhiên Việt Nam (địa hình,...)"
+  },
+  {
+    "id": "g5_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Thì quá khứ đơn",
+    "type": "academic",
+    "question": "Chọn từ đúng để hoàn thành câu: \"What ___ you do yesterday?\"",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "doing"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại cách đặt câu hỏi ở thì quá khứ đơn với trợ động từ \"did\" (Tiếng Anh 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 5 – Ngữ pháp – YCCĐ: Thì quá khứ đơn (củng cố và mở rộng)"
+  },
+  {
+    "id": "g5_tinhoc_01",
+    "subject": "Tin học",
+    "topic": "Cấu trúc lặp trong Scratch",
+    "type": "academic",
+    "question": "Trong Scratch, để nhân vật lặp lại một hành động mãi mãi, em dùng khối lệnh nào?",
+    "options": [
+      "lặp lại 10 lần",
+      "liên tục (forever)",
+      "nếu ... thì",
+      "đợi 1 giây"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài về cấu trúc lặp trong Scratch, phân biệt khối \"lặp lại\" và khối \"liên tục\" (Tin học 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 5 – Chủ đề F. Giải quyết vấn đề với sự trợ giúp của máy tính – YCCĐ: Nêu được ví dụ và sử dụng được các cấu trúc tuần tự, lặp, rẽ nhánh trong chương trình đơn giản"
+  },
+  {
+    "id": "g5_congnghe_01",
+    "subject": "Công nghệ",
+    "topic": "Sử dụng điện thoại – Số điện thoại khẩn cấp",
+    "type": "academic",
+    "question": "Khi phát hiện đám cháy, em cần gọi số điện thoại khẩn cấp nào?",
+    "options": [
+      "113",
+      "114",
+      "115",
+      "1080"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài sử dụng điện thoại ở môn Công nghệ lớp 5: 113 là Công an, 114 là Cứu hỏa và cứu nạn, cứu hộ, 115 là Cấp cứu y tế.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Công nghệ – Lớp 5 – Công nghệ và đời sống – Sử dụng điện thoại – YCCĐ: Ghi nhớ, thực hiện được cuộc gọi tới các số điện thoại của người thân và các số điện thoại khẩn cấp khi cần thiết"
+  },
+  {
+    "id": "g5_daoduc_01",
+    "subject": "Đạo đức",
+    "topic": "Biết ơn người có công với quê hương, đất nước",
+    "type": "academic",
+    "question": "Việc làm nào thể hiện lòng biết ơn những người có công với quê hương, đất nước?",
+    "options": [
+      "Vẽ bậy lên tượng đài",
+      "Chạy nhảy, nô đùa ở nghĩa trang liệt sĩ",
+      "Không quan tâm đến các ngày lễ kỉ niệm",
+      "Tham gia dọn dẹp, chăm sóc nghĩa trang liệt sĩ"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Biết ơn những người có công với quê hương, đất nước (Đạo đức 5).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 5 – Biết ơn những người có công với quê hương, đất nước – YCCĐ: Thể hiện được lòng biết ơn bằng lời nói, việc làm cụ thể phù hợp với lứa tuổi"
+  },
+  {
+    "id": "g5_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "An toàn trên mạng",
+    "type": "open",
+    "question": "Một người lạ làm quen với em trên mạng và xin địa chỉ nhà, ảnh của em. Em nên làm gì?",
+    "options": [
+      "Gửi ngay vì người đó rất thân thiện",
+      "Không cung cấp thông tin và kể cho bố mẹ biết",
+      "Chỉ gửi ảnh, không gửi địa chỉ",
+      "Hẹn gặp người đó để làm quen"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em hãy nhớ quy tắc an toàn trên mạng: không chia sẻ thông tin cá nhân với người lạ và luôn báo cho bố mẹ, thầy cô khi gặp điều bất thường.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 5 – Hoạt động hướng vào bản thân – Rèn luyện bản thân – YCCĐ: Biết tự chủ và đảm bảo an toàn khi giao tiếp trên mạng"
+  },
+  {
+    "id": "g5_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Trung thực",
+    "type": "open",
+    "question": "Trên đường đi học, em nhặt được một chiếc ví có tiền. Em nên làm gì?",
+    "options": [
+      "Giữ lại tiền và vứt chiếc ví đi",
+      "Chia tiền cho các bạn cùng tiêu",
+      "Nhờ thầy cô, bố mẹ hoặc chú công an giúp trả lại cho người mất",
+      "Để lại chỗ cũ, coi như không thấy"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em hãy ghi nhớ đức tính trung thực: nhặt được của rơi thì tìm cách trả lại cho người mất.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 5 – Bảo vệ cái đúng, cái tốt (kế thừa Lớp 4 – Tôn trọng tài sản của người khác) – YCCĐ: Mạnh dạn bảo vệ cái đúng, cái tốt; tôn trọng tài sản của người khác"
+  },
+  {
+    "id": "g5_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Phòng chống bắt nạt",
+    "type": "open",
+    "question": "Em thấy một bạn trong lớp thường xuyên bị các bạn khác bắt nạt. Em nên làm gì?",
+    "options": [
+      "Báo cho thầy cô hoặc người lớn để giúp đỡ bạn",
+      "Đứng xem cho vui",
+      "Cùng tham gia trêu chọc bạn",
+      "Quay video rồi đăng lên mạng"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em hãy nhớ: khi thấy bạn bị bắt nạt, cần báo ngay cho thầy cô hoặc người lớn tin cậy để bảo vệ bạn.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 5 – Bảo vệ cái đúng, cái tốt; Tôn trọng sự khác biệt của người khác – YCCĐ: Biết một số cách đơn giản để bảo vệ cái đúng, cái tốt; không đồng tình với hành vi phân biệt đối xử"
+  },
+  {
+    "id": "g5_xahoi_01",
+    "subject": "Kiến thức xã hội",
+    "topic": "Ngày lễ của đất nước",
+    "type": "social",
+    "question": "Ngày Quốc khánh của nước Cộng hòa xã hội chủ nghĩa Việt Nam là ngày nào?",
+    "options": [
+      "30 tháng 4",
+      "1 tháng 5",
+      "19 tháng 8",
+      "2 tháng 9"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên tìm hiểu lại: ngày 2/9/1945, Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 5 – Cách mạng tháng Tám năm 1945 – YCCĐ: Kể lại được câu chuyện về Hồ Chí Minh khi viết và đọc Tuyên ngôn Độc lập"
+  },
+  {
+    "id": "g5_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Địa lí thế giới",
+    "type": "social",
+    "question": "Đỉnh núi cao nhất thế giới là đỉnh nào?",
+    "options": [
+      "Phan-xi-păng",
+      "Phú Sĩ",
+      "Everest",
+      "Kilimanjaro"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên tìm hiểu thêm về đỉnh Everest thuộc dãy Himalaya, đỉnh núi cao nhất thế giới.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 5 – Tìm hiểu thế giới – Các châu lục và đại dương – YCCĐ: Xác định được vị trí của các châu lục, một số dãy núi, cao nguyên, đồng bằng lớn trên thế giới"
+  },
+  {
+    "id": "g5_xahoi_03",
+    "subject": "Kiến thức xã hội",
+    "topic": "Các đại dương",
+    "type": "social",
+    "question": "Đại dương nào lớn nhất thế giới?",
+    "options": [
+      "Thái Bình Dương",
+      "Đại Tây Dương",
+      "Ấn Độ Dương",
+      "Bắc Băng Dương"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên tìm hiểu lại về các đại dương trên Trái Đất; Thái Bình Dương là đại dương lớn nhất.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 5 – Tìm hiểu thế giới – Các châu lục và đại dương – YCCĐ: Kể được tên các đại dương; so sánh được diện tích, độ sâu của các đại dương"
+  }
+]

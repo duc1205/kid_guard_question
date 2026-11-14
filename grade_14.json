@@ -1,0 +1,386 @@
+[
+  {
+    "id": "sdh_ppnc_01",
+    "subject": "Phương pháp nghiên cứu khoa học",
+    "topic": "Biến nghiên cứu",
+    "type": "academic",
+    "question": "Trong một nghiên cứu thực nghiệm về ảnh hưởng của phương pháp giảng dạy đến kết quả học tập của sinh viên, \"kết quả học tập\" là loại biến nào?",
+    "options": [
+      "Biến độc lập",
+      "Biến phụ thuộc",
+      "Biến kiểm soát",
+      "Biến trung gian"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại cách phân loại biến: biến độc lập là yếu tố được tác động/thay đổi (phương pháp giảng dạy), còn biến phụ thuộc là kết quả được đo lường chịu ảnh hưởng của biến độc lập.",
+    "source": "J. W. Creswell & J. D. Creswell, Research Design (SAGE) – Phương pháp nghiên cứu – Biến độc lập (nguyên nhân) và biến phụ thuộc (kết quả)"
+  },
+  {
+    "id": "sdh_ppnc_03",
+    "subject": "Phương pháp nghiên cứu khoa học",
+    "topic": "Đánh giá thang đo",
+    "type": "academic",
+    "question": "Hệ số Cronbach's alpha thường được dùng để đánh giá điều gì?",
+    "options": [
+      "Độ tin cậy (tính nhất quán nội tại) của thang đo",
+      "Mức ý nghĩa thống kê của mô hình hồi quy",
+      "Cỡ mẫu tối thiểu cần thiết",
+      "Mức độ phân phối chuẩn của dữ liệu"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại phần đánh giá thang đo: Cronbach's alpha đo độ tin cậy nhất quán nội tại giữa các biến quan sát trong cùng một thang đo, khác với độ giá trị (validity).",
+    "source": "L. J. Cronbach (1951), Coefficient alpha and the internal structure of tests, Psychometrika 16(3) – Phương pháp nghiên cứu – Hệ số alpha đo độ tin cậy nhất quán nội tại của thang đo"
+  },
+  {
+    "id": "sdh_thongke_01",
+    "subject": "Thống kê ứng dụng",
+    "topic": "Sai lầm loại I và loại II",
+    "type": "academic",
+    "question": "Trong kiểm định giả thuyết thống kê, sai lầm loại I là gì?",
+    "options": [
+      "Không bác bỏ H0 khi H0 sai",
+      "Bác bỏ H0 khi H0 sai",
+      "Không bác bỏ H0 khi H0 đúng",
+      "Bác bỏ H0 khi H0 đúng"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại khái niệm sai lầm trong kiểm định: sai lầm loại I là bác bỏ H0 khi H0 đúng (xác suất tối đa là α), sai lầm loại II là không bác bỏ H0 khi H0 sai (xác suất là β).",
+    "source": "D. C. Montgomery & G. C. Runger, Applied Statistics and Probability for Engineers (Wiley) – Kiểm định giả thuyết – Sai lầm loại I: bác bỏ H0 khi H0 đúng"
+  },
+  {
+    "id": "sdh_thongke_02",
+    "subject": "Thống kê ứng dụng",
+    "topic": "Giá trị p (p-value)",
+    "type": "academic",
+    "question": "Một kiểm định cho kết quả p-value = 0,03 với mức ý nghĩa α = 0,05. Kết luận nào sau đây đúng?",
+    "options": [
+      "Không bác bỏ H0",
+      "Xác suất để H0 đúng là 3%",
+      "Giả thuyết H1 chắc chắn đúng",
+      "Bác bỏ H0 ở mức ý nghĩa 5%"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại cách diễn giải p-value: khi p-value < α thì bác bỏ H0. p-value không phải là xác suất H0 đúng và cũng không chứng minh chắc chắn H1.",
+    "source": "American Statistical Association (2016), ASA Statement on Statistical Significance and P-Values – Nguyên tắc 2: p-value không phải xác suất H0 đúng; quy tắc bác bỏ H0 khi p ≤ α"
+  },
+  {
+    "id": "sdh_thongke_03",
+    "subject": "Thống kê ứng dụng",
+    "topic": "Hồi quy tuyến tính",
+    "type": "academic",
+    "question": "Trong mô hình hồi quy tuyến tính, hệ số xác định R² = 0,64 có ý nghĩa là gì?",
+    "options": [
+      "64% sự biến thiên của biến phụ thuộc được giải thích bởi mô hình",
+      "Hệ số tương quan giữa hai biến là 0,64",
+      "Mô hình dự báo đúng 64% số quan sát",
+      "Có 64% khả năng mô hình là đúng"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại ý nghĩa của R²: đây là tỷ lệ phần biến thiên của biến phụ thuộc được giải thích bởi các biến độc lập trong mô hình (trong hồi quy đơn, R² bằng bình phương hệ số tương quan, nên r = 0,8).",
+    "source": "D. C. Montgomery & G. C. Runger, Applied Statistics and Probability for Engineers (Wiley) – Hồi quy tuyến tính – Hệ số xác định R²: tỷ lệ biến thiên của biến phụ thuộc được mô hình giải thích"
+  },
+  {
+    "id": "sdh_triet_01",
+    "subject": "Triết học",
+    "topic": "Quan hệ giữa vật chất và ý thức",
+    "type": "academic",
+    "question": "Theo chủ nghĩa duy vật biện chứng, mối quan hệ giữa vật chất và ý thức là gì?",
+    "options": [
+      "Ý thức quyết định vật chất",
+      "Vật chất và ý thức tồn tại song song, độc lập với nhau",
+      "Vật chất quyết định ý thức; ý thức có tính độc lập tương đối và tác động trở lại vật chất",
+      "Vật chất quyết định ý thức một cách tuyệt đối, ý thức không có vai trò gì"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại vấn đề cơ bản của triết học theo quan điểm duy vật biện chứng: vật chất có trước và quyết định ý thức, nhưng ý thức có tính độc lập tương đối và tác động trở lại vật chất thông qua hoạt động thực tiễn.",
+    "source": "Thông tư 08/2013/TT-BGDĐT – Chương trình môn Triết học (khối không chuyên ngành Triết học, trình độ thạc sĩ, tiến sĩ) – Chủ nghĩa duy vật biện chứng – Quan hệ biện chứng giữa vật chất và ý thức"
+  },
+  {
+    "id": "sdh_triet_03",
+    "subject": "Triết học",
+    "topic": "Thực tiễn và chân lý",
+    "type": "academic",
+    "question": "Theo triết học Mác – Lênin, tiêu chuẩn khách quan để kiểm tra chân lý là gì?",
+    "options": [
+      "Ý kiến của số đông",
+      "Thực tiễn",
+      "Sự rõ ràng, hiển nhiên của tư duy",
+      "Uy tín của nhà khoa học"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại mối quan hệ giữa thực tiễn và nhận thức: thực tiễn là cơ sở, động lực, mục đích của nhận thức và là tiêu chuẩn của chân lý (học phần Triết học).",
+    "source": "Thông tư 08/2013/TT-BGDĐT – Chương trình môn Triết học (khối không chuyên ngành Triết học, trình độ thạc sĩ, tiến sĩ) – Lý luận nhận thức duy vật biện chứng – Vai trò của thực tiễn đối với nhận thức; thực tiễn là tiêu chuẩn của chân lý"
+  },
+  {
+    "id": "sdh_tienganh_01",
+    "subject": "Tiếng Anh học thuật",
+    "topic": "Hedging in academic writing",
+    "type": "academic",
+    "question": "Which sentence uses appropriate hedging for reporting research findings in academic writing?",
+    "options": [
+      "The results suggest that the intervention may improve learning outcomes.",
+      "The results prove beyond any doubt that the intervention works.",
+      "Everybody knows that the intervention improves learning outcomes.",
+      "It is obviously true that the intervention is always effective."
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại kỹ thuật hedging (rào đón) trong viết học thuật: dùng các từ như suggest, may, might, appear, tend to để trình bày kết quả một cách thận trọng, tránh khẳng định tuyệt đối.",
+    "source": "J. M. Swales & C. B. Feak, Academic Writing for Graduate Students (University of Michigan Press) – Tiếng Anh học thuật – Hedging khi trình bày kết quả nghiên cứu"
+  },
+  {
+    "id": "sdh_tienganh_02",
+    "subject": "Tiếng Anh học thuật",
+    "topic": "Paraphrasing",
+    "type": "academic",
+    "question": "In academic writing, what does appropriate paraphrasing mean?",
+    "options": [
+      "Copying the original sentences exactly without citation",
+      "Rewriting the source's idea in your own words and sentence structure, with a citation",
+      "Changing only a few words of the original text without citation",
+      "Translating the source into another language without citation"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại kỹ năng paraphrasing: diễn đạt lại ý của nguồn bằng từ ngữ và cấu trúc câu của chính mình, đồng thời vẫn phải trích dẫn nguồn để tránh đạo văn.",
+    "source": "APA Publication Manual (7th ed., 2020) – Mục 8.23 Principles of Paraphrasing – Diễn đạt lại ý bằng lời và cấu trúc của mình, kèm trích dẫn"
+  },
+  {
+    "id": "sdh_congbo_01",
+    "subject": "Viết và công bố bài báo khoa học",
+    "topic": "Cấu trúc IMRaD",
+    "type": "academic",
+    "question": "Cấu trúc IMRaD phổ biến của bài báo khoa học thực nghiệm gồm những phần nào?",
+    "options": [
+      "Introduction, Motivation, Review, and Data",
+      "Ideas, Methods, References, and Appendix",
+      "Introduction, Methods, Results, and Discussion",
+      "Introduction, Materials, Recommendations, and Debate"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại cấu trúc bài báo khoa học IMRaD: Introduction (Giới thiệu), Methods (Phương pháp), Results (Kết quả) và Discussion (Thảo luận).",
+    "source": "ICMJE, Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals – Preparing a Manuscript – Cấu trúc IMRAD (Introduction, Methods, Results, Discussion)"
+  },
+  {
+    "id": "sdh_congbo_02",
+    "subject": "Viết và công bố bài báo khoa học",
+    "topic": "Chỉ số h-index",
+    "type": "academic",
+    "question": "Một nhà khoa học có chỉ số h-index = 10. Điều này có nghĩa là gì?",
+    "options": [
+      "Có ít nhất 10 bài báo, mỗi bài được trích dẫn ít nhất 10 lần",
+      "Tổng số lượt trích dẫn của nhà khoa học là 10",
+      "Nhà khoa học đã công bố đúng 10 bài báo",
+      "Trung bình mỗi bài báo được trích dẫn 10 lần"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại định nghĩa h-index: nhà khoa học có chỉ số h nếu có h bài báo, mỗi bài được trích dẫn ít nhất h lần (và không có h+1 bài được trích dẫn ít nhất h+1 lần).",
+    "source": "J. E. Hirsch (2005), An index to quantify an individual's scientific research output, PNAS 102(46):16569–16572 – Định nghĩa: h bài báo có ít nhất h trích dẫn mỗi bài"
+  },
+  {
+    "id": "sdh_congbo_04",
+    "subject": "Viết và công bố bài báo khoa học",
+    "topic": "Tiêu chuẩn đứng tên tác giả",
+    "type": "academic",
+    "question": "Theo khuyến nghị của ICMJE, hoạt động nào sau đây nếu chỉ có riêng nó thì KHÔNG đủ để được đứng tên tác giả bài báo?",
+    "options": [
+      "Đóng góp đáng kể vào thiết kế nghiên cứu, phân tích dữ liệu, viết bài và chịu trách nhiệm về bài báo",
+      "Chỉ tìm kiếm nguồn tài trợ hoặc giám sát chung nhóm nghiên cứu",
+      "Thu thập và diễn giải dữ liệu, sửa bản thảo quan trọng và phê duyệt bản cuối",
+      "Đề xuất ý tưởng, viết bản thảo, phê duyệt bản cuối và cam kết chịu trách nhiệm"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại 4 tiêu chí đứng tên tác giả của ICMJE và phân biệt tác giả với người được ghi nhận ở phần Lời cảm ơn.",
+    "source": "ICMJE, Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals – Defining the Role of Authors and Contributors – Tìm tài trợ, giám sát chung hay hỗ trợ hành chính đơn thuần không đủ điều kiện tác giả"
+  },
+  {
+    "id": "sdh_daoduc_01",
+    "subject": "Đạo đức nghiên cứu",
+    "topic": "Sự đồng thuận có hiểu biết (informed consent)",
+    "type": "academic",
+    "question": "Nguyên tắc \"đồng thuận có hiểu biết\" (informed consent) trong nghiên cứu trên người yêu cầu điều gì?",
+    "options": [
+      "Chỉ cần sự cho phép của người hướng dẫn khoa học",
+      "Người tham gia được thông tin đầy đủ, tự nguyện đồng ý và có quyền rút lui bất kỳ lúc nào",
+      "Người tham gia phải cam kết hoàn thành nghiên cứu đến cùng",
+      "Chỉ cần thông báo cho người tham gia sau khi đã thu thập dữ liệu"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại các nguyên tắc đạo đức trong nghiên cứu trên người: người tham gia phải được cung cấp đầy đủ thông tin về mục đích, quy trình, rủi ro, lợi ích; đồng ý một cách tự nguyện và được rút lui bất kỳ lúc nào mà không bị bất lợi.",
+    "source": "WMA Declaration of Helsinki (bản sửa đổi tháng 10/2024) – Đoạn 25–26: tham gia tự nguyện, được thông tin đầy đủ, có quyền rút lui bất kỳ lúc nào mà không bị trả đũa"
+  },
+  {
+    "id": "sdh_daoduc_02",
+    "subject": "Đạo đức nghiên cứu",
+    "topic": "Hành vi sai trái trong nghiên cứu",
+    "type": "academic",
+    "question": "Hành vi tự tạo ra dữ liệu hoặc kết quả không có thật rồi ghi chép, báo cáo như thật được gọi là gì?",
+    "options": [
+      "Làm sai lệch dữ liệu (falsification)",
+      "Đạo văn (plagiarism)",
+      "Bịa đặt dữ liệu (fabrication)",
+      "Tự đạo văn (self-plagiarism)"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại ba hành vi sai trái nghiêm trọng (FFP): bịa đặt (fabrication) là tạo ra dữ liệu không có thật; làm sai lệch (falsification) là chỉnh sửa, bỏ bớt dữ liệu thật; đạo văn (plagiarism) là dùng ý tưởng, câu chữ của người khác mà không ghi nguồn.",
+    "source": "42 CFR Part 93 (U.S. Public Health Service Policies on Research Misconduct, ORI) – Định nghĩa Fabrication: bịa ra dữ liệu hoặc kết quả rồi ghi chép, báo cáo"
+  },
+  {
+    "id": "sdh_ktl_01",
+    "subject": "Kinh tế lượng",
+    "topic": "Đa cộng tuyến",
+    "type": "academic",
+    "question": "Trong mô hình hồi quy bội, hiện tượng các biến độc lập có tương quan tuyến tính mạnh với nhau được gọi là gì?",
+    "options": [
+      "Phương sai sai số thay đổi",
+      "Tự tương quan",
+      "Đa cộng tuyến",
+      "Sai số đo lường"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại các khuyết tật của mô hình hồi quy: đa cộng tuyến là khi các biến độc lập tương quan mạnh với nhau, thường được phát hiện bằng hệ số phóng đại phương sai (VIF).",
+    "source": "D. N. Gujarati & D. C. Porter, Basic Econometrics (McGraw-Hill) – Kinh tế lượng – Đa cộng tuyến (multicollinearity)"
+  },
+  {
+    "id": "sdh_hocmay_01",
+    "subject": "Học máy và khoa học dữ liệu",
+    "topic": "Quá khớp (overfitting)",
+    "type": "academic",
+    "question": "Hiện tượng quá khớp (overfitting) trong học máy là gì?",
+    "options": [
+      "Mô hình hoạt động kém trên cả tập huấn luyện và tập kiểm tra",
+      "Mô hình có quá ít tham số để học dữ liệu",
+      "Dữ liệu huấn luyện có quá nhiều giá trị bị thiếu",
+      "Mô hình rất tốt trên tập huấn luyện nhưng kém trên dữ liệu mới"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại khái niệm overfitting và underfitting: overfitting là mô hình học thuộc cả nhiễu của dữ liệu huấn luyện nên khái quát hóa kém; có thể khắc phục bằng regularization, thêm dữ liệu, cross-validation.",
+    "source": "I. Goodfellow, Y. Bengio & A. Courville, Deep Learning (MIT Press, 2016) – Mục 5.2 Capacity, Overfitting and Underfitting"
+  },
+  {
+    "id": "sdh_hocmay_02",
+    "subject": "Học máy và khoa học dữ liệu",
+    "topic": "Học không giám sát",
+    "type": "academic",
+    "question": "Thuật toán nào sau đây thuộc nhóm học không giám sát (unsupervised learning)?",
+    "options": [
+      "Hồi quy logistic",
+      "Phân cụm K-means",
+      "Cây quyết định phân loại",
+      "Máy vector hỗ trợ (SVM) cho phân loại"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại sự khác nhau giữa học có giám sát (dữ liệu có nhãn, ví dụ phân loại, hồi quy) và học không giám sát (dữ liệu không có nhãn, ví dụ phân cụm K-means).",
+    "source": "T. Hastie, R. Tibshirani & J. Friedman, The Elements of Statistical Learning (Springer) – Chương 14 Unsupervised Learning – Phân cụm K-means"
+  },
+  {
+    "id": "sdh_quyche_01",
+    "subject": "Quy chế đào tạo sau đại học",
+    "topic": "Hình thức đào tạo tiến sĩ",
+    "type": "academic",
+    "question": "Theo Quy chế tuyển sinh và đào tạo sau đại học ban hành kèm Thông tư 53/2026/TT-BGDĐT, chương trình đào tạo trình độ tiến sĩ được tổ chức theo hình thức nào?",
+    "options": [
+      "Chỉ theo hình thức vừa làm vừa học",
+      "Chính quy hoặc từ xa, tùy cơ sở đào tạo",
+      "Chỉ theo hình thức đào tạo chính quy",
+      "Chính quy hoặc vừa làm vừa học, tùy người học"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên đọc Quy chế tuyển sinh và đào tạo sau đại học mới (Thông tư 53/2026/TT-BGDĐT, Điều 3) và quy chế của cơ sở đào tạo của bạn.",
+    "source": "Thông tư 53/2026/TT-BGDĐT ngày 30/6/2026 ban hành Quy chế tuyển sinh và đào tạo sau đại học (thay thế TT 23/2021 và TT 18/2021; áp dụng cho các khóa thông báo tuyển sinh từ 01/01/2027) – Điều 3 khoản 2: đào tạo trình độ tiến sĩ chỉ tổ chức theo hình thức chính quy"
+  },
+  {
+    "id": "sdh_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Xử lý kết quả không như kỳ vọng",
+    "type": "open",
+    "question": "Sau khi phân tích, dữ liệu luận văn của bạn không ủng hộ giả thuyết nghiên cứu ban đầu. Cách xử lý nào phù hợp nhất?",
+    "options": [
+      "Báo cáo trung thực kết quả, phân tích nguyên nhân có thể và thảo luận hạn chế của nghiên cứu",
+      "Loại bớt những quan sát làm kết quả không có ý nghĩa",
+      "Thay đổi giả thuyết cho khớp với kết quả mà không nêu rõ",
+      "Thử nhiều phép kiểm định khác nhau cho đến khi có p < 0,05 rồi chỉ báo cáo phép đó"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên tìm hiểu về liêm chính học thuật: kết quả \"âm tính\" vẫn có giá trị khoa học; việc loại dữ liệu tùy tiện, p-hacking hay HARKing (đặt giả thuyết sau khi biết kết quả) đều là thực hành nghiên cứu sai trái.",
+    "source": "American Statistical Association (2016), ASA Statement on Statistical Significance and P-Values – Nguyên tắc 4: suy luận đúng đòi hỏi báo cáo đầy đủ và minh bạch (tránh p-hacking)"
+  },
+  {
+    "id": "sdh_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Tạp chí săn mồi (predatory journals)",
+    "type": "open",
+    "question": "Bạn nhận được email mời nộp bài từ một tạp chí lạ, cam kết đăng bài trong một tuần nếu đóng phí, gần như không qua phản biện. Bạn nên làm gì?",
+    "options": [
+      "Nộp ngay vì được đăng nhanh sẽ có lợi cho hồ sơ",
+      "Nộp bài cho nhiều tạp chí như vậy cùng lúc để chắc chắn được đăng",
+      "Trả lời email để thương lượng giảm phí",
+      "Thận trọng, kiểm tra tạp chí (danh mục Scopus/WoS, ban biên tập, quy trình phản biện) và hỏi ý kiến người hướng dẫn"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên tìm hiểu dấu hiệu của tạp chí săn mồi: mời chào qua email, hứa đăng rất nhanh, thu phí nhưng phản biện sơ sài hoặc không có; hãy kiểm tra tạp chí trên các cơ sở dữ liệu uy tín và tham khảo người hướng dẫn trước khi nộp bài.",
+    "source": "Think. Check. Submit. (thinkchecksubmit.org, sáng kiến có COPE tham gia) – Danh mục kiểm tra tạp chí trước khi nộp bài – Nhận diện tạp chí săn mồi"
+  },
+  {
+    "id": "sdh_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Sử dụng AI khi viết luận văn",
+    "type": "open",
+    "question": "Bạn muốn dùng công cụ AI tạo sinh (như chatbot) để hỗ trợ viết luận văn. Cách làm nào phù hợp nhất?",
+    "options": [
+      "Để AI viết toàn bộ luận văn rồi nộp dưới tên mình",
+      "Ghi công cụ AI là đồng tác giả của luận văn",
+      "Tuân thủ quy định của cơ sở đào tạo, công khai cách sử dụng AI và tự kiểm chứng mọi nội dung, trích dẫn",
+      "Dùng các tài liệu tham khảo do AI gợi ý mà không cần kiểm tra"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên tìm hiểu quy định về sử dụng AI của cơ sở đào tạo và tạp chí: AI không được đứng tên tác giả, người viết chịu trách nhiệm toàn bộ nội dung, cần công khai việc sử dụng và kiểm chứng vì AI có thể tạo ra thông tin hoặc trích dẫn không có thật.",
+    "source": "COPE Position Statement: Authorship and AI tools (2023) – Công cụ AI không thể là tác giả; tác giả phải công khai cách dùng AI và chịu trách nhiệm toàn bộ nội dung"
+  },
+  {
+    "id": "sdh_xahoi_01",
+    "subject": "Kiến thức xã hội",
+    "topic": "Kinh tế vĩ mô",
+    "type": "social",
+    "question": "Tổng sản phẩm quốc nội (GDP) được hiểu là gì?",
+    "options": [
+      "Tổng thu nhập của công dân một nước, dù sinh sống ở đâu",
+      "Tổng giá trị thị trường của hàng hóa, dịch vụ cuối cùng được sản xuất trong lãnh thổ một quốc gia trong một thời kỳ nhất định",
+      "Tổng giá trị xuất khẩu của một quốc gia trong một năm",
+      "Tổng thu ngân sách nhà nước trong một năm"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại các chỉ tiêu kinh tế vĩ mô: GDP tính theo lãnh thổ (sản xuất trong nước), còn GNI/GNP tính theo quyền sở hữu của công dân một quốc gia.",
+    "source": "N. G. Mankiw, Principles of Economics (Cengage) – Kinh tế vĩ mô – Định nghĩa GDP: giá trị thị trường của hàng hóa, dịch vụ cuối cùng sản xuất trong một nước trong một thời kỳ"
+  },
+  {
+    "id": "sdh_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Hệ thống tài chính Việt Nam",
+    "type": "social",
+    "question": "Cơ quan nào thực hiện chức năng ngân hàng trung ương của Việt Nam?",
+    "options": [
+      "Ngân hàng Nhà nước Việt Nam",
+      "Bộ Tài chính",
+      "Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank)",
+      "Kho bạc Nhà nước"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên tìm hiểu về hệ thống tài chính – ngân hàng Việt Nam: Ngân hàng Nhà nước Việt Nam là ngân hàng trung ương, thực hiện quản lý nhà nước về tiền tệ và chính sách tiền tệ quốc gia.",
+    "source": "Luật Ngân hàng Nhà nước Việt Nam 2010 (Luật số 46/2010/QH12) – Điều 2 khoản 1: Ngân hàng Nhà nước là cơ quan ngang bộ của Chính phủ, là Ngân hàng trung ương của nước CHXHCN Việt Nam"
+  },
+  {
+    "id": "sdh_xahoi_03",
+    "subject": "Kiến thức xã hội",
+    "topic": "Các Mục tiêu Phát triển bền vững",
+    "type": "social",
+    "question": "Chương trình Nghị sự 2030 của Liên Hợp Quốc (thông qua năm 2015) đề ra bao nhiêu Mục tiêu Phát triển bền vững (SDGs)?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "17"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên tìm hiểu về Chương trình Nghị sự 2030: Liên Hợp Quốc thông qua 17 Mục tiêu Phát triển bền vững (SDGs) năm 2015, kế thừa 8 Mục tiêu Phát triển Thiên niên kỷ (MDGs).",
+    "source": "Nghị quyết A/RES/70/1 của Đại hội đồng Liên Hợp Quốc (25/9/2015), Transforming our world: the 2030 Agenda for Sustainable Development – 17 Mục tiêu Phát triển bền vững"
+  }
+]

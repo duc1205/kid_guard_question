@@ -1,0 +1,386 @@
+[
+  {
+    "id": "g1_toan_01",
+    "subject": "Toán",
+    "topic": "Phép cộng trong phạm vi 10",
+    "type": "academic",
+    "question": "3 + 4 bằng bao nhiêu?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bảng cộng trong phạm vi 10 ở môn Toán lớp 1, luyện đếm thêm bằng que tính hoặc ngón tay.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Số và phép tính – Phép cộng, phép trừ – YCCĐ: Thực hiện được việc cộng, trừ nhẩm trong phạm vi 10"
+  },
+  {
+    "id": "g1_toan_02",
+    "subject": "Toán",
+    "topic": "Phép trừ trong phạm vi 10",
+    "type": "academic",
+    "question": "9 - 5 bằng bao nhiêu?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "14"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bảng trừ trong phạm vi 10, thử bớt dần que tính để tìm kết quả.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Số và phép tính – Phép cộng, phép trừ – YCCĐ: Thực hiện được việc cộng, trừ nhẩm trong phạm vi 10"
+  },
+  {
+    "id": "g1_toan_03",
+    "subject": "Toán",
+    "topic": "So sánh các số trong phạm vi 100",
+    "type": "academic",
+    "question": "Số nào lớn nhất trong các số sau?",
+    "options": [
+      "45",
+      "39",
+      "50",
+      "54"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cách so sánh số có hai chữ số: so sánh chữ số hàng chục trước, rồi mới đến hàng đơn vị.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Số và phép tính – So sánh các số trong phạm vi 100 – YCCĐ: Nhận biết được cách so sánh, xếp thứ tự các số trong phạm vi 100 (nhóm không quá 4 số)"
+  },
+  {
+    "id": "g1_toan_04_v2",
+    "subject": "Toán",
+    "topic": "Nhận dạng hình khối",
+    "type": "academic",
+    "question": "Con xúc xắc có dạng khối gì?",
+    "options": [
+      "Khối lập phương",
+      "Khối hộp chữ nhật",
+      "Hình tròn",
+      "Hình tam giác"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài nhận dạng khối lập phương, khối hộp chữ nhật ở môn Toán lớp 1, thử tìm các đồ vật quanh nhà có dạng khối lập phương.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Hình học trực quan – Hình phẳng và hình khối – YCCĐ: Nhận dạng được khối lập phương, khối hộp chữ nhật thông qua vật thật"
+  },
+  {
+    "id": "g1_toan_05_v2",
+    "subject": "Toán",
+    "topic": "Chục và đơn vị",
+    "type": "academic",
+    "question": "Số gồm 3 chục và 6 đơn vị là số nào?",
+    "options": [
+      "63",
+      "9",
+      "36",
+      "306"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài chục và đơn vị ở môn Toán lớp 1: chữ số hàng chục viết trước, chữ số hàng đơn vị viết sau.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Số và phép tính – Các số trong phạm vi 100 – YCCĐ: Nhận biết được chục và đơn vị, số tròn chục"
+  },
+  {
+    "id": "g1_toan_06",
+    "subject": "Toán",
+    "topic": "Tuần lễ",
+    "type": "academic",
+    "question": "Một tuần lễ có mấy ngày?",
+    "options": [
+      "7 ngày",
+      "5 ngày",
+      "6 ngày",
+      "10 ngày"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài các ngày trong tuần ở môn Toán lớp 1: thứ Hai, thứ Ba, thứ Tư, thứ Năm, thứ Sáu, thứ Bảy, Chủ nhật.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Đo lường – Biểu tượng về đại lượng và đơn vị đo – YCCĐ: Nhận biết được mỗi tuần lễ có 7 ngày và tên gọi, thứ tự các ngày trong tuần lễ"
+  },
+  {
+    "id": "g1_toan_07",
+    "subject": "Toán",
+    "topic": "Xem giờ đúng",
+    "type": "academic",
+    "question": "Đồng hồ có kim ngắn chỉ số 9, kim dài chỉ số 12. Đồng hồ đang chỉ mấy giờ?",
+    "options": [
+      "12 giờ",
+      "3 giờ",
+      "9 giờ",
+      "6 giờ"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài xem giờ đúng ở môn Toán lớp 1: kim dài chỉ số 12, kim ngắn chỉ số nào thì là mấy giờ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Đo lường – Thực hành đo đại lượng – YCCĐ: Thực hiện được việc đọc giờ đúng trên đồng hồ"
+  },
+  {
+    "id": "g1_toan_08",
+    "subject": "Toán",
+    "topic": "Phép cộng không nhớ trong phạm vi 100",
+    "type": "academic",
+    "question": "45 + 23 bằng bao nhiêu?",
+    "options": [
+      "78",
+      "58",
+      "22",
+      "68"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại phép cộng không nhớ trong phạm vi 100 ở môn Toán lớp 1: cộng hàng đơn vị với hàng đơn vị, hàng chục với hàng chục.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 1 – Số và phép tính – Phép cộng, phép trừ – YCCĐ: Thực hiện được phép cộng, phép trừ (không nhớ) các số trong phạm vi 100"
+  },
+  {
+    "id": "g1_tiengviet_01",
+    "subject": "Tiếng Việt",
+    "topic": "Chính tả ng/ngh",
+    "type": "academic",
+    "question": "Từ nào viết đúng chính tả?",
+    "options": [
+      "ngỉ ngơi",
+      "nghỉ nghơi",
+      "nghỉ ngơi",
+      "ngỉ nghơi"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại quy tắc chính tả: viết \"ngh\" khi đứng trước i, e, ê; viết \"ng\" khi đứng trước các vần còn lại.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 1 – Kiến thức tiếng Việt – Quy tắc chính tả – YCCĐ: Viết đúng quy tắc các tiếng mở đầu bằng c, k, g, gh, ng, ngh (phân biệt ng và ngh)"
+  },
+  {
+    "id": "g1_tiengviet_02",
+    "subject": "Tiếng Việt",
+    "topic": "Dấu thanh",
+    "type": "academic",
+    "question": "Tiếng \"mẹ\" có dấu thanh gì?",
+    "options": [
+      "Dấu sắc",
+      "Dấu huyền",
+      "Dấu hỏi",
+      "Dấu nặng"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại các dấu thanh trong Tiếng Việt lớp 1: dấu sắc, huyền, hỏi, ngã, nặng và đọc to từng tiếng.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 1 – Kiến thức tiếng Việt – Âm, vần, thanh; chữ và dấu thanh – YCCĐ: Đọc đúng âm, vần, tiếng; đặt dấu thanh đúng vị trí"
+  },
+  {
+    "id": "g1_tiengviet_03",
+    "subject": "Tiếng Việt",
+    "topic": "Vần oa",
+    "type": "academic",
+    "question": "Tiếng \"hoa\" có vần gì?",
+    "options": [
+      "oa",
+      "ao",
+      "ho",
+      "a"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cách tách tiếng thành âm đầu và vần, luyện đọc các vần oa, oe ở môn Tiếng Việt lớp 1.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 1 – Kiến thức tiếng Việt – Âm, vần, thanh – YCCĐ: Đọc đúng âm, vần, tiếng, từ, câu"
+  },
+  {
+    "id": "g1_tiengviet_04",
+    "subject": "Tiếng Việt",
+    "topic": "Chính tả c/k",
+    "type": "academic",
+    "question": "Chọn chữ đúng để điền vào chỗ trống: \"...on cá\"",
+    "options": [
+      "k",
+      "c",
+      "q",
+      "gh"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại quy tắc chính tả: viết \"k\" khi đứng trước i, e, ê; viết \"c\" khi đứng trước các âm còn lại như a, o, ô, u.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 1 – Kiến thức tiếng Việt – Quy tắc chính tả – YCCĐ: Viết đúng quy tắc các tiếng mở đầu bằng c, k, g, gh, ng, ngh (phân biệt c và k)"
+  },
+  {
+    "id": "g1_daoduc_01_v2",
+    "subject": "Đạo đức",
+    "topic": "Lễ phép với ông bà",
+    "type": "academic",
+    "question": "Khi được bà cho quà, em nên nói gì?",
+    "options": [
+      "Con cảm ơn bà ạ",
+      "Không nói gì",
+      "Bà cho thêm nữa đi",
+      "Con chào bà ạ"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài quan tâm, lễ phép với người thân ở môn Đạo đức lớp 1: biết nói lời cảm ơn khi được ông bà, cha mẹ cho quà.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 1 – Quan tâm, chăm sóc người thân trong gia đình – YCCĐ: Lễ phép, vâng lời ông bà, cha mẹ, anh chị; hiếu thảo với ông bà, cha mẹ"
+  },
+  {
+    "id": "g1_daoduc_02_v2",
+    "subject": "Đạo đức",
+    "topic": "Tự chăm sóc bản thân",
+    "type": "academic",
+    "question": "Việc làm nào thể hiện em biết tự chăm sóc bản thân?",
+    "options": [
+      "Để tóc rối không chải",
+      "Tự đánh răng, rửa mặt mỗi sáng",
+      "Mặc quần áo bẩn đi học",
+      "Không rửa tay trước khi ăn"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài tự chăm sóc bản thân ở môn Đạo đức lớp 1: tự vệ sinh răng miệng, tóc, cơ thể và ăn mặc gọn gàng.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 1 – Tự chăm sóc bản thân – YCCĐ: Nêu được và tự làm được những việc tự chăm sóc bản thân như vệ sinh răng, miệng, tóc, cơ thể; ăn mặc chỉnh tề"
+  },
+  {
+    "id": "g1_tnxh_01",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Các giác quan",
+    "type": "academic",
+    "question": "Bộ phận nào giúp em nhìn thấy mọi vật xung quanh?",
+    "options": [
+      "Tai",
+      "Mũi",
+      "Mắt",
+      "Lưỡi"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài các giác quan ở môn Tự nhiên và Xã hội lớp 1: mắt để nhìn, tai để nghe, mũi để ngửi, lưỡi để nếm.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 1 – Con người và sức khoẻ – Các bộ phận bên ngoài và giác quan – YCCĐ: Nêu được tên, chức năng của các giác quan"
+  },
+  {
+    "id": "g1_tnxh_02_v2",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Con vật có ích",
+    "type": "academic",
+    "question": "Con vật nào sau đây có ích vì cho chúng ta trứng để ăn?",
+    "options": [
+      "Con muỗi",
+      "Con ruồi",
+      "Con gà",
+      "Con chuột"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài các con vật xung quanh em ở môn Tự nhiên và Xã hội lớp 1, phân biệt con vật có ích và con vật có hại.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 1 – Thực vật và động vật – Thực vật và động vật xung quanh – YCCĐ: Phân biệt được một số con vật theo ích lợi hoặc tác hại của chúng đối với con người"
+  },
+  {
+    "id": "g1_tnxh_03",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Giữ vệ sinh cơ thể",
+    "type": "academic",
+    "question": "Em nên đánh răng vào lúc nào?",
+    "options": [
+      "Chỉ khi răng bị đau",
+      "Buổi sáng sau khi ngủ dậy và buổi tối trước khi đi ngủ",
+      "Một tuần một lần",
+      "Không cần đánh răng"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài giữ vệ sinh cơ thể ở môn Tự nhiên và Xã hội lớp 1, nhớ đánh răng ít nhất 2 lần mỗi ngày.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 1 – Con người và sức khoẻ – Giữ cho cơ thể khoẻ mạnh và an toàn – YCCĐ: Nêu được và thực hiện đúng những việc cần làm để giữ vệ sinh cơ thể"
+  },
+  {
+    "id": "g1_tnxh_04",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Bảo vệ mắt",
+    "type": "academic",
+    "question": "Việc làm nào giúp em bảo vệ đôi mắt, phòng tránh cận thị?",
+    "options": [
+      "Xem điện thoại trong phòng tối",
+      "Nằm đọc sách thật lâu",
+      "Nhìn thẳng vào Mặt Trời",
+      "Ngồi học đúng tư thế, nơi có đủ ánh sáng"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài các giác quan ở môn Tự nhiên và Xã hội lớp 1: ngồi học đúng tư thế, đủ ánh sáng, không nhìn trực tiếp vào Mặt Trời.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 1 – Con người và sức khoẻ – Các bộ phận bên ngoài và giác quan – YCCĐ: Thực hiện được việc làm để bảo vệ các giác quan, đặc biệt biết cách phòng tránh cận thị học đường"
+  },
+  {
+    "id": "g1_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "An toàn với người lạ",
+    "type": "open",
+    "question": "Khi có người lạ cho kẹo và rủ em đi chơi, em nên làm gì?",
+    "options": [
+      "Nhận kẹo và đi theo",
+      "Từ chối và báo ngay cho bố mẹ hoặc thầy cô",
+      "Nhận kẹo nhưng không đi",
+      "Rủ thêm bạn cùng đi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Con hãy nhớ: không nhận quà và không đi theo người lạ, luôn báo ngay cho bố mẹ hoặc thầy cô khi có người lạ rủ đi.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 1 – Con người và sức khoẻ – Giữ cho cơ thể khoẻ mạnh và an toàn – YCCĐ: Thực hành nói không, tránh xa người có hành vi đe doạ đến sự an toàn của bản thân và nói với người lớn tin cậy"
+  },
+  {
+    "id": "g1_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Giúp đỡ bạn bè",
+    "type": "open",
+    "question": "Trong giờ ra chơi, em thấy một bạn bị ngã. Em nên làm gì?",
+    "options": [
+      "Cười bạn",
+      "Đi chỗ khác chơi",
+      "Đứng nhìn",
+      "Đỡ bạn dậy và báo cho thầy cô"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Con hãy nhớ quan tâm, giúp đỡ bạn bè khi bạn gặp khó khăn, và báo người lớn khi bạn bị đau.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 1 – Hoạt động xây dựng nhà trường – YCCĐ: Thể hiện sự thân thiện với bạn bè, thầy cô; thể hiện hành vi yêu thương phù hợp với hoàn cảnh"
+  },
+  {
+    "id": "g1_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Trung thực",
+    "type": "open",
+    "question": "Em nhặt được hộp bút của bạn trong lớp. Em nên làm gì?",
+    "options": [
+      "Trả lại cho bạn hoặc nhờ cô giáo trả lại",
+      "Giữ lại để dùng",
+      "Vứt đi",
+      "Giấu vào cặp của bạn khác"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Con hãy nhớ đức tính trung thực: nhặt được đồ của người khác thì trả lại cho người mất.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 1 – Thật thà – YCCĐ: Thực hiện được lời nói, việc làm thật thà như nhặt được của rơi trả lại người đánh mất"
+  },
+  {
+    "id": "g1_xahoi_01",
+    "subject": "Kiến thức xã hội",
+    "topic": "An toàn giao thông",
+    "type": "social",
+    "question": "Đèn giao thông màu nào báo hiệu mọi người phải dừng lại?",
+    "options": [
+      "Màu xanh",
+      "Màu vàng",
+      "Màu đỏ",
+      "Màu trắng"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại ý nghĩa đèn giao thông: đèn đỏ dừng lại, đèn vàng đi chậm lại, đèn xanh được đi.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 1 – Cộng đồng địa phương – An toàn trên đường – YCCĐ: Nói được tên và ý nghĩa của một số biển báo và đèn hiệu giao thông"
+  },
+  {
+    "id": "g1_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Đất nước Việt Nam",
+    "type": "social",
+    "question": "Thủ đô của Việt Nam là thành phố nào?",
+    "options": [
+      "Thành phố Hồ Chí Minh",
+      "Hà Nội",
+      "Đà Nẵng",
+      "Huế"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em hãy nhớ Thủ đô của nước Việt Nam là Hà Nội, có thể nhờ bố mẹ kể thêm về Hà Nội nhé.",
+    "source": "Hiến pháp nước CHXHCN Việt Nam năm 2013 (sửa đổi, bổ sung năm 2025) – Điều 13 khoản 5: \"Thủ đô nước Cộng hòa xã hội chủ nghĩa Việt Nam là Hà Nội\""
+  },
+  {
+    "id": "g1_xahoi_03",
+    "subject": "Kiến thức xã hội",
+    "topic": "Ngày lễ truyền thống",
+    "type": "social",
+    "question": "Tết Trung thu diễn ra vào ngày nào?",
+    "options": [
+      "Mùng 1 tháng Giêng âm lịch",
+      "Ngày 1 tháng 6",
+      "Ngày 2 tháng 9",
+      "Rằm tháng Tám âm lịch"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em hãy nhớ Tết Trung thu là ngày rằm (15) tháng Tám âm lịch, ngày các bạn nhỏ rước đèn, phá cỗ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 1 – Cộng đồng địa phương – Một số hoạt động của người dân trong cộng đồng – YCCĐ: Giới thiệu được tên, thời gian diễn ra một lễ hội truyền thống"
+  }
+]

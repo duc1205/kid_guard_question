@@ -1,0 +1,386 @@
+[
+  {
+    "id": "g2_toan_01",
+    "subject": "Toán",
+    "topic": "Phép cộng có nhớ trong phạm vi 100",
+    "type": "academic",
+    "question": "38 + 25 bằng bao nhiêu?",
+    "options": [
+      "53",
+      "63",
+      "513",
+      "73"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại phép cộng có nhớ trong phạm vi 100 ở môn Toán lớp 2: cộng hàng đơn vị trước, nhớ 1 sang hàng chục.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Số và phép tính – Phép cộng, phép trừ – YCCĐ: Thực hiện được phép cộng, phép trừ (không nhớ, có nhớ không quá một lượt) các số trong phạm vi 1000"
+  },
+  {
+    "id": "g2_toan_02",
+    "subject": "Toán",
+    "topic": "Phép trừ có nhớ trong phạm vi 100",
+    "type": "academic",
+    "question": "72 - 36 bằng bao nhiêu?",
+    "options": [
+      "46",
+      "44",
+      "36",
+      "34"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại phép trừ có nhớ trong phạm vi 100: đặt tính thẳng cột, trừ hàng đơn vị trước và nhớ khi số bị trừ nhỏ hơn.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Số và phép tính – Phép cộng, phép trừ – YCCĐ: Thực hiện được phép cộng, phép trừ (không nhớ, có nhớ không quá một lượt) các số trong phạm vi 1000"
+  },
+  {
+    "id": "g2_toan_03",
+    "subject": "Toán",
+    "topic": "Bảng nhân 5",
+    "type": "academic",
+    "question": "5 × 4 bằng bao nhiêu?",
+    "options": [
+      "9",
+      "20",
+      "25",
+      "15"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bảng nhân 2 và bảng nhân 5 ở môn Toán lớp 2, đọc thuộc lòng mỗi ngày.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Số và phép tính – Phép nhân, phép chia – YCCĐ: Vận dụng được bảng nhân 2 và bảng nhân 5 trong thực hành tính"
+  },
+  {
+    "id": "g2_toan_04",
+    "subject": "Toán",
+    "topic": "Đơn vị đo độ dài mét",
+    "type": "academic",
+    "question": "1 m bằng bao nhiêu xăng-ti-mét?",
+    "options": [
+      "10 cm",
+      "1000 cm",
+      "100 cm",
+      "50 cm"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài các đơn vị đo độ dài: 1 m = 10 dm = 100 cm, có thể dùng thước dây để đo thử.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Đo lường – Biểu tượng về đại lượng và đơn vị đo – YCCĐ: Nhận biết được các đơn vị đo độ dài dm, m, km và quan hệ giữa các đơn vị đo độ dài đã học"
+  },
+  {
+    "id": "g2_toan_05",
+    "subject": "Toán",
+    "topic": "Các số trong phạm vi 1000",
+    "type": "academic",
+    "question": "Số gồm 3 trăm, 0 chục và 5 đơn vị viết là:",
+    "options": [
+      "350",
+      "530",
+      "35",
+      "305"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cách đọc, viết số có ba chữ số theo hàng trăm, hàng chục, hàng đơn vị ở môn Toán lớp 2.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Số và phép tính – Số và cấu tạo thập phân của một số – YCCĐ: Đếm, đọc, viết được các số trong phạm vi 1000; viết số thành tổng của trăm, chục, đơn vị"
+  },
+  {
+    "id": "g2_toan_06",
+    "subject": "Toán",
+    "topic": "Số liền trước, số liền sau",
+    "type": "academic",
+    "question": "Số liền sau của số 499 là số nào?",
+    "options": [
+      "500",
+      "498",
+      "490",
+      "4100"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài số liền trước, số liền sau trong phạm vi 1000 ở môn Toán lớp 2: số liền sau lớn hơn số đã cho 1 đơn vị.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Số và phép tính – Số và cấu tạo thập phân của một số – YCCĐ: Nhận biết được số liền trước, số liền sau của một số"
+  },
+  {
+    "id": "g2_toan_07",
+    "subject": "Toán",
+    "topic": "Ngày và giờ",
+    "type": "academic",
+    "question": "Một ngày có bao nhiêu giờ?",
+    "options": [
+      "24 giờ",
+      "12 giờ",
+      "60 giờ",
+      "7 giờ"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài ngày – giờ, giờ – phút ở môn Toán lớp 2: một ngày có 24 giờ, một giờ có 60 phút.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Đo lường – Biểu tượng về đại lượng và đơn vị đo – YCCĐ: Nhận biết được một ngày có 24 giờ; một giờ có 60 phút"
+  },
+  {
+    "id": "g2_toan_08",
+    "subject": "Toán",
+    "topic": "Bảng chia 2",
+    "type": "academic",
+    "question": "10 : 2 bằng bao nhiêu?",
+    "options": [
+      "5",
+      "8",
+      "12",
+      "20"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bảng chia 2 và bảng chia 5 ở môn Toán lớp 2, nhớ rằng phép chia là phép tính ngược của phép nhân: 2 × 5 = 10 nên 10 : 2 = 5.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Số và phép tính – Phép nhân, phép chia – YCCĐ: Vận dụng được bảng chia 2 và bảng chia 5 trong thực hành tính"
+  },
+  {
+    "id": "g2_tiengviet_01",
+    "subject": "Tiếng Việt",
+    "topic": "Từ chỉ hoạt động",
+    "type": "academic",
+    "question": "Từ nào là từ chỉ hoạt động?",
+    "options": [
+      "cái bàn",
+      "màu xanh",
+      "chạy",
+      "đẹp"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài từ chỉ sự vật, từ chỉ hoạt động và từ chỉ đặc điểm ở môn Tiếng Việt lớp 2.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 2 – Kiến thức tiếng Việt – Từ chỉ sự vật, hoạt động, tính chất – YCCĐ: Nhận biết từ chỉ sự vật, hoạt động, tính chất"
+  },
+  {
+    "id": "g2_tiengviet_05",
+    "subject": "Tiếng Việt",
+    "topic": "Bảng chữ cái tiếng Việt",
+    "type": "academic",
+    "question": "Chữ cái \"b\" có tên gọi là gì?",
+    "options": [
+      "bờ",
+      "bi",
+      "ba",
+      "bê"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bảng chữ cái tiếng Việt ở môn Tiếng Việt lớp 2, phân biệt tên chữ cái (a, bê, xê,...) với âm (a, bờ, cờ,...).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 2 – Kiến thức tiếng Việt – Bảng chữ cái tiếng Việt – YCCĐ: Thuộc bảng chữ cái tiếng Việt; phân biệt tên chữ cái (a, bê, xê,...) và âm (a, bờ, cờ,...)"
+  },
+  {
+    "id": "g2_tiengviet_06",
+    "subject": "Tiếng Việt",
+    "topic": "Dấu chấm than",
+    "type": "academic",
+    "question": "Cuối câu \"Ôi, bông hoa đẹp quá\" nên đặt dấu câu nào?",
+    "options": [
+      "Dấu chấm than",
+      "Dấu chấm hỏi",
+      "Dấu phẩy",
+      "Dấu hai chấm"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cách dùng dấu chấm, dấu chấm hỏi, dấu chấm than ở môn Tiếng Việt lớp 2. Câu bộc lộ cảm xúc (ôi, quá) thường kết thúc bằng dấu chấm than.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 2 – Kiến thức tiếng Việt – Dấu câu – YCCĐ: Công dụng của dấu chấm, dấu chấm hỏi, dấu chấm than: đánh dấu kết thúc câu"
+  },
+  {
+    "id": "g2_tiengviet_04",
+    "subject": "Tiếng Việt",
+    "topic": "Dấu câu",
+    "type": "academic",
+    "question": "Cuối câu \"Em tên là gì\" cần đặt dấu câu nào?",
+    "options": [
+      "Dấu chấm",
+      "Dấu chấm hỏi",
+      "Dấu phẩy",
+      "Dấu chấm than"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại cách dùng dấu chấm, dấu chấm hỏi, dấu chấm than ở môn Tiếng Việt lớp 2. Câu dùng để hỏi thì kết thúc bằng dấu chấm hỏi.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 2 – Kiến thức tiếng Việt – Dấu câu – YCCĐ: Công dụng của dấu chấm, dấu chấm hỏi, dấu chấm than: đánh dấu kết thúc câu"
+  },
+  {
+    "id": "g2_daoduc_01",
+    "subject": "Đạo đức",
+    "topic": "Nhận lỗi và sửa lỗi",
+    "type": "academic",
+    "question": "Em lỡ tay làm vỡ chiếc cốc của mẹ. Em nên làm gì?",
+    "options": [
+      "Nhận lỗi và xin lỗi mẹ",
+      "Giấu mảnh vỡ đi",
+      "Đổ lỗi cho em bé",
+      "Im lặng không nói"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài nhận lỗi và sửa lỗi ở môn Đạo đức lớp 2: dũng cảm nhận lỗi và cố gắng sửa lỗi.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 2 – Nhận lỗi và sửa lỗi – YCCĐ: Thực hiện được việc nhận lỗi và sửa lỗi"
+  },
+  {
+    "id": "g2_daoduc_02",
+    "subject": "Đạo đức",
+    "topic": "Quý trọng thời gian",
+    "type": "academic",
+    "question": "Việc làm nào thể hiện em biết quý trọng thời gian?",
+    "options": [
+      "Xem ti vi đến khuya",
+      "Để bài tập đến sáng mai mới làm",
+      "Lập thời gian biểu và làm theo",
+      "Ngủ dậy muộn"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài quý trọng thời gian ở môn Đạo đức lớp 2, thử tự lập một thời gian biểu cho mỗi ngày.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 2 – Quý trọng thời gian – YCCĐ: Nêu được biểu hiện của việc quý trọng thời gian; thực hiện được việc sử dụng thời gian hợp lí"
+  },
+  {
+    "id": "g2_tnxh_01",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Cơ quan vận động",
+    "type": "academic",
+    "question": "Cơ quan vận động của cơ thể gồm những bộ phận nào?",
+    "options": [
+      "Tim và mạch máu",
+      "Xương và cơ",
+      "Mũi và phổi",
+      "Dạ dày và ruột"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài cơ quan vận động ở môn Tự nhiên và Xã hội lớp 2: xương và cơ giúp cơ thể cử động.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 2 – Con người và sức khoẻ – Một số cơ quan bên trong cơ thể – YCCĐ: Chỉ và nói được tên các bộ phận chính của cơ quan vận động; nhận biết chức năng của xương và cơ"
+  },
+  {
+    "id": "g2_tnxh_02",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Môi trường sống của thực vật",
+    "type": "academic",
+    "question": "Cây sen sống ở đâu?",
+    "options": [
+      "Trên cạn",
+      "Trong sa mạc",
+      "Trên núi đá",
+      "Dưới nước"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài môi trường sống của thực vật và động vật ở môn Tự nhiên và Xã hội lớp 2.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 2 – Thực vật và động vật – Môi trường sống của thực vật và động vật – YCCĐ: Nêu được tên và nơi sống của một số thực vật, động vật; phân loại theo môi trường sống"
+  },
+  {
+    "id": "g2_tnxh_03",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Phòng tránh ngộ độc khi ở nhà",
+    "type": "academic",
+    "question": "Để phòng tránh ngộ độc thức ăn, em nên làm gì?",
+    "options": [
+      "Ăn thức ăn đã bị ôi thiu",
+      "Uống nước chưa đun sôi",
+      "Ăn chín, uống sôi, rửa tay trước khi ăn",
+      "Ăn quả chưa rửa sạch"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài phòng tránh ngộ độc ở môn Tự nhiên và Xã hội lớp 2, nhớ ăn chín, uống sôi và rửa tay sạch sẽ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 2 – Gia đình – Phòng tránh ngộ độc khi ở nhà – YCCĐ: Nêu được những việc làm để phòng tránh ngộ độc qua đường ăn uống"
+  },
+  {
+    "id": "g2_mithuat_01_v2",
+    "subject": "Mĩ thuật",
+    "topic": "Màu cơ bản",
+    "type": "academic",
+    "question": "Màu nào sau đây là một trong ba màu cơ bản?",
+    "options": [
+      "Màu cam",
+      "Màu đỏ",
+      "Màu tím",
+      "Màu xanh lá cây"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài màu cơ bản ở môn Mĩ thuật lớp 2: ba màu cơ bản là màu đỏ, màu vàng và màu xanh lam.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Mĩ thuật – Lớp 2 – Mĩ thuật tạo hình – Yếu tố và nguyên lí tạo hình – YCCĐ: Nhận biết và đọc được tên các màu cơ bản"
+  },
+  {
+    "id": "g2_mo_01_v2",
+    "subject": "Câu hỏi mở",
+    "topic": "Tìm kiếm sự hỗ trợ",
+    "type": "open",
+    "question": "Một bạn nhiều lần giật đồ dùng học tập của em, em đã nhắc nhưng bạn vẫn không nghe. Em nên làm gì?",
+    "options": [
+      "Đánh lại bạn thật đau",
+      "Lấy trộm đồ của bạn để trả đũa",
+      "Im lặng chịu đựng mãi",
+      "Nhờ thầy cô giáo giúp đỡ"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Con hãy nhớ khi tự mình không giải quyết được chuyện với bạn, con nên tìm sự giúp đỡ của thầy cô hoặc bố mẹ, không đánh nhau hay trả đũa.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 2 – Hoạt động xây dựng nhà trường – YCCĐ: Biết tìm kiếm sự hỗ trợ từ thầy cô, bạn bè khi tự mình không giải quyết được vấn đề trong mối quan hệ với bạn"
+  },
+  {
+    "id": "g2_mo_02_v2",
+    "subject": "Câu hỏi mở",
+    "topic": "Kiềm chế cảm xúc tiêu cực",
+    "type": "open",
+    "question": "Em đang rất tức giận vì bạn lỡ làm rách vở của em. Em nên làm gì trước tiên?",
+    "options": [
+      "Hít thở sâu cho bình tĩnh rồi nói chuyện với bạn",
+      "Xé vở của bạn",
+      "La hét thật to",
+      "Ném đồ đạc xuống đất"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Con hãy nhớ khi tức giận, con nên hít thở sâu, đếm chậm cho bình tĩnh rồi mới nói chuyện, không làm điều gây hại cho bạn và cho mình.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 2 – Thể hiện cảm xúc bản thân – YCCĐ: Phân biệt cảm xúc tích cực, tiêu cực; biết kiềm chế các cảm xúc tiêu cực"
+  },
+  {
+    "id": "g2_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Khi bị lạc",
+    "type": "open",
+    "question": "Em bị lạc bố mẹ trong siêu thị. Em nên làm gì?",
+    "options": [
+      "Chạy ra ngoài đường tìm bố mẹ",
+      "Đi theo một người lạ",
+      "Ngồi khóc và không nói gì",
+      "Đứng yên và nhờ nhân viên siêu thị hoặc bảo vệ giúp đỡ"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Con hãy nhớ khi bị lạc thì đứng yên một chỗ, nhờ nhân viên hoặc bảo vệ giúp, và học thuộc số điện thoại của bố mẹ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 2 – Hoạt động rèn luyện bản thân – YCCĐ: Nhận biết được những tình huống có nguy cơ bị lạc, bị bắt cóc và thực hiện được những việc làm để phòng tránh"
+  },
+  {
+    "id": "g2_xahoi_01_v2",
+    "subject": "Kiến thức xã hội",
+    "topic": "An toàn khi đi xe buýt",
+    "type": "social",
+    "question": "Khi đi trên xe buýt, em cần làm gì?",
+    "options": [
+      "Thò tay ra ngoài cửa sổ",
+      "Ngồi ngay ngắn, bám vào ghế hoặc tay vịn",
+      "Chạy nhảy trong xe",
+      "Đứng sát cửa khi xe đang chạy"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài hoạt động giao thông ở môn Tự nhiên và Xã hội lớp 2: khi đi xe buýt phải ngồi ngay ngắn, bám chắc, không thò đầu, tay ra ngoài.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 2 – Cộng đồng địa phương – Hoạt động giao thông – YCCĐ: Nêu được quy định khi đi trên một số phương tiện giao thông (ví dụ: xe máy, xe buýt,...)"
+  },
+  {
+    "id": "g2_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Ngày sinh nhật Bác Hồ",
+    "type": "social",
+    "question": "Sinh nhật Bác Hồ là ngày nào?",
+    "options": [
+      "Ngày 2 tháng 9",
+      "Ngày 1 tháng 6",
+      "Ngày 19 tháng 5",
+      "Ngày 30 tháng 4"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em hãy nhớ ngày 19 tháng 5 là ngày sinh nhật Bác Hồ; em có thể ôn thêm bài xem lịch, ngày trong tháng ở môn Toán lớp 2.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 2 – Đo lường – Biểu tượng về đại lượng và đơn vị đo – YCCĐ: Nhận biết được số ngày trong tháng, ngày trong tháng (ví dụ: sinh nhật Bác Hồ là ngày 19 tháng 5)"
+  },
+  {
+    "id": "g2_xahoi_05",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quy định nơi công cộng",
+    "type": "social",
+    "question": "Khi vào thư viện, em cần làm gì?",
+    "options": [
+      "Chạy nhảy, nói to",
+      "Xé tranh trong sách mang về",
+      "Ăn quà và vứt rác dưới gầm bàn",
+      "Giữ trật tự và giữ gìn sách"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài tuân thủ quy định nơi công cộng ở môn Đạo đức lớp 2: ở thư viện cần giữ trật tự, nói nhỏ và giữ gìn sách.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 2 – Tuân thủ quy định nơi công cộng – YCCĐ: Nêu được và thực hiện được các hành vi phù hợp để tuân thủ quy định nơi công cộng"
+  }
+]

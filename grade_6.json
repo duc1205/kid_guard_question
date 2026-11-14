@@ -1,0 +1,370 @@
+[
+  {
+    "id": "g6_toan_01",
+    "subject": "Toán",
+    "topic": "Ước chung lớn nhất",
+    "type": "academic",
+    "question": "Ước chung lớn nhất của 18 và 24 là bao nhiêu?",
+    "options": [
+      "3",
+      "12",
+      "6",
+      "72"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại cách tìm ƯCLN bằng cách phân tích các số ra thừa số nguyên tố (Toán 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 6 – Số tự nhiên – Số nguyên tố. Ước chung và bội chung – YCCĐ: Xác định được ước chung, ước chung lớn nhất của hai hoặc ba số tự nhiên"
+  },
+  {
+    "id": "g6_toan_02",
+    "subject": "Toán",
+    "topic": "Phân số",
+    "type": "academic",
+    "question": "Kết quả của phép tính 2/3 + 1/4 là bao nhiêu?",
+    "options": [
+      "3/7",
+      "11/12",
+      "3/12",
+      "2/12"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại quy tắc quy đồng mẫu số rồi cộng các tử số trong chương Phân số (Toán 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 6 – Phân số – Các phép tính với phân số – YCCĐ: Thực hiện được các phép tính cộng, trừ, nhân, chia với phân số"
+  },
+  {
+    "id": "g6_toan_03",
+    "subject": "Toán",
+    "topic": "Số nguyên",
+    "type": "academic",
+    "question": "Kết quả của phép tính (-7) + 12 là bao nhiêu?",
+    "options": [
+      "-19",
+      "19",
+      "-5",
+      "5"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại quy tắc cộng hai số nguyên khác dấu trong chương Số nguyên (Toán 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 6 – Số nguyên – Các phép tính với số nguyên – YCCĐ: Thực hiện được các phép tính cộng, trừ, nhân, chia (chia hết) trong tập hợp các số nguyên"
+  },
+  {
+    "id": "g6_toan_04",
+    "subject": "Toán",
+    "topic": "Số nguyên tố",
+    "type": "academic",
+    "question": "Số nào sau đây là số nguyên tố?",
+    "options": [
+      "9",
+      "15",
+      "13",
+      "21"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài số nguyên tố, hợp số ở môn Toán lớp 6: số nguyên tố là số tự nhiên lớn hơn 1 chỉ có hai ước là 1 và chính nó.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 6 – Số tự nhiên – Tính chia hết. Số nguyên tố – YCCĐ: Nhận biết được khái niệm số nguyên tố, hợp số"
+  },
+  {
+    "id": "g6_nguvan_01",
+    "subject": "Ngữ văn",
+    "topic": "Truyền thuyết",
+    "type": "academic",
+    "question": "Văn bản \"Thánh Gióng\" thuộc thể loại nào?",
+    "options": [
+      "Truyền thuyết",
+      "Truyện cổ tích",
+      "Truyện ngụ ngôn",
+      "Truyện cười"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại đặc điểm của thể loại truyền thuyết qua các văn bản như Thánh Gióng, Sơn Tinh, Thủy Tinh (Ngữ văn 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 6 – Đọc – Truyện truyền thuyết (văn bản gợi ý: Thánh Gióng) – YCCĐ: Nhận biết được một số yếu tố của truyện truyền thuyết, cổ tích, đồng thoại"
+  },
+  {
+    "id": "g6_nguvan_03",
+    "subject": "Ngữ văn",
+    "topic": "Biện pháp tu từ hoán dụ",
+    "type": "academic",
+    "question": "Trong câu thơ \"Bàn tay ta làm nên tất cả\", từ \"bàn tay\" được dùng theo biện pháp tu từ nào?",
+    "options": [
+      "So sánh",
+      "Nhân hóa",
+      "Hoán dụ",
+      "Điệp ngữ"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại biện pháp tu từ ẩn dụ và hoán dụ ở môn Ngữ văn lớp 6: \"bàn tay\" (bộ phận) được dùng để chỉ người lao động (toàn thể) là hoán dụ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 6 – Kiến thức tiếng Việt – Biện pháp tu từ – YCCĐ: Biện pháp tu từ ẩn dụ, hoán dụ: đặc điểm và tác dụng"
+  },
+  {
+    "id": "g6_nguvan_04",
+    "subject": "Ngữ văn",
+    "topic": "Từ ghép và từ láy",
+    "type": "academic",
+    "question": "Từ nào sau đây là từ láy?",
+    "options": [
+      "bàn ghế",
+      "xinh xắn",
+      "sách vở",
+      "quần áo"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài từ đơn, từ phức, từ ghép và từ láy ở môn Ngữ văn lớp 6: từ láy có các tiếng lặp lại âm hoặc vần, như \"xinh xắn\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 6 – Kiến thức tiếng Việt – Từ vựng – YCCĐ: Từ đơn và từ phức, từ ghép và từ láy"
+  },
+  {
+    "id": "g6_khtn_01",
+    "subject": "Khoa học tự nhiên",
+    "topic": "Tế bào",
+    "type": "academic",
+    "question": "Đơn vị cấu trúc và chức năng cơ bản của mọi cơ thể sống là gì?",
+    "options": [
+      "Mô",
+      "Cơ quan",
+      "Tế bào",
+      "Hệ cơ quan"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Tế bào – đơn vị cơ sở của sự sống (Khoa học tự nhiên 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học tự nhiên – Lớp 6 – Tế bào – đơn vị cơ sở của sự sống – YCCĐ: Nhận biết được tế bào là đơn vị cấu trúc của sự sống"
+  },
+  {
+    "id": "g6_khtn_02",
+    "subject": "Khoa học tự nhiên",
+    "topic": "Lực",
+    "type": "academic",
+    "question": "Đơn vị đo lực trong hệ đơn vị đo lường chính thức là gì?",
+    "options": [
+      "Kilôgam (kg)",
+      "Mét (m)",
+      "Jun (J)",
+      "Niutơn (N)"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Lực và biểu diễn lực, ghi nhớ đơn vị của lực là niutơn (N) (Khoa học tự nhiên 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học tự nhiên – Lớp 6 – Lực – YCCĐ: Đo được lực bằng lực kế lò xo, đơn vị là niu tơn (N)"
+  },
+  {
+    "id": "g6_lsdl_01",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Nhà nước Văn Lang",
+    "type": "academic",
+    "question": "Nhà nước đầu tiên của người Việt là nhà nước nào?",
+    "options": [
+      "Âu Lạc",
+      "Văn Lang",
+      "Đại Việt",
+      "Đại Cồ Việt"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài Nhà nước Văn Lang trong phần Lịch sử (Lịch sử và Địa lí 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 6 – Lịch sử – Việt Nam từ khoảng thế kỉ VII TCN đến đầu thế kỉ X – Nhà nước Văn Lang, Âu Lạc – YCCĐ: Trình bày được sự thành lập và tổ chức nhà nước Văn Lang, Âu Lạc"
+  },
+  {
+    "id": "g6_lsdl_02",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Chuyển động tự quay của Trái Đất",
+    "type": "academic",
+    "question": "Trái Đất tự quay quanh trục một vòng hết khoảng bao lâu?",
+    "options": [
+      "24 giờ",
+      "12 giờ",
+      "365 ngày",
+      "30 ngày"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài Chuyển động tự quay quanh trục của Trái Đất và hệ quả ngày đêm (Lịch sử và Địa lí 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 6 – Địa lí – Trái Đất, hành tinh của hệ Mặt Trời – YCCĐ: Mô tả được chuyển động của Trái Đất (quanh trục và quanh Mặt Trời)"
+  },
+  {
+    "id": "g6_lsdl_03",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Hệ quả chuyển động tự quay của Trái Đất",
+    "type": "academic",
+    "question": "Vì sao trên Trái Đất có hiện tượng ngày và đêm luân phiên nhau?",
+    "options": [
+      "Vì Mặt Trời quay quanh Trái Đất",
+      "Vì Mặt Trăng che khuất Mặt Trời",
+      "Vì Trái Đất đứng yên một chỗ",
+      "Vì Trái Đất có dạng hình cầu và tự quay quanh trục"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài chuyển động tự quay quanh trục của Trái Đất và hệ quả ngày đêm luân phiên ở phần Địa lí lớp 6.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 6 – Địa lí – Chuyển động của Trái Đất và hệ quả địa lí – YCCĐ: Trình bày được hiện tượng ngày đêm luân phiên nhau"
+  },
+  {
+    "id": "g6_gdcd_01",
+    "subject": "Giáo dục công dân",
+    "topic": "Tiết kiệm",
+    "type": "academic",
+    "question": "Hành vi nào sau đây thể hiện đức tính tiết kiệm?",
+    "options": [
+      "Bật đèn cả ngày dù không dùng",
+      "Mua thật nhiều đồ chơi dù không cần",
+      "Tắt điện, khóa vòi nước khi không sử dụng",
+      "Vứt bỏ đồ dùng học tập còn dùng được"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Tiết kiệm: biết sử dụng hợp lí thời gian, tiền bạc, điện nước và đồ dùng (Giáo dục công dân 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 6 – Tiết kiệm – YCCĐ: Nêu được khái niệm tiết kiệm và biểu hiện của tiết kiệm (tiền bạc, đồ dùng, thời gian, điện, nước,...)"
+  },
+  {
+    "id": "g6_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Thì hiện tại đơn",
+    "type": "academic",
+    "question": "Chọn từ đúng để hoàn thành câu: \"She ___ to school every day.\"",
+    "options": [
+      "go",
+      "going",
+      "gone",
+      "goes"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại thì hiện tại đơn: với chủ ngữ ngôi thứ ba số ít (he, she, it), động từ thêm \"s\" hoặc \"es\" (Tiếng Anh 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 6 – Ngữ pháp – YCCĐ: Thì hiện tại đơn (củng cố và mở rộng)"
+  },
+  {
+    "id": "g6_tienganh_03",
+    "subject": "Tiếng Anh",
+    "topic": "So sánh hơn của tính từ",
+    "type": "academic",
+    "question": "Chọn từ đúng để hoàn thành câu: \"My school bag is ___ than yours.\"",
+    "options": [
+      "heavy",
+      "heaviest",
+      "more heavy",
+      "heavier"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại tính từ so sánh hơn trong Tiếng Anh lớp 6: tính từ ngắn thêm \"-er\" (heavy → heavier) và dùng với \"than\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 6 – Ngữ pháp – YCCĐ: Tính từ so sánh tương đối và tuyệt đối"
+  },
+  {
+    "id": "g6_tinhoc_01",
+    "subject": "Tin học",
+    "topic": "Đơn vị đo dung lượng thông tin",
+    "type": "academic",
+    "question": "1 byte bằng bao nhiêu bit?",
+    "options": [
+      "8 bit",
+      "2 bit",
+      "10 bit",
+      "1024 bit"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài Biểu diễn thông tin và các đơn vị đo dung lượng thông tin như bit, byte, KB (Tin học 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 6 – Chủ đề A – Biểu diễn thông tin và lưu trữ dữ liệu trong máy tính – YCCĐ: Biết bit là đơn vị nhỏ nhất trong lưu trữ thông tin; nêu được tên và độ lớn các đơn vị Byte, KB, MB, GB"
+  },
+  {
+    "id": "g6_congnghe_01",
+    "subject": "Công nghệ",
+    "topic": "Thực phẩm và dinh dưỡng",
+    "type": "academic",
+    "question": "Nhóm thực phẩm nào sau đây giàu chất đạm (protein) nhất?",
+    "options": [
+      "Gạo, ngô, khoai",
+      "Rau xanh, trái cây",
+      "Thịt, cá, trứng",
+      "Dầu ăn, mỡ"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài Thực phẩm và dinh dưỡng, ghi nhớ các nhóm chất dinh dưỡng chính và thực phẩm chứa chúng (Công nghệ 6).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Công nghệ – Lớp 6 – Bảo quản và chế biến thực phẩm – YCCĐ: Nhận biết được một số nhóm thực phẩm chính, dinh dưỡng từng loại, ý nghĩa đối với sức khoẻ con người"
+  },
+  {
+    "id": "g6_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Bắt nạt trên mạng",
+    "type": "open",
+    "question": "Em nhận được tin nhắn trêu chọc, đe dọa từ một tài khoản lạ trên mạng xã hội. Cách xử lý nào phù hợp nhất?",
+    "options": [
+      "Nhắn lại để chửi mắng người đó",
+      "Không trả lời, chụp lại bằng chứng và báo cho bố mẹ, thầy cô",
+      "Xóa tin nhắn và giấu mọi người",
+      "Chia sẻ tin nhắn lên mạng để mọi người cùng chê bai"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em hãy ghi nhớ cách ứng phó với bắt nạt trên mạng: không đáp trả, lưu bằng chứng và tìm sự giúp đỡ của người lớn tin cậy.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 6 – Chủ đề D – Đề phòng một số tác hại khi tham gia Internet – YCCĐ: Nêu và thực hiện được một số biện pháp phòng ngừa cơ bản trước tác hại, nguy cơ bị hại khi tham gia Internet"
+  },
+  {
+    "id": "g6_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Bảo mật tài khoản",
+    "type": "open",
+    "question": "Một bạn cùng lớp xin mật khẩu tài khoản học trực tuyến của em để \"xem giúp\". Em nên làm gì?",
+    "options": [
+      "Cho ngay vì là bạn cùng lớp",
+      "Viết mật khẩu lên bảng cho tiện",
+      "Đổi mật khẩu thành \"123456\" cho dễ nhớ rồi đưa bạn",
+      "Lịch sự từ chối và giữ bí mật mật khẩu của mình"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em hãy nhớ: mật khẩu là thông tin cá nhân cần giữ bí mật, chỉ chia sẻ với bố mẹ khi cần thiết.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 6 – Chủ đề D – Đề phòng một số tác hại khi tham gia Internet – YCCĐ: Bảo vệ được thông tin và tài khoản cá nhân với sự hỗ trợ của người lớn"
+  },
+  {
+    "id": "g6_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Dũng cảm nhận lỗi",
+    "type": "open",
+    "question": "Em vô tình làm hỏng hộp bút của bạn ngồi cạnh. Em nên làm gì?",
+    "options": [
+      "Thành thật xin lỗi bạn và tìm cách sửa hoặc đền bù",
+      "Im lặng để không ai biết",
+      "Đổ lỗi cho bạn khác",
+      "Nói rằng hộp bút đã hỏng từ trước"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em hãy rèn luyện đức tính trung thực và có trách nhiệm: khi mắc lỗi cần dũng cảm nhận lỗi và sửa chữa.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 6 – Tôn trọng sự thật – YCCĐ: Luôn nói thật với người thân, thầy cô, bạn bè; không đồng tình với việc nói dối hoặc che giấu sự thật"
+  },
+  {
+    "id": "g6_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Các châu lục",
+    "type": "social",
+    "question": "Châu lục nào có diện tích lớn nhất thế giới?",
+    "options": [
+      "Châu Phi",
+      "Châu Mỹ",
+      "Châu Âu",
+      "Châu Á"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên tìm hiểu lại về các châu lục trên Trái Đất; châu Á là châu lục rộng lớn nhất.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 5 – Tìm hiểu thế giới – Các châu lục và đại dương (ôn tập) – YCCĐ: Nêu và so sánh được một số đặc điểm tự nhiên của các châu lục"
+  },
+  {
+    "id": "g6_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "type": "social",
+    "question": "Căn cứ để xác định một người là công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam là gì?",
+    "options": [
+      "Người đó đang sống ở Việt Nam",
+      "Người đó có quốc tịch Việt Nam",
+      "Người đó biết nói tiếng Việt",
+      "Người đó có bố mẹ làm việc ở Việt Nam"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài Công dân nước Cộng hòa xã hội chủ nghĩa Việt Nam (Giáo dục công dân 6): công dân Việt Nam là người có quốc tịch Việt Nam.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 6 – Công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam – YCCĐ: Nêu được khái niệm công dân; căn cứ xác định công dân nước Cộng hoà xã hội chủ nghĩa Việt Nam; Hiến pháp 2013 (sửa đổi, bổ sung năm 2025), Điều 17 khoản 1"
+  },
+  {
+    "id": "g6_xahoi_05",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quyền trẻ em",
+    "type": "social",
+    "question": "Hành vi nào sau đây vi phạm quyền trẻ em?",
+    "options": [
+      "Bắt trẻ em nghỉ học để đi làm kiếm tiền",
+      "Đưa trẻ em đi tiêm phòng đầy đủ",
+      "Tổ chức cho trẻ em vui chơi ngày Tết Thiếu nhi",
+      "Tạo điều kiện cho trẻ em đến trường"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài Quyền trẻ em (Giáo dục công dân 6): phân biệt hành vi thực hiện quyền trẻ em và hành vi vi phạm quyền trẻ em.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 6 – Quyền trẻ em – YCCĐ: Phân biệt được hành vi thực hiện quyền trẻ em và hành vi vi phạm quyền trẻ em; Luật Trẻ em 2016 (Luật số 102/2016/QH13), Chương II – Quyền của trẻ em"
+  }
+]

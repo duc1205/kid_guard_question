@@ -1,0 +1,354 @@
+[
+  {
+    "id": "g11_toan_01",
+    "subject": "Toán",
+    "topic": "Hàm số lượng giác",
+    "type": "academic",
+    "question": "Hàm số y = sin x tuần hoàn với chu kì là:",
+    "options": [
+      "π",
+      "2π",
+      "π/2",
+      "4π"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại tính tuần hoàn và chu kì của các hàm số lượng giác (Toán 11, chương Hàm số lượng giác và phương trình lượng giác).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 11 – Hàm số lượng giác và phương trình lượng giác (KNTT Toán 11, Chương I) – YCCĐ: nhận biết được tính tuần hoàn và chu kì của hàm số y = sin x"
+  },
+  {
+    "id": "g11_toan_02",
+    "subject": "Toán",
+    "topic": "Cấp số cộng",
+    "type": "academic",
+    "question": "Cho cấp số cộng có u₁ = 2 và công sai d = 3. Số hạng u₅ bằng:",
+    "options": [
+      "17",
+      "15",
+      "11",
+      "14"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại công thức số hạng tổng quát của cấp số cộng uₙ = u₁ + (n − 1)d (Toán 11, chương Dãy số, cấp số cộng và cấp số nhân).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 11 – Dãy số. Cấp số cộng và cấp số nhân (KNTT Toán 11, Chương II) – YCCĐ: tính được số hạng tổng quát của cấp số cộng uₙ = u₁ + (n − 1)d"
+  },
+  {
+    "id": "g11_toan_03",
+    "subject": "Toán",
+    "topic": "Giới hạn của dãy số",
+    "type": "academic",
+    "question": "Giới hạn lim (2n + 1)/(n + 3) bằng:",
+    "options": [
+      "2",
+      "1/3",
+      "0",
+      "+∞"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cách tính giới hạn dãy số dạng phân thức bằng cách chia cả tử và mẫu cho lũy thừa cao nhất của n (Toán 11, chương Giới hạn).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 11 – Giới hạn. Hàm số liên tục (KNTT Toán 11, Chương V) – YCCĐ: tính được giới hạn của dãy số dạng phân thức hữu tỉ"
+  },
+  {
+    "id": "g11_toan_04",
+    "subject": "Toán",
+    "topic": "Đạo hàm",
+    "type": "academic",
+    "question": "Đạo hàm của hàm số y = x³ là:",
+    "options": [
+      "y' = x²",
+      "y' = 3x",
+      "y' = 3x²",
+      "y' = x⁴/4"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại công thức đạo hàm (xⁿ)' = n·xⁿ⁻¹ (Toán 11, chương Đạo hàm).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 11 – Đạo hàm (KNTT Toán 11, Chương IX) – YCCĐ: tính được đạo hàm của hàm số lũy thừa y = xⁿ"
+  },
+  {
+    "id": "g11_nguvan_01",
+    "subject": "Ngữ văn",
+    "topic": "Truyện hiện đại Việt Nam",
+    "type": "academic",
+    "question": "Truyện ngắn \"Chí Phèo\" là tác phẩm của nhà văn nào?",
+    "options": [
+      "Ngô Tất Tố",
+      "Vũ Trọng Phụng",
+      "Kim Lân",
+      "Nam Cao"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài về nhà văn Nam Cao và truyện ngắn \"Chí Phèo\" (Ngữ văn 11).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 11 – Đọc văn bản văn học – Truyện (KNTT Ngữ văn 11, Bài 1 \"Câu chuyện và điểm nhìn trong truyện kể\": Chí Phèo) – YCCĐ: nhận biết và phân tích được truyện ngắn hiện đại, tác giả và điểm nhìn trong truyện kể"
+  },
+  {
+    "id": "g11_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Danh động từ (Gerund)",
+    "type": "academic",
+    "question": "Choose the correct answer: \"I'm looking forward to ___ you again.\"",
+    "options": [
+      "see",
+      "seeing",
+      "saw",
+      "be seen"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại các cấu trúc theo sau là V-ing, đặc biệt \"look forward to + V-ing\" (giới từ \"to\" + V-ing).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 11 – Kiến thức ngôn ngữ – Ngữ pháp: danh động từ (KNTT Tiếng Anh 11 Global Success, Unit 4) – YCCĐ: sử dụng đúng danh động từ (V-ing), kể cả sau giới từ \"to\" trong \"look forward to\""
+  },
+  {
+    "id": "g11_vatli_01",
+    "subject": "Vật lí",
+    "topic": "Dao động điều hòa",
+    "type": "academic",
+    "question": "Một vật dao động điều hòa với chu kì T = 0,5 s. Tần số dao động của vật là:",
+    "options": [
+      "0,5 Hz",
+      "2 Hz",
+      "4 Hz",
+      "1 Hz"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại mối liên hệ giữa chu kì và tần số f = 1/T (Vật lí 11, chương Dao động).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Vật lí – Lớp 11 – Dao động – mô tả dao động điều hoà – YCCĐ: sử dụng được mối liên hệ giữa chu kì và tần số f = 1/T"
+  },
+  {
+    "id": "g11_vatli_02",
+    "subject": "Vật lí",
+    "topic": "Định luật Coulomb",
+    "type": "academic",
+    "question": "Khi khoảng cách giữa hai điện tích điểm tăng lên 2 lần (độ lớn điện tích giữ nguyên), lực tương tác tĩnh điện giữa chúng:",
+    "options": [
+      "tăng 2 lần",
+      "giảm 2 lần",
+      "tăng 4 lần",
+      "giảm 4 lần"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại định luật Coulomb: lực tương tác tỉ lệ nghịch với bình phương khoảng cách giữa hai điện tích (Vật lí 11, chương Điện trường).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Vật lí – Lớp 11 – Trường điện (điện trường) – Định luật Coulomb – YCCĐ: vận dụng được định luật Coulomb: lực tương tác tỉ lệ nghịch với bình phương khoảng cách"
+  },
+  {
+    "id": "g11_hoahoc_01",
+    "subject": "Hóa học",
+    "topic": "pH của dung dịch",
+    "type": "academic",
+    "question": "Ở 25 °C, dung dịch có môi trường trung tính có pH bằng:",
+    "options": [
+      "7",
+      "0",
+      "14",
+      "1"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại khái niệm pH: pH < 7 là môi trường acid, pH = 7 trung tính, pH > 7 base (Hóa học 11, chương Cân bằng hóa học).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoá học – Lớp 11 – Cân bằng hoá học – pH của dung dịch – YCCĐ: nêu được khái niệm pH; pH = 7 là môi trường trung tính (ở 25 °C)"
+  },
+  {
+    "id": "g11_hoahoc_02",
+    "subject": "Hóa học",
+    "topic": "Alkane",
+    "type": "academic",
+    "question": "Công thức chung của dãy đồng đẳng alkane là:",
+    "options": [
+      "CₙH₂ₙ (n ≥ 2)",
+      "CₙH₂ₙ₋₂ (n ≥ 2)",
+      "CₙH₂ₙ₊₂ (n ≥ 1)",
+      "CₙH₂ₙ₋₆ (n ≥ 6)"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại công thức chung của các loại hydrocarbon: alkane, alkene, alkyne, arene (Hóa học 11, chương Hydrocarbon).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoá học – Lớp 11 – Hydrocarbon – Alkane – YCCĐ: nêu được công thức chung của dãy đồng đẳng alkane CₙH₂ₙ₊₂"
+  },
+  {
+    "id": "g11_sinhhoc_01",
+    "subject": "Sinh học",
+    "topic": "Quang hợp ở thực vật",
+    "type": "academic",
+    "question": "Khí O₂ được giải phóng trong quá trình quang hợp có nguồn gốc từ chất nào?",
+    "options": [
+      "CO₂",
+      "Glucose",
+      "Diệp lục",
+      "H₂O"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại pha sáng của quang hợp, trong đó O₂ sinh ra từ quá trình quang phân li nước (Sinh học 11).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Sinh học – Lớp 11 – Trao đổi chất và chuyển hoá năng lượng ở sinh vật – Quang hợp ở thực vật – YCCĐ: trình bày được pha sáng của quang hợp; O₂ được giải phóng có nguồn gốc từ H₂O"
+  },
+  {
+    "id": "g11_lichsu_01",
+    "subject": "Lịch sử",
+    "topic": "Cải cách Hồ Quý Ly",
+    "type": "academic",
+    "question": "Năm 1400, Hồ Quý Ly lập ra nhà Hồ và đặt quốc hiệu nước ta là gì?",
+    "options": [
+      "Đại Việt",
+      "Đại Ngu",
+      "Đại Cồ Việt",
+      "Đại Nam"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài cải cách Hồ Quý Ly và triều Hồ cuối thế kỉ XIV – đầu thế kỉ XV (Lịch sử 11).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử – Lớp 11 – Một số cuộc cải cách lớn trong lịch sử Việt Nam (trước năm 1858) – Cải cách Hồ Quý Ly và triều Hồ – YCCĐ: nêu được bối cảnh, nội dung chính của cải cách Hồ Quý Ly (quốc hiệu Đại Ngu)"
+  },
+  {
+    "id": "g11_diali_01",
+    "subject": "Địa lí",
+    "topic": "Hiệp hội các quốc gia Đông Nam Á",
+    "type": "academic",
+    "question": "Ban Thư kí ASEAN có trụ sở đặt tại thành phố nào?",
+    "options": [
+      "Băng Cốc",
+      "Kuala Lumpur",
+      "Hà Nội",
+      "Gia-các-ta"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Hiệp hội các quốc gia Đông Nam Á (ASEAN): lịch sử hình thành, mục tiêu và cơ chế hoạt động (Địa lí 11).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Địa lí – Lớp 11 – Khu vực Đông Nam Á – Hiệp hội các quốc gia Đông Nam Á (ASEAN) – YCCĐ: trình bày được mục tiêu, cơ chế hoạt động của ASEAN (Ban Thư kí đặt tại Gia-các-ta)"
+  },
+  {
+    "id": "g11_gdktpl_01",
+    "subject": "Giáo dục kinh tế và pháp luật",
+    "topic": "Cung – cầu trong kinh tế thị trường",
+    "type": "academic",
+    "question": "Khi giá cả của một hàng hóa tăng lên (các yếu tố khác không đổi), lượng cầu về hàng hóa đó thường:",
+    "options": [
+      "giảm xuống",
+      "tăng lên",
+      "không thay đổi",
+      "tăng gấp đôi"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại quy luật cung – cầu và mối quan hệ giữa giá cả với cung, cầu (Giáo dục kinh tế và pháp luật 11).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 11 – Cạnh tranh, cung, cầu trong kinh tế thị trường – YCCĐ: giải thích được ảnh hưởng của giá cả thị trường đến cung, cầu (giá tăng thì lượng cầu giảm)"
+  },
+  {
+    "id": "g11_nguvan_03",
+    "subject": "Ngữ văn",
+    "topic": "Tác gia Nguyễn Du – Truyện Kiều",
+    "type": "academic",
+    "question": "\"Truyện Kiều\" (Đoạn trường tân thanh) của Nguyễn Du được viết bằng thể thơ nào?",
+    "options": [
+      "Song thất lục bát",
+      "Thất ngôn bát cú",
+      "Lục bát",
+      "Ngũ ngôn tứ tuyệt"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài học về tác gia Nguyễn Du và đoạn trích \"Trao duyên\" trong \"Truyện Kiều\" – truyện thơ Nôm viết bằng thể lục bát (Ngữ văn 11).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 11 – Tác gia Nguyễn Du (KNTT Ngữ văn 11, Bài 6 \"Nguyễn Du – những điều trông thấy mà đau đớn lòng\": Trao duyên, Đọc Tiểu Thanh kí) – YCCĐ: nhận biết được những nét chính về tác gia Nguyễn Du và đặc điểm thể loại truyện thơ Nôm lục bát của \"Truyện Kiều\""
+  },
+  {
+    "id": "g11_tienganh_03",
+    "subject": "Tiếng Anh",
+    "topic": "Câu chẻ (Cleft sentences)",
+    "type": "academic",
+    "question": "Choose the correct answer: \"It was my grandmother ___ taught me how to cook.\"",
+    "options": [
+      "which",
+      "who",
+      "what",
+      "whose"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại câu chẻ \"It is/was + người + who/that + ...\" để nhấn mạnh chủ ngữ chỉ người.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 11 – Kiến thức ngôn ngữ – Ngữ pháp: câu chẻ It is/was … that/who (KNTT Tiếng Anh 11 Global Success, Unit 8) – YCCĐ: sử dụng đúng câu chẻ để nhấn mạnh"
+  },
+  {
+    "id": "g11_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Tin giả trên mạng xã hội",
+    "type": "open",
+    "question": "Em đọc được một bài đăng gây sốc trên mạng xã hội nhưng không rõ nguồn. Em nên làm gì?",
+    "options": [
+      "Chia sẻ ngay để mọi người cùng biết",
+      "Kiểm tra thông tin từ các nguồn chính thống trước khi tin hoặc chia sẻ",
+      "Bình luận chỉ trích người liên quan",
+      "Sao chép và đăng lại dưới tên mình"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu cách nhận biết tin giả và thói quen kiểm chứng thông tin từ nguồn chính thống trước khi chia sẻ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 11 – Hoạt động hướng đến xã hội – ứng xử văn minh trên không gian mạng – YCCĐ: biết kiểm chứng thông tin từ nguồn chính thống trước khi tin và chia sẻ"
+  },
+  {
+    "id": "g11_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Phòng tránh tệ nạn",
+    "type": "open",
+    "question": "Một người bạn rủ em tham gia cá độ bóng đá trực tuyến và hứa hẹn \"kiếm tiền dễ\". Em nên làm gì?",
+    "options": [
+      "Thử chơi một lần với số tiền nhỏ",
+      "Vay tiền qua ứng dụng để chơi",
+      "Kiên quyết từ chối và khuyên bạn dừng lại, báo người lớn nếu cần",
+      "Rủ thêm bạn khác cùng chơi"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên tìm hiểu tác hại của cờ bạc, cá độ trực tuyến (là hành vi vi phạm pháp luật) và rèn kĩ năng từ chối trước lời rủ rê.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 11 – Hoạt động hướng vào bản thân – rèn luyện bản thân – YCCĐ: biết từ chối lời rủ rê tham gia hoạt động có hại, vi phạm pháp luật (cờ bạc, cá độ)"
+  },
+  {
+    "id": "g11_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "An toàn giao thông",
+    "type": "open",
+    "question": "Bạn em chở em bằng xe máy nhưng không có mũ bảo hiểm cho em và nói \"đi gần thôi\". Em nên làm gì?",
+    "options": [
+      "Từ chối đi nếu không có mũ bảo hiểm, chọn cách di chuyển khác an toàn hơn",
+      "Đồng ý vì quãng đường ngắn",
+      "Ngồi phía sau và che đầu bằng tay",
+      "Đề nghị bạn đi nhanh để đến sớm"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại các quy định về an toàn giao thông: người ngồi trên xe máy bắt buộc đội mũ bảo hiểm cài quai đúng quy cách.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 11 – Hoạt động hướng vào bản thân – bảo đảm an toàn cho bản thân – YCCĐ: chấp hành quy định an toàn giao thông, đội mũ bảo hiểm khi ngồi trên xe máy"
+  },
+  {
+    "id": "g11_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Di tích lịch sử Việt Nam",
+    "type": "social",
+    "question": "Văn Miếu – Quốc Tử Giám, nơi được coi là trường đại học đầu tiên của Việt Nam, nằm ở thành phố nào?",
+    "options": [
+      "Huế",
+      "Hà Nội",
+      "Hải Phòng",
+      "Nam Định"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu thêm về Văn Miếu – Quốc Tử Giám ở Hà Nội và truyền thống hiếu học của dân tộc.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử – Lớp 10 – Một số nền văn minh trên đất nước Việt Nam – Văn minh Đại Việt (giáo dục, khoa cử) – YCCĐ: nêu được thành tựu về giáo dục của văn minh Đại Việt (Văn Miếu – Quốc Tử Giám ở Thăng Long, nay là Hà Nội)"
+  },
+  {
+    "id": "g11_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quyền và nghĩa vụ công dân về bảo vệ Tổ quốc",
+    "type": "social",
+    "question": "Theo Hiến pháp năm 2013 (Điều 45), bảo vệ Tổ quốc đối với công dân là gì?",
+    "options": [
+      "Chỉ là việc của lực lượng vũ trang",
+      "Nghĩa vụ thiêng liêng và quyền cao quý của công dân",
+      "Việc tự nguyện, không phải nghĩa vụ",
+      "Chỉ là trách nhiệm của người trên 30 tuổi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu Điều 45 Hiến pháp năm 2013 và bài quyền, nghĩa vụ công dân trong bảo vệ Tổ quốc (Giáo dục kinh tế và pháp luật 11).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 11 – Quyền và nghĩa vụ công dân trong bảo vệ Tổ quốc – YCCĐ: nêu được quy định cơ bản của pháp luật về nghĩa vụ bảo vệ Tổ quốc; Hiến pháp 2013, Điều 45 khoản 1 (không bị sửa đổi bởi Nghị quyết 203/2025/QH15)"
+  },
+  {
+    "id": "g11_xahoi_05",
+    "subject": "Kiến thức xã hội",
+    "topic": "Người thành niên theo Bộ luật Dân sự",
+    "type": "social",
+    "question": "Theo Bộ luật Dân sự năm 2015 (Điều 20), người thành niên là người từ đủ bao nhiêu tuổi trở lên?",
+    "options": [
+      "16 tuổi",
+      "21 tuổi",
+      "15 tuổi",
+      "18 tuổi"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên tìm hiểu Điều 20 Bộ luật Dân sự năm 2015: người thành niên là người từ đủ 18 tuổi trở lên.",
+    "source": "Bộ luật Dân sự 2015 (số 91/2015/QH13), Điều 20: \"Người thành niên là người từ đủ mười tám tuổi trở lên\""
+  }
+]

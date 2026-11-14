@@ -1,0 +1,386 @@
+[
+  {
+    "id": "dh_toan_01",
+    "subject": "Toán cao cấp",
+    "topic": "Đạo hàm hàm hợp",
+    "type": "academic",
+    "question": "Đạo hàm của hàm số f(x) = ln(x² + 1) là gì?",
+    "options": [
+      "1/(x² + 1)",
+      "2x/(x² + 1)",
+      "2x·ln(x² + 1)",
+      "x/(x² + 1)"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại quy tắc đạo hàm hàm hợp và đạo hàm của hàm logarit (học phần Toán cao cấp – Giải tích).",
+    "source": "J. Stewart, Calculus (Cengage) – Toán cao cấp/Giải tích – Quy tắc dây chuyền (Chain Rule) và đạo hàm hàm logarit"
+  },
+  {
+    "id": "dh_toan_02",
+    "subject": "Toán cao cấp",
+    "topic": "Giới hạn hàm số",
+    "type": "academic",
+    "question": "Giới hạn lim (x → 0) của sin(3x)/x bằng bao nhiêu?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "∞"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại giới hạn cơ bản lim (x → 0) sin(x)/x = 1 và cách biến đổi để áp dụng (học phần Toán cao cấp – Giải tích).",
+    "source": "J. Stewart, Calculus (Cengage) – Toán cao cấp/Giải tích – Giới hạn lượng giác cơ bản lim sinθ/θ = 1 (θ → 0)"
+  },
+  {
+    "id": "dh_toan_03",
+    "subject": "Toán cao cấp",
+    "topic": "Định thức ma trận",
+    "type": "academic",
+    "question": "Định thức của ma trận vuông cấp 2 A = [[2, 1], [3, 4]] (hàng 1: 2, 1; hàng 2: 3, 4) bằng bao nhiêu?",
+    "options": [
+      "5",
+      "11",
+      "−5",
+      "8"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại công thức tính định thức cấp 2: det = ad − bc (học phần Toán cao cấp – Đại số tuyến tính).",
+    "source": "G. Strang, Introduction to Linear Algebra (Wellesley-Cambridge Press) – Toán cao cấp/Đại số tuyến tính – Định thức ma trận cấp 2: ad − bc"
+  },
+  {
+    "id": "dh_xstk_01",
+    "subject": "Xác suất thống kê",
+    "topic": "Xác suất cổ điển",
+    "type": "academic",
+    "question": "Tung một đồng xu cân đối, đồng chất 2 lần độc lập. Xác suất để cả 2 lần đều xuất hiện mặt ngửa là bao nhiêu?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/3",
+      "3/4"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại quy tắc nhân xác suất cho các biến cố độc lập (học phần Xác suất thống kê).",
+    "source": "S. Ross, A First Course in Probability (Pearson) – Xác suất thống kê – Biến cố độc lập: P(A∩B) = P(A)·P(B)"
+  },
+  {
+    "id": "dh_xstk_02",
+    "subject": "Xác suất thống kê",
+    "topic": "Phương sai và độ lệch chuẩn",
+    "type": "academic",
+    "question": "Biến ngẫu nhiên X có phương sai Var(X) = 4. Độ lệch chuẩn của X bằng bao nhiêu?",
+    "options": [
+      "16",
+      "2",
+      "4",
+      "1/4"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại định nghĩa độ lệch chuẩn là căn bậc hai của phương sai (học phần Xác suất thống kê).",
+    "source": "S. Ross, A First Course in Probability (Pearson) – Xác suất thống kê – Độ lệch chuẩn là căn bậc hai của phương sai"
+  },
+  {
+    "id": "dh_triet_01",
+    "subject": "Triết học Mác – Lênin",
+    "topic": "Vấn đề cơ bản của triết học",
+    "type": "academic",
+    "question": "Theo triết học Mác – Lênin, vấn đề cơ bản của triết học là vấn đề gì?",
+    "options": [
+      "Quan hệ giữa con người và tự nhiên",
+      "Quan hệ giữa vật chất và ý thức (giữa tồn tại và tư duy)",
+      "Quan hệ giữa cá nhân và xã hội",
+      "Quan hệ giữa kinh tế và chính trị"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại vấn đề cơ bản của triết học và hai mặt của nó (học phần Triết học Mác – Lênin).",
+    "source": "Giáo trình Triết học Mác – Lênin (dành cho bậc đại học hệ không chuyên lý luận chính trị), Bộ GD&ĐT – NXB Chính trị quốc gia Sự thật 2021, giảng dạy theo Công văn 3056/BGDĐT-GDĐH ngày 19/7/2019 – Chương 1 – Vấn đề cơ bản của triết học (quan hệ giữa vật chất và ý thức, tồn tại và tư duy)"
+  },
+  {
+    "id": "dh_triet_02",
+    "subject": "Triết học Mác – Lênin",
+    "topic": "Ba quy luật cơ bản của phép biện chứng duy vật",
+    "type": "academic",
+    "question": "Trong phép biện chứng duy vật, quy luật nào chỉ ra nguồn gốc, động lực của sự vận động và phát triển?",
+    "options": [
+      "Quy luật chuyển hóa từ những thay đổi về lượng thành những thay đổi về chất và ngược lại",
+      "Quy luật phủ định của phủ định",
+      "Quy luật quan hệ sản xuất phù hợp với trình độ phát triển của lực lượng sản xuất",
+      "Quy luật thống nhất và đấu tranh của các mặt đối lập"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại ba quy luật cơ bản của phép biện chứng duy vật: nguồn gốc, cách thức và khuynh hướng của sự phát triển (học phần Triết học Mác – Lênin).",
+    "source": "Giáo trình Triết học Mác – Lênin (dành cho bậc đại học hệ không chuyên lý luận chính trị), Bộ GD&ĐT – NXB Chính trị quốc gia Sự thật 2021, giảng dạy theo Công văn 3056/BGDĐT-GDĐH ngày 19/7/2019 – Chương 2 (Chủ nghĩa duy vật biện chứng) – Quy luật thống nhất và đấu tranh của các mặt đối lập: nguồn gốc, động lực của sự phát triển"
+  },
+  {
+    "id": "dh_ktct_01",
+    "subject": "Kinh tế chính trị Mác – Lênin",
+    "topic": "Hàng hóa",
+    "type": "academic",
+    "question": "Theo Kinh tế chính trị Mác – Lênin, hàng hóa có hai thuộc tính nào?",
+    "options": [
+      "Giá trị và giá cả",
+      "Giá trị sử dụng và giá cả",
+      "Giá trị sử dụng và giá trị",
+      "Giá trị trao đổi và lợi nhuận"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại khái niệm hàng hóa và hai thuộc tính của hàng hóa (học phần Kinh tế chính trị Mác – Lênin).",
+    "source": "Giáo trình Kinh tế chính trị Mác – Lênin (dành cho bậc đại học hệ không chuyên lý luận chính trị), Bộ GD&ĐT – NXB Chính trị quốc gia Sự thật 2021, giảng dạy theo Công văn 3056/BGDĐT-GDĐH ngày 19/7/2019 – Chương 2 – Hàng hóa và hai thuộc tính: giá trị sử dụng và giá trị"
+  },
+  {
+    "id": "dh_ktct_02",
+    "subject": "Kinh tế chính trị Mác – Lênin",
+    "topic": "Công thức chung của tư bản",
+    "type": "academic",
+    "question": "Trong công thức chung của tư bản T – H – T', với T' = T + ΔT, phần ΔT được gọi là gì?",
+    "options": [
+      "Giá trị thặng dư",
+      "Tư bản bất biến",
+      "Tiền công",
+      "Tư bản khả biến"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại công thức chung của tư bản và nguồn gốc của giá trị thặng dư (học phần Kinh tế chính trị Mác – Lênin).",
+    "source": "Giáo trình Kinh tế chính trị Mác – Lênin (dành cho bậc đại học hệ không chuyên lý luận chính trị), Bộ GD&ĐT – NXB Chính trị quốc gia Sự thật 2021, giảng dạy theo Công văn 3056/BGDĐT-GDĐH ngày 19/7/2019 – Chương 3 – Công thức chung của tư bản T – H – T'; ΔT là giá trị thặng dư"
+  },
+  {
+    "id": "dh_phapluat_01",
+    "subject": "Pháp luật đại cương",
+    "topic": "Bộ máy nhà nước",
+    "type": "academic",
+    "question": "Theo Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam, cơ quan quyền lực nhà nước cao nhất là cơ quan nào?",
+    "options": [
+      "Chính phủ",
+      "Tòa án nhân dân tối cao",
+      "Chủ tịch nước",
+      "Quốc hội"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại vị trí, chức năng của các cơ quan trong bộ máy nhà nước Việt Nam (học phần Pháp luật đại cương).",
+    "source": "Hiến pháp nước CHXHCN Việt Nam năm 2013 (sửa đổi, bổ sung theo Nghị quyết 203/2025/QH15; điều này không bị sửa đổi) – Pháp luật đại cương – Điều 69: Quốc hội là cơ quan đại biểu cao nhất của Nhân dân, cơ quan quyền lực nhà nước cao nhất"
+  },
+  {
+    "id": "dh_phapluat_03",
+    "subject": "Pháp luật đại cương",
+    "topic": "Vị trí của Hiến pháp",
+    "type": "academic",
+    "question": "Theo Hiến pháp năm 2013 (sửa đổi, bổ sung năm 2025), văn bản nào là luật cơ bản của nước Cộng hòa xã hội chủ nghĩa Việt Nam và có hiệu lực pháp lý cao nhất?",
+    "options": [
+      "Bộ luật Dân sự",
+      "Nghị định của Chính phủ",
+      "Hiến pháp",
+      "Luật Tổ chức Quốc hội"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại vị trí, hiệu lực của Hiến pháp trong hệ thống pháp luật Việt Nam (Hiến pháp 2013, Điều 119; học phần Pháp luật đại cương).",
+    "source": "Hiến pháp nước CHXHCN Việt Nam năm 2013 (sửa đổi, bổ sung theo Nghị quyết 203/2025/QH15; điều này không bị sửa đổi) – Pháp luật đại cương – Điều 119 khoản 1: Hiến pháp là luật cơ bản của nước, có hiệu lực pháp lý cao nhất"
+  },
+  {
+    "id": "dh_tinhoc_01",
+    "subject": "Tin học đại cương",
+    "topic": "Hệ đếm nhị phân",
+    "type": "academic",
+    "question": "Số nhị phân 1011₂ bằng bao nhiêu trong hệ thập phân?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "13"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên ôn lại cách chuyển đổi giữa hệ nhị phân và hệ thập phân (học phần Tin học đại cương).",
+    "source": "J. G. Brookshear & D. Brylow, Computer Science: An Overview (Pearson) – Tin học đại cương – Hệ nhị phân và chuyển đổi sang hệ thập phân"
+  },
+  {
+    "id": "dh_tinhoc_02",
+    "subject": "Tin học đại cương",
+    "topic": "Lập trình Python cơ bản",
+    "type": "academic",
+    "question": "Trong Python 3, câu lệnh print(7 // 2) in ra kết quả gì?",
+    "options": [
+      "3.5",
+      "4",
+      "1",
+      "3"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại các toán tử số học trong Python, đặc biệt là phép chia lấy phần nguyên // và phép chia / (học phần Tin học đại cương / Lập trình cơ bản).",
+    "source": "Python 3 Documentation – The Python Tutorial – Mục 3.1.1 Numbers: toán tử // là phép chia lấy phần nguyên (floor division)"
+  },
+  {
+    "id": "dh_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Thì hiện tại hoàn thành",
+    "type": "academic",
+    "question": "Chọn từ đúng điền vào chỗ trống: \"She has lived in Hanoi ___ 2015.\"",
+    "options": [
+      "since",
+      "for",
+      "from",
+      "during"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại cách dùng since (mốc thời gian) và for (khoảng thời gian) với thì hiện tại hoàn thành (học phần Tiếng Anh).",
+    "source": "R. Murphy, English Grammar in Use (Cambridge University Press) – Tiếng Anh – Thì hiện tại hoàn thành với since (mốc thời gian) / for (khoảng thời gian)"
+  },
+  {
+    "id": "dh_tienganh_02",
+    "subject": "Tiếng Anh",
+    "topic": "Câu điều kiện loại 2",
+    "type": "academic",
+    "question": "Chọn đáp án đúng: \"If I ___ you, I would accept the job offer.\"",
+    "options": [
+      "am",
+      "were",
+      "will be",
+      "have been"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại cấu trúc câu điều kiện loại 2 (If + S + V quá khứ, S + would + V) (học phần Tiếng Anh).",
+    "source": "R. Murphy, English Grammar in Use (Cambridge University Press) – Tiếng Anh – Câu điều kiện loại 2 (If I were…, I would…)"
+  },
+  {
+    "id": "dh_vatly_01",
+    "subject": "Vật lý đại cương",
+    "topic": "Định luật II Newton",
+    "type": "academic",
+    "question": "Một vật có khối lượng 2 kg chịu tác dụng của hợp lực 10 N. Theo định luật II Newton, gia tốc của vật là bao nhiêu?",
+    "options": [
+      "5 m/s²",
+      "20 m/s²",
+      "0,2 m/s²",
+      "12 m/s²"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên ôn lại định luật II Newton: F = m·a (học phần Vật lý đại cương – Cơ học).",
+    "source": "D. Halliday, R. Resnick & J. Walker, Fundamentals of Physics (Wiley) – Vật lý đại cương – Định luật II Newton: F = m·a"
+  },
+  {
+    "id": "dh_ktvm_01",
+    "subject": "Kinh tế vi mô",
+    "topic": "Luật cầu",
+    "type": "academic",
+    "question": "Theo luật cầu, khi giá của một hàng hóa thông thường tăng lên (các yếu tố khác không đổi) thì điều gì xảy ra?",
+    "options": [
+      "Lượng cầu về hàng hóa đó tăng",
+      "Lượng cầu về hàng hóa đó không đổi",
+      "Lượng cung về hàng hóa đó giảm",
+      "Lượng cầu về hàng hóa đó giảm"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại luật cầu và sự khác nhau giữa thay đổi lượng cầu với dịch chuyển đường cầu (học phần Kinh tế vi mô).",
+    "source": "N. G. Mankiw, Principles of Economics (Cengage) – Kinh tế vi mô – Luật cầu: giá tăng thì lượng cầu giảm (các yếu tố khác không đổi)"
+  },
+  {
+    "id": "dh_gdqp_01",
+    "subject": "Giáo dục quốc phòng và an ninh",
+    "topic": "Cấu trúc chương trình",
+    "type": "academic",
+    "question": "Theo Thông tư 05/2020/TT-BGDĐT, chương trình Giáo dục quốc phòng và an ninh trình độ đại học gồm bao nhiêu học phần?",
+    "options": [
+      "2 học phần",
+      "3 học phần",
+      "5 học phần",
+      "4 học phần"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên ôn lại cấu trúc chương trình GDQP-AN: 4 học phần, tổng 165 tiết (Thông tư 05/2020/TT-BGDĐT).",
+    "source": "Thông tư 05/2020/TT-BGDĐT – Chương trình Giáo dục quốc phòng và an ninh trong trường trung cấp sư phạm, cao đẳng sư phạm và cơ sở giáo dục đại học – Cấu trúc 4 học phần (I: Đường lối QP-AN của Đảng; II: Công tác QP-AN; III: Quân sự chung; IV: Kỹ thuật chiến đấu bộ binh và chiến thuật), 165 tiết"
+  },
+  {
+    "id": "dh_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Liêm chính học thuật",
+    "type": "open",
+    "question": "Khi viết tiểu luận, bạn muốn sử dụng một đoạn nội dung từ một bài báo khoa học. Cách làm nào là đúng?",
+    "options": [
+      "Sao chép nguyên văn mà không cần ghi nguồn vì bài báo đã công khai",
+      "Trích dẫn nguồn đầy đủ (đặt trong ngoặc kép nếu dùng nguyên văn) và ghi vào danh mục tài liệu tham khảo",
+      "Thay đổi vài từ để không bị phát hiện, không cần ghi nguồn",
+      "Nhờ công cụ viết lại toàn bộ đoạn văn rồi coi đó là ý của mình"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên tìm hiểu quy định về liêm chính học thuật, cách trích dẫn tài liệu và các hình thức đạo văn.",
+    "source": "APA Publication Manual (7th ed., 2020) – Kỹ năng học thuật – Chương 8: trích dẫn, trích nguyên văn đặt trong ngoặc kép và tránh đạo văn"
+  },
+  {
+    "id": "dh_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Lừa đảo việc làm online",
+    "type": "open",
+    "question": "Một nhóm trên mạng xã hội tuyển cộng tác viên \"việc nhẹ lương cao\", yêu cầu bạn chuyển tiền trước để \"làm nhiệm vụ\" hoặc \"đặt cọc\" rồi sẽ được hoàn lại kèm hoa hồng. Bạn nên làm gì?",
+    "options": [
+      "Chuyển thử một khoản nhỏ để kiểm tra",
+      "Chuyển tiền vì họ hứa hoàn lại kèm hoa hồng",
+      "Từ chối, không chuyển tiền, không cung cấp thông tin cá nhân và cảnh báo bạn bè",
+      "Gửi ảnh căn cước để họ xác minh rồi mới chuyển tiền"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên tìm hiểu các dấu hiệu lừa đảo tuyển dụng online: yêu cầu nộp tiền trước, hứa thu nhập cao bất thường, đòi thông tin cá nhân.",
+    "source": "Bộ luật Hình sự 2015 (sửa đổi, bổ sung) – Điều 174 Tội lừa đảo chiếm đoạt tài sản – Kỹ năng phòng tránh lừa đảo trực tuyến"
+  },
+  {
+    "id": "dh_mo_04",
+    "subject": "Câu hỏi mở",
+    "topic": "Kỹ năng làm việc nhóm",
+    "type": "open",
+    "question": "Trong bài tập nhóm, một thành viên liên tục trễ hạn phần việc của mình khiến cả nhóm có nguy cơ nộp muộn. Cách xử lý nào phù hợp nhất?",
+    "options": [
+      "Trao đổi thẳng thắn với bạn đó, cùng điều chỉnh phân công và thống nhất mốc thời gian rõ ràng",
+      "Âm thầm làm hộ toàn bộ phần của bạn đó mà không nói gì",
+      "Xóa tên bạn đó khỏi bài mà không trao đổi",
+      "Đăng bài chê trách bạn đó lên mạng xã hội"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Bạn nên rèn kỹ năng giao tiếp và làm việc nhóm: phân công rõ ràng, trao đổi trực tiếp, tôn trọng nhau (học phần Kỹ năng mềm).",
+    "source": "Chương trình đào tạo đại học (Sổ tay CTĐT), Trường ĐH Khoa học – Đại học Huế, 2021 – Học phần Kỹ năng mềm – Kỹ năng giao tiếp và kỹ năng làm việc nhóm"
+  },
+  {
+    "id": "dh_xahoi_01",
+    "subject": "Kiến thức xã hội",
+    "topic": "Pháp luật dân sự",
+    "type": "social",
+    "question": "Theo Bộ luật Dân sự năm 2015 của Việt Nam, người thành niên là người từ đủ bao nhiêu tuổi trở lên?",
+    "options": [
+      "16 tuổi",
+      "20 tuổi",
+      "21 tuổi",
+      "18 tuổi"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Bạn nên tìm hiểu quy định về người thành niên và năng lực hành vi dân sự trong Bộ luật Dân sự 2015.",
+    "source": "Bộ luật Dân sự 2015 – Điều 20 khoản 1: Người thành niên là người từ đủ mười tám tuổi trở lên"
+  },
+  {
+    "id": "dh_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Kinh tế vĩ mô",
+    "type": "social",
+    "question": "Lạm phát là hiện tượng gì?",
+    "options": [
+      "Giá của một mặt hàng tăng đột biến trong một ngày",
+      "Mức giá chung giảm liên tục trong một thời gian",
+      "Mức giá chung của hàng hóa, dịch vụ tăng lên liên tục trong một thời gian",
+      "Tỷ lệ thất nghiệp tăng cao"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Bạn nên tìm hiểu khái niệm lạm phát, giảm phát và tác động của chúng đến đời sống.",
+    "source": "N. G. Mankiw, Principles of Economics (Cengage) – Kinh tế vĩ mô – Lạm phát: sự tăng lên của mức giá chung trong nền kinh tế"
+  },
+  {
+    "id": "dh_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quyền ứng cử của công dân",
+    "type": "social",
+    "question": "Theo Điều 27 Hiến pháp năm 2013, công dân Việt Nam đủ bao nhiêu tuổi trở lên có quyền ứng cử vào Quốc hội, Hội đồng nhân dân?",
+    "options": [
+      "18 tuổi",
+      "21 tuổi",
+      "20 tuổi",
+      "25 tuổi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Bạn nên ôn lại quyền bầu cử (đủ 18 tuổi) và quyền ứng cử (đủ 21 tuổi) của công dân (Hiến pháp 2013, Điều 27).",
+    "source": "Hiến pháp nước CHXHCN Việt Nam năm 2013 (sửa đổi, bổ sung theo Nghị quyết 203/2025/QH15; điều này không bị sửa đổi) – Quyền công dân – Điều 27: đủ mười tám tuổi có quyền bầu cử, đủ hai mươi mốt tuổi có quyền ứng cử vào Quốc hội, Hội đồng nhân dân"
+  }
+]

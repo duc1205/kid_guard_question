@@ -1,0 +1,386 @@
+[
+  {
+    "id": "g3_toan_01",
+    "subject": "Toán",
+    "topic": "Bảng nhân 8",
+    "type": "academic",
+    "question": "7 × 8 bằng bao nhiêu?",
+    "options": [
+      "54",
+      "56",
+      "48",
+      "63"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bảng nhân 7 và bảng nhân 8 ở môn Toán lớp 3, đọc thuộc lòng và luyện tập mỗi ngày.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 3 – Số và phép tính – Phép nhân, phép chia – YCCĐ: Vận dụng được các bảng nhân, bảng chia 2, 3,..., 9 trong thực hành tính"
+  },
+  {
+    "id": "g3_toan_02",
+    "subject": "Toán",
+    "topic": "Bảng chia 7",
+    "type": "academic",
+    "question": "63 : 7 bằng bao nhiêu?",
+    "options": [
+      "8",
+      "7",
+      "9",
+      "6"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bảng chia 7 ở môn Toán lớp 3, nhớ rằng phép chia là phép tính ngược của phép nhân.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 3 – Số và phép tính – Phép nhân, phép chia – YCCĐ: Vận dụng được các bảng nhân, bảng chia 2, 3,..., 9 trong thực hành tính"
+  },
+  {
+    "id": "g3_toan_03",
+    "subject": "Toán",
+    "topic": "Chu vi hình vuông",
+    "type": "academic",
+    "question": "Một hình vuông có cạnh dài 5 cm. Chu vi hình vuông đó là bao nhiêu?",
+    "options": [
+      "25 cm",
+      "10 cm",
+      "15 cm",
+      "20 cm"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cách tính chu vi hình vuông ở môn Toán lớp 3: lấy độ dài một cạnh nhân với 4.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 3 – Đo lường – Tính toán với các số đo đại lượng – YCCĐ: Tính được chu vi của hình tam giác, hình tứ giác, hình chữ nhật, hình vuông khi biết độ dài các cạnh"
+  },
+  {
+    "id": "g3_toan_04",
+    "subject": "Toán",
+    "topic": "Gam và ki-lô-gam",
+    "type": "academic",
+    "question": "1 kg bằng bao nhiêu gam?",
+    "options": [
+      "1000 g",
+      "100 g",
+      "10 g",
+      "10 000 g"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài đơn vị đo khối lượng gam ở môn Toán lớp 3: 1 kg = 1000 g.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 3 – Đo lường – Biểu tượng về đại lượng và đơn vị đo – YCCĐ: Nhận biết được đơn vị đo khối lượng g (gam); quan hệ giữa g và kg"
+  },
+  {
+    "id": "g3_toan_05",
+    "subject": "Toán",
+    "topic": "Chữ số La Mã",
+    "type": "academic",
+    "question": "Số 9 viết bằng chữ số La Mã là gì?",
+    "options": [
+      "IX",
+      "XI",
+      "VI",
+      "IV"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài chữ số La Mã ở môn Toán lớp 3: I là 1, V là 5, X là 10; chữ số nhỏ đứng trước chữ số lớn thì lấy số lớn trừ số nhỏ (IX = 10 - 1).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 3 – Số và phép tính – Số và cấu tạo thập phân của một số – YCCĐ: Nhận biết được chữ số La Mã và viết được các số tự nhiên trong phạm vi 20 bằng chữ số La Mã"
+  },
+  {
+    "id": "g3_toan_06",
+    "subject": "Toán",
+    "topic": "Làm tròn số",
+    "type": "academic",
+    "question": "Làm tròn số 2 718 đến hàng chục thì được số nào?",
+    "options": [
+      "2 720",
+      "2 710",
+      "2 700",
+      "2 800"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài làm tròn số ở môn Toán lớp 3: nhìn chữ số hàng đơn vị, nếu bé hơn 5 thì làm tròn xuống, nếu từ 5 trở lên thì làm tròn lên.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 3 – Số và phép tính – Làm tròn số – YCCĐ: Làm quen với việc làm tròn số đến tròn chục, tròn trăm, tròn nghìn, tròn mười nghìn"
+  },
+  {
+    "id": "g3_tiengviet_01",
+    "subject": "Tiếng Việt",
+    "topic": "Biện pháp so sánh",
+    "type": "academic",
+    "question": "Trong câu \"Trẻ em như búp trên cành\", trẻ em được so sánh với gì?",
+    "options": [
+      "cành cây",
+      "trẻ em",
+      "búp trên cành",
+      "như"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại biện pháp so sánh ở môn Tiếng Việt lớp 3, chú ý các từ so sánh như \"như\", \"là\", \"giống như\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 3 – Kiến thức tiếng Việt – Biện pháp tu từ so sánh – YCCĐ: Nhận biết đặc điểm và tác dụng của biện pháp tu từ so sánh"
+  },
+  {
+    "id": "g3_tiengviet_02",
+    "subject": "Tiếng Việt",
+    "topic": "Từ chỉ đặc điểm",
+    "type": "academic",
+    "question": "Từ nào là từ chỉ đặc điểm?",
+    "options": [
+      "học sinh",
+      "chăm chỉ",
+      "viết",
+      "quyển vở"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài từ chỉ sự vật, từ chỉ hoạt động và từ chỉ đặc điểm ở môn Tiếng Việt lớp 3.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 3 – Kiến thức tiếng Việt – Từ chỉ sự vật, hoạt động, tính chất – YCCĐ: Nhận biết từ chỉ sự vật, hoạt động, tính chất (đặc điểm)"
+  },
+  {
+    "id": "g3_tiengviet_03",
+    "subject": "Tiếng Việt",
+    "topic": "Từ có nghĩa giống nhau",
+    "type": "academic",
+    "question": "Từ nào có nghĩa giống với từ \"to lớn\"?",
+    "options": [
+      "nhỏ bé",
+      "xinh xắn",
+      "thấp bé",
+      "khổng lồ"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài từ có nghĩa giống nhau và từ có nghĩa trái ngược nhau ở môn Tiếng Việt lớp 3.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 3 – Kiến thức tiếng Việt – Từ có nghĩa giống nhau và trái ngược nhau – YCCĐ: Nhận biết từ có nghĩa giống nhau và từ có nghĩa trái ngược nhau"
+  },
+  {
+    "id": "g3_tiengviet_04",
+    "subject": "Tiếng Việt",
+    "topic": "Câu khiến",
+    "type": "academic",
+    "question": "Câu \"Em hãy đóng cửa sổ lại!\" thuộc kiểu câu nào?",
+    "options": [
+      "Câu kể",
+      "Câu hỏi",
+      "Câu cảm",
+      "Câu khiến"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài câu kể, câu hỏi, câu khiến, câu cảm ở môn Tiếng Việt lớp 3. Câu khiến dùng để đề nghị, yêu cầu, thường có từ \"hãy\", \"đừng\", \"chớ\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 3 – Kiến thức tiếng Việt – Kiểu câu – YCCĐ: Sơ giản về câu kể, câu hỏi, câu khiến, câu cảm: đặc điểm thể hiện qua dấu câu, từ đánh dấu kiểu câu và công dụng"
+  },
+  {
+    "id": "g3_daoduc_01",
+    "subject": "Đạo đức",
+    "topic": "Em yêu Tổ quốc Việt Nam",
+    "type": "academic",
+    "question": "Trong lễ chào cờ, em nên làm gì?",
+    "options": [
+      "Đứng nghiêm, hướng về lá cờ và hát Quốc ca",
+      "Nói chuyện với bạn",
+      "Ngồi xuống cho đỡ mỏi",
+      "Chơi đùa sau hàng"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài em yêu Tổ quốc Việt Nam ở môn Đạo đức lớp 3, nhớ nghiêm trang khi chào cờ và hát Quốc ca.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Em yêu Tổ quốc Việt Nam – YCCĐ: Biết Quốc hiệu, Quốc kì, Quốc ca; nghiêm trang khi chào cờ và hát Quốc ca"
+  },
+  {
+    "id": "g3_daoduc_02",
+    "subject": "Đạo đức",
+    "topic": "Giữ lời hứa",
+    "type": "academic",
+    "question": "Thế nào là giữ lời hứa?",
+    "options": [
+      "Hứa thật nhiều với mọi người",
+      "Hứa xong rồi quên",
+      "Thực hiện đúng điều mình đã hứa với người khác",
+      "Không bao giờ hứa với ai"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài giữ lời hứa ở môn Đạo đức lớp 3: đã hứa thì cố gắng làm đúng điều mình hứa.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Giữ lời hứa – YCCĐ: Nêu được biểu hiện của việc giữ lời hứa; thực hiện giữ lời hứa bằng lời nói, việc làm cụ thể"
+  },
+  {
+    "id": "g3_tnxh_01",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Các bộ phận của thực vật",
+    "type": "academic",
+    "question": "Bộ phận nào của cây có nhiệm vụ hút nước và muối khoáng từ đất?",
+    "options": [
+      "Lá",
+      "Hoa",
+      "Rễ",
+      "Quả"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài các bộ phận của thực vật ở môn Tự nhiên và Xã hội lớp 3: rễ, thân, lá, hoa, quả và chức năng của chúng.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 3 – Thực vật và động vật – Các bộ phận của thực vật và chức năng – YCCĐ: Trình bày được chức năng của các bộ phận của thực vật (rễ, thân, lá, hoa, quả)"
+  },
+  {
+    "id": "g3_tnxh_02",
+    "subject": "Tự nhiên và Xã hội",
+    "topic": "Phương hướng và Mặt Trời",
+    "type": "academic",
+    "question": "Hằng ngày, Mặt Trời mọc ở phương nào?",
+    "options": [
+      "Phương Tây",
+      "Phương Nam",
+      "Phương Bắc",
+      "Phương Đông"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Trái Đất và Mặt Trời ở môn Tự nhiên và Xã hội lớp 3: Mặt Trời mọc ở phương Đông, lặn ở phương Tây.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tự nhiên và Xã hội – Lớp 3 – Trái Đất và bầu trời – Phương hướng – YCCĐ: Thực hành xác định được các phương chính dựa trên phương Mặt Trời mọc, lặn hoặc sử dụng la bàn"
+  },
+  {
+    "id": "g3_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Greetings - Hỏi tên",
+    "type": "academic",
+    "question": "Câu trả lời đúng cho câu hỏi \"What is your name?\" là gì?",
+    "options": [
+      "I'm fine, thank you.",
+      "My name is Nam.",
+      "I'm eight years old.",
+      "Goodbye."
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài chào hỏi và giới thiệu tên trong Tiếng Anh lớp 3: \"What's your name?\" - \"My name is ...\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 3 – Em và những người bạn của em – Bản thân – YCCĐ: Nghe và trả lời các câu hỏi rất đơn giản về chủ đề quen thuộc; câu hỏi có từ để hỏi what"
+  },
+  {
+    "id": "g3_tinhoc_01",
+    "subject": "Tin học",
+    "topic": "Các bộ phận của máy tính",
+    "type": "academic",
+    "question": "Bộ phận nào của máy tính dùng để gõ chữ?",
+    "options": [
+      "Chuột",
+      "Màn hình",
+      "Bàn phím",
+      "Loa"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài các bộ phận của máy tính ở môn Tin học lớp 3: màn hình, bàn phím, chuột, thân máy và công dụng của chúng.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học (Tin học và Công nghệ) – Lớp 3 – Chủ đề A. Máy tính và em – Khám phá máy tính – YCCĐ: Nêu được sơ lược về chức năng của bàn phím và chuột, màn hình và loa"
+  },
+  {
+    "id": "g3_congnghe_01",
+    "subject": "Công nghệ",
+    "topic": "Tự nhiên và công nghệ",
+    "type": "academic",
+    "question": "Đâu là sản phẩm công nghệ do con người làm ra?",
+    "options": [
+      "Cây xoài",
+      "Đèn học",
+      "Dòng sông",
+      "Con mèo"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài tự nhiên và công nghệ ở môn Công nghệ lớp 3, phân biệt vật có sẵn trong tự nhiên và sản phẩm do con người làm ra.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Công nghệ (Tin học và Công nghệ) – Lớp 3 – Công nghệ và đời sống – Tự nhiên và công nghệ – YCCĐ: Phân biệt được đối tượng tự nhiên và sản phẩm công nghệ"
+  },
+  {
+    "id": "g3_mithuat_01",
+    "subject": "Mĩ thuật",
+    "topic": "Màu thứ cấp",
+    "type": "academic",
+    "question": "Pha màu vàng với màu xanh lam, em được màu gì?",
+    "options": [
+      "Màu xanh lá cây",
+      "Màu đỏ",
+      "Màu tím",
+      "Màu cam"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài màu cơ bản và màu thứ cấp ở môn Mĩ thuật lớp 3: vàng + xanh lam = xanh lá cây, đỏ + vàng = cam, đỏ + xanh lam = tím.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Mĩ thuật – Lớp 3 – Mĩ thuật tạo hình – Yếu tố và nguyên lí tạo hình – YCCĐ: Biết phân biệt màu cơ bản và màu thứ cấp; tạo được màu thứ cấp và đọc được tên các màu đó"
+  },
+  {
+    "id": "g3_mo_04",
+    "subject": "Câu hỏi mở",
+    "topic": "Xử lí bất hoà với bạn bè",
+    "type": "open",
+    "question": "Hai bạn trong nhóm cãi nhau vì cùng muốn đọc một quyển truyện. Em nên làm gì?",
+    "options": [
+      "Đứng ngoài cổ vũ cho to hơn",
+      "Khuyên hai bạn bình tĩnh và thay phiên nhau đọc",
+      "Lấy quyển truyện đem giấu đi",
+      "Chê bai cả hai bạn"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Con hãy nhớ khi bạn bè bất hoà, con có thể giúp các bạn bình tĩnh, lắng nghe nhau và tìm cách chia sẻ công bằng; nếu không được thì nhờ thầy cô.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Xử lí bất hoà với bạn bè – YCCĐ: Thực hiện được một số cách đơn giản, phù hợp để xử lí bất hoà; sẵn sàng giúp bạn bè xử lí bất hoà với nhau"
+  },
+  {
+    "id": "g3_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "An toàn trên mạng",
+    "type": "open",
+    "question": "Một người lạ nhắn tin qua mạng hỏi địa chỉ nhà em. Em nên làm gì?",
+    "options": [
+      "Gửi địa chỉ cho người đó",
+      "Không trả lời và báo ngay cho bố mẹ",
+      "Gửi thêm ảnh của mình",
+      "Hẹn gặp người đó"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Con hãy nhớ không bao giờ chia sẻ địa chỉ, số điện thoại hay hình ảnh với người lạ trên mạng, và luôn kể với bố mẹ.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học (Tin học và Công nghệ) – Lớp 3 – Chủ đề D. Đạo đức, pháp luật và văn hoá trong môi trường số – YCCĐ: Có ý thức bảo vệ thông tin cá nhân và gia đình khi giao tiếp qua máy tính; biết người xấu có thể lợi dụng thông tin này"
+  },
+  {
+    "id": "g3_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Trung thực",
+    "type": "open",
+    "question": "Em bị điểm kém trong bài kiểm tra. Em nên làm gì?",
+    "options": [
+      "Thật thà kể với bố mẹ và cố gắng học tốt hơn",
+      "Giấu bài kiểm tra đi",
+      "Sửa điểm trong bài",
+      "Nói dối là cô chưa trả bài"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Con hãy nhớ trung thực với bố mẹ, điểm kém là cơ hội để con biết mình cần ôn thêm phần nào.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Khám phá bản thân – YCCĐ: Nêu được điểm mạnh, điểm yếu của bản thân; rèn luyện để khắc phục điểm yếu"
+  },
+  {
+    "id": "g3_xahoi_01",
+    "subject": "Kiến thức xã hội",
+    "topic": "An toàn giao thông",
+    "type": "social",
+    "question": "Khi ngồi sau xe máy, em phải làm gì?",
+    "options": [
+      "Đứng lên yên xe",
+      "Bỏ hai tay ra để chơi",
+      "Đội mũ bảo hiểm và cài quai đúng cách",
+      "Ngồi quay ngược ra sau"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại quy định an toàn giao thông: luôn đội mũ bảo hiểm cài quai đúng cách và ngồi ngay ngắn khi đi xe máy.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Tuân thủ quy tắc an toàn giao thông – YCCĐ: Nêu được một số quy tắc an toàn giao thông thường gặp; nhận biết sự cần thiết phải tuân thủ"
+  },
+  {
+    "id": "g3_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quốc hiệu Việt Nam",
+    "type": "social",
+    "question": "Quốc hiệu hiện nay của nước ta là gì?",
+    "options": [
+      "Việt Nam Dân chủ Cộng hòa",
+      "Đại Việt",
+      "Đại Nam",
+      "Cộng hòa xã hội chủ nghĩa Việt Nam"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài Em yêu Tổ quốc Việt Nam ở môn Đạo đức lớp 3: Quốc hiệu của nước ta là Cộng hòa xã hội chủ nghĩa Việt Nam.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Em yêu Tổ quốc Việt Nam – YCCĐ: Biết Quốc hiệu, Quốc kì, Quốc ca Việt Nam; Hiến pháp nước CHXHCN Việt Nam năm 2013 (sửa đổi, bổ sung năm 2025) – Điều 1"
+  },
+  {
+    "id": "g3_xahoi_03",
+    "subject": "Kiến thức xã hội",
+    "topic": "Ngày lễ của đất nước",
+    "type": "social",
+    "question": "Ngày Quốc khánh nước Cộng hòa xã hội chủ nghĩa Việt Nam là ngày nào?",
+    "options": [
+      "Ngày 30 tháng 4",
+      "Ngày 1 tháng 5",
+      "Ngày 1 tháng 6",
+      "Ngày 2 tháng 9"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em hãy nhớ ngày 2 tháng 9 năm 1945, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập, đó là ngày Quốc khánh của nước ta.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Em yêu Tổ quốc Việt Nam – YCCĐ: Trân trọng và tự hào về truyền thống lịch sử của đất nước; Hiến pháp nước CHXHCN Việt Nam năm 2013 (sửa đổi, bổ sung năm 2025) – Điều 13 khoản 4: Quốc khánh là ngày Tuyên ngôn độc lập 2 tháng 9 năm 1945"
+  }
+]

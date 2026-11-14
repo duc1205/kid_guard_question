@@ -1,0 +1,338 @@
+[
+  {
+    "id": "g10_toan_01",
+    "subject": "Toán",
+    "topic": "Mệnh đề",
+    "type": "academic",
+    "question": "Mệnh đề phủ định của mệnh đề \"∀x ∈ ℝ, x² ≥ 0\" là:",
+    "options": [
+      "∀x ∈ ℝ, x² < 0",
+      "∃x ∈ ℝ, x² < 0",
+      "∃x ∈ ℝ, x² ≥ 0",
+      "∀x ∈ ℝ, x² ≤ 0"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại cách phủ định mệnh đề chứa kí hiệu ∀, ∃: đổi ∀ thành ∃ và phủ định tính chất (Toán 10, chương Mệnh đề và tập hợp).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 10 – Mệnh đề và tập hợp (KNTT Toán 10, Chương I) – YCCĐ: thiết lập và phát biểu được mệnh đề phủ định của mệnh đề chứa kí hiệu ∀, ∃"
+  },
+  {
+    "id": "g10_toan_02",
+    "subject": "Toán",
+    "topic": "Các phép toán trên tập hợp",
+    "type": "academic",
+    "question": "Cho A = {1; 2; 3} và B = {2; 3; 4}. Tập hợp A ∩ B là:",
+    "options": [
+      "{1; 2; 3; 4}",
+      "{1}",
+      "{2; 3}",
+      "{4}"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại các phép giao, hợp, hiệu của hai tập hợp (Toán 10, chương Mệnh đề và tập hợp).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 10 – Mệnh đề và tập hợp (KNTT Toán 10, Chương I) – YCCĐ: thực hiện được các phép toán giao, hợp, hiệu của hai tập hợp"
+  },
+  {
+    "id": "g10_toan_03",
+    "subject": "Toán",
+    "topic": "Hệ thức lượng trong tam giác",
+    "type": "academic",
+    "question": "Trong tam giác ABC với BC = a, CA = b, AB = c, định lí côsin cho ta hệ thức nào?",
+    "options": [
+      "a² = b² + c² + 2bc·cosA",
+      "a² = b² + c² − bc·cosA",
+      "a = b + c − 2bc·cosA",
+      "a² = b² + c² − 2bc·cosA"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại định lí côsin và định lí sin trong tam giác (Toán 10, chương Hệ thức lượng trong tam giác).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 10 – Hệ thức lượng trong tam giác (KNTT Toán 10, Chương III) – YCCĐ: nhận biết và vận dụng được định lí côsin trong tam giác"
+  },
+  {
+    "id": "g10_nguvan_01",
+    "subject": "Ngữ văn",
+    "topic": "Sử thi",
+    "type": "academic",
+    "question": "Sử thi \"Đăm Săn\" là sử thi của dân tộc nào ở Tây Nguyên?",
+    "options": [
+      "Ê-đê",
+      "Ba Na",
+      "Mường",
+      "Thái"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài học về thể loại sử thi và đoạn trích sử thi \"Đăm Săn\" của người Ê-đê (Ngữ văn 10).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 10 – Đọc văn bản văn học – Sử thi (KNTT Ngữ văn 10, Bài 4 \"Sức sống của sử thi\": Đăm Săn đi bắt Nữ thần Mặt Trời) – YCCĐ: nhận biết được đặc điểm của sử thi và bối cảnh văn hoá (dân tộc Ê-đê) của văn bản"
+  },
+  {
+    "id": "g10_nguvan_02",
+    "subject": "Ngữ văn",
+    "topic": "Văn bản nghị luận trung đại",
+    "type": "academic",
+    "question": "\"Bình Ngô đại cáo\" là tác phẩm của ai?",
+    "options": [
+      "Lý Thường Kiệt",
+      "Trần Quốc Tuấn",
+      "Nguyễn Trãi",
+      "Lê Lợi"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài về tác gia Nguyễn Trãi và tác phẩm \"Bình Ngô đại cáo\" (Ngữ văn 10).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 10 – Tác gia Nguyễn Trãi – văn bản nghị luận trung đại (KNTT Ngữ văn 10, Bài 6: Bình Ngô đại cáo) – YCCĐ: nhận biết được tác giả, thể loại và giá trị của văn bản nghị luận trung đại \"Bình Ngô đại cáo\" (văn bản bắt buộc)"
+  },
+  {
+    "id": "g10_tienganh_01",
+    "subject": "Tiếng Anh",
+    "topic": "Thì hiện tại hoàn thành",
+    "type": "academic",
+    "question": "Choose the correct answer: \"She ___ in Hanoi since 2015.\"",
+    "options": [
+      "lives",
+      "has lived",
+      "lived",
+      "is living"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại thì hiện tại hoàn thành (have/has + V3) dùng với \"since\" và \"for\".",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 10 – Kiến thức ngôn ngữ – Ngữ pháp: thì hiện tại hoàn thành (KNTT Tiếng Anh 10 Global Success, Unit 5) – YCCĐ: sử dụng đúng thì hiện tại hoàn thành với since/for"
+  },
+  {
+    "id": "g10_tienganh_02",
+    "subject": "Tiếng Anh",
+    "topic": "Câu bị động",
+    "type": "academic",
+    "question": "Choose the correct answer: \"The new bridge ___ last year.\"",
+    "options": [
+      "built",
+      "is built",
+      "has built",
+      "was built"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại câu bị động thì quá khứ đơn: S + was/were + V3/V-ed.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 10 – Kiến thức ngôn ngữ – Ngữ pháp: câu bị động (KNTT Tiếng Anh 10 Global Success, Unit 2) – YCCĐ: sử dụng đúng câu bị động"
+  },
+  {
+    "id": "g10_vatli_01",
+    "subject": "Vật lí",
+    "topic": "Định luật II Newton",
+    "type": "academic",
+    "question": "Một vật có khối lượng 2 kg chuyển động với gia tốc 3 m/s². Độ lớn hợp lực tác dụng lên vật là:",
+    "options": [
+      "6 N",
+      "1,5 N",
+      "5 N",
+      "0,67 N"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại định luật II Newton F = m·a (Vật lí 10, chương Động lực học).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Vật lí – Lớp 10 – Động lực học – Ba định luật Newton – YCCĐ: vận dụng được định luật II Newton F = m·a"
+  },
+  {
+    "id": "g10_vatli_02",
+    "subject": "Vật lí",
+    "topic": "Công suất",
+    "type": "academic",
+    "question": "Đơn vị đo công suất trong hệ SI là:",
+    "options": [
+      "Jun (J)",
+      "Niutơn (N)",
+      "Oát (W)",
+      "Paxcan (Pa)"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại khái niệm công, công suất P = A/t và đơn vị oát (W) (Vật lí 10, chương Năng lượng, công, công suất).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Vật lí – Lớp 10 – Năng lượng, công, công suất – YCCĐ: nêu được định nghĩa công suất và đơn vị đo công suất (W)"
+  },
+  {
+    "id": "g10_hoahoc_01",
+    "subject": "Hóa học",
+    "topic": "Cấu hình electron nguyên tử",
+    "type": "academic",
+    "question": "Nguyên tử sodium (Na) có Z = 11. Cấu hình electron của Na là:",
+    "options": [
+      "1s²2s²2p⁶",
+      "1s²2s²2p⁶3s¹",
+      "1s²2s²2p⁵3s²",
+      "1s²2s²2p⁶3s²"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại cách viết cấu hình electron theo thứ tự mức năng lượng 1s 2s 2p 3s 3p 4s... (Hóa học 10, chương Cấu tạo nguyên tử).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoá học – Lớp 10 – Cấu tạo nguyên tử – YCCĐ: viết được cấu hình electron nguyên tử theo lớp, phân lớp (Z = 1 đến 20)"
+  },
+  {
+    "id": "g10_hoahoc_02",
+    "subject": "Hóa học",
+    "topic": "Liên kết hóa học",
+    "type": "academic",
+    "question": "Liên kết trong phân tử sodium chloride (NaCl) thuộc loại liên kết nào?",
+    "options": [
+      "Liên kết cộng hóa trị không phân cực",
+      "Liên kết hydrogen",
+      "Liên kết kim loại",
+      "Liên kết ion"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại sự hình thành liên kết ion giữa kim loại điển hình và phi kim điển hình (Hóa học 10, chương Liên kết hóa học).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoá học – Lớp 10 – Liên kết hoá học – YCCĐ: trình bày được sự hình thành liên kết ion giữa kim loại điển hình và phi kim điển hình (ví dụ NaCl)"
+  },
+  {
+    "id": "g10_sinhhoc_01",
+    "subject": "Sinh học",
+    "topic": "Cấu trúc tế bào",
+    "type": "academic",
+    "question": "Bào quan nào là nơi tổng hợp protein trong tế bào?",
+    "options": [
+      "Ribosome",
+      "Ti thể",
+      "Lysosome",
+      "Không bào"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cấu trúc và chức năng của các bào quan trong tế bào nhân thực (Sinh học 10, phần Sinh học tế bào).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Sinh học – Lớp 10 – Cấu trúc tế bào – tế bào nhân thực – YCCĐ: trình bày được cấu trúc và chức năng của các bào quan (ribosome là nơi tổng hợp protein)"
+  },
+  {
+    "id": "g10_lichsu_01",
+    "subject": "Lịch sử",
+    "topic": "Cách mạng công nghiệp",
+    "type": "academic",
+    "question": "Cuộc cách mạng công nghiệp lần thứ nhất (thế kỉ XVIII) bắt đầu ở quốc gia nào?",
+    "options": [
+      "Pháp",
+      "Đức",
+      "Anh",
+      "Mỹ"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại bài các cuộc cách mạng công nghiệp thời kì cận đại, bắt đầu từ nước Anh (Lịch sử 10).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử – Lớp 10 – Các cuộc cách mạng công nghiệp trong lịch sử thế giới – YCCĐ: nêu được nội dung cơ bản của cách mạng công nghiệp lần thứ nhất (khởi đầu ở Anh, thế kỉ XVIII)"
+  },
+  {
+    "id": "g10_diali_01",
+    "subject": "Địa lí",
+    "topic": "Chuyển động tự quay của Trái Đất",
+    "type": "academic",
+    "question": "Hệ quả nào sau đây là do Trái Đất tự quay quanh trục?",
+    "options": [
+      "Hiện tượng mùa trong năm",
+      "Ngày đêm luân phiên nhau",
+      "Ngày đêm dài ngắn theo mùa",
+      "Chuyển động biểu kiến hằng năm của Mặt Trời"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại các hệ quả chuyển động tự quay và chuyển động quanh Mặt Trời của Trái Đất (Địa lí 10).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Địa lí – Lớp 10 – Trái Đất – hệ quả địa lí các chuyển động của Trái Đất – YCCĐ: phân tích được hệ quả chuyển động tự quay quanh trục của Trái Đất (ngày đêm luân phiên)"
+  },
+  {
+    "id": "g10_gdktpl_01",
+    "subject": "Giáo dục kinh tế và pháp luật",
+    "topic": "Hiến pháp nước CHXHCN Việt Nam",
+    "type": "academic",
+    "question": "Văn bản nào có hiệu lực pháp lí cao nhất trong hệ thống pháp luật Việt Nam?",
+    "options": [
+      "Bộ luật Dân sự",
+      "Nghị định của Chính phủ",
+      "Luật Giáo dục",
+      "Hiến pháp"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài về Hiến pháp – luật cơ bản của Nhà nước, có hiệu lực pháp lí cao nhất (Giáo dục kinh tế và pháp luật 10).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 10 – Hiến pháp nước CHXHCN Việt Nam (chủ đề sửa đổi theo TT 17/2025) – YCCĐ: nêu được khái niệm, đặc điểm, vị trí của Hiến pháp trong hệ thống pháp luật Việt Nam – có hiệu lực pháp lí cao nhất (Hiến pháp 2013, Điều 119 khoản 1, không bị sửa đổi năm 2025)"
+  },
+  {
+    "id": "g10_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "Phòng tránh lừa đảo trực tuyến",
+    "type": "open",
+    "question": "Em nhận được tin nhắn báo trúng thưởng điện thoại và được yêu cầu gửi mã OTP vừa nhận để \"xác nhận\". Em nên làm gì?",
+    "options": [
+      "Gửi mã OTP ngay để nhận quà",
+      "Không cung cấp mã OTP, bỏ qua tin nhắn và báo cho bố mẹ",
+      "Gửi mã OTP nhưng đổi mật khẩu sau",
+      "Chia sẻ tin nhắn cho bạn bè cùng nhận thưởng"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu các hình thức lừa đảo trực tuyến phổ biến và ghi nhớ nguyên tắc: không bao giờ chia sẻ mã OTP, mật khẩu cho bất kì ai.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 10 – Mạng máy tính và Internet – An toàn trên không gian mạng (KNTT Tin học 10) – YCCĐ: nhận diện được một số hình thức lừa đảo trên mạng và biết cách phòng tránh, bảo vệ thông tin cá nhân"
+  },
+  {
+    "id": "g10_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Giao tiếp trong gia đình",
+    "type": "open",
+    "question": "Em và bố mẹ có ý kiến khác nhau về việc chọn tổ hợp môn học. Cách ứng xử nào phù hợp nhất?",
+    "options": [
+      "Im lặng và tự ý làm theo ý mình",
+      "Cãi lại gay gắt cho đến khi bố mẹ đồng ý",
+      "Bình tĩnh trình bày lí do, lắng nghe ý kiến bố mẹ và cùng tìm hiểu thông tin",
+      "Làm theo ý bố mẹ nhưng bỏ bê việc học"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên rèn luyện kĩ năng giao tiếp, lắng nghe và thương lượng để giải quyết bất đồng trong gia đình một cách tôn trọng.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 10 – Hoạt động hướng vào bản thân – giao tiếp, ứng xử trong gia đình – YCCĐ: thể hiện được sự tôn trọng, lắng nghe và hợp tác khi giải quyết bất đồng với người thân"
+  },
+  {
+    "id": "g10_mo_03",
+    "subject": "Câu hỏi mở",
+    "topic": "Quản lí căng thẳng",
+    "type": "open",
+    "question": "Gần đây em cảm thấy mệt mỏi, căng thẳng vì áp lực học tập. Việc nên làm nhất là gì?",
+    "options": [
+      "Sắp xếp thời gian học và nghỉ ngơi hợp lí, chia sẻ với người thân hoặc thầy cô",
+      "Thức khuya chơi điện tử để quên căng thẳng",
+      "Bỏ học vài hôm mà không nói với ai",
+      "Cố gắng chịu đựng một mình, không nói với ai"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên tìm hiểu kĩ năng quản lí thời gian và quản lí cảm xúc, đồng thời biết chia sẻ với người thân, thầy cô khi gặp áp lực.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 10 – Hoạt động hướng vào bản thân – rèn luyện bản thân – YCCĐ: biết quản lí cảm xúc, thời gian và tìm kiếm sự hỗ trợ khi gặp áp lực học tập"
+  },
+  {
+    "id": "g10_xahoi_02",
+    "subject": "Kiến thức xã hội",
+    "topic": "Chủ quyền biển đảo",
+    "type": "social",
+    "question": "Hai quần đảo Hoàng Sa và Trường Sa của Việt Nam nằm ở vùng biển nào?",
+    "options": [
+      "Biển Đông",
+      "Vịnh Thái Lan",
+      "Biển Hoa Đông",
+      "Biển Java"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên tìm hiểu thêm về chủ quyền biển đảo Việt Nam và hai quần đảo Hoàng Sa, Trường Sa trên Biển Đông.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử – Lớp 11 – Lịch sử bảo vệ chủ quyền, các quyền và lợi ích hợp pháp của Việt Nam ở Biển Đông – YCCĐ: nêu được vị trí của quần đảo Hoàng Sa, Trường Sa trên Biển Đông; Luật Biển Việt Nam 2012 (số 18/2012/QH13), Điều 1: phạm vi điều chỉnh gồm quần đảo Hoàng Sa, quần đảo Trường Sa"
+  },
+  {
+    "id": "g10_xahoi_04",
+    "subject": "Kiến thức xã hội",
+    "topic": "Quyền và nghĩa vụ cơ bản của công dân",
+    "type": "social",
+    "question": "Theo Hiến pháp năm 2013 (Điều 39), học tập đối với công dân Việt Nam là gì?",
+    "options": [
+      "Chỉ là quyền, không phải nghĩa vụ",
+      "Chỉ là nghĩa vụ, không phải quyền",
+      "Vừa là quyền vừa là nghĩa vụ",
+      "Chỉ bắt buộc với người dưới 18 tuổi"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên tìm hiểu Điều 39 Hiến pháp năm 2013: \"Công dân có quyền và nghĩa vụ học tập\" (Giáo dục kinh tế và pháp luật 10, chủ đề Hiến pháp).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục kinh tế và pháp luật – Lớp 10 – Hiến pháp nước CHXHCN Việt Nam – quyền và nghĩa vụ cơ bản của công dân – YCCĐ: nêu được nội dung cơ bản của Hiến pháp về quyền và nghĩa vụ cơ bản của công dân; Hiến pháp 2013, Điều 39 (không bị sửa đổi bởi Nghị quyết 203/2025/QH15)"
+  },
+  {
+    "id": "g10_xahoi_05",
+    "subject": "Kiến thức xã hội",
+    "topic": "Luật Trẻ em",
+    "type": "social",
+    "question": "Theo Luật Trẻ em năm 2016 (Điều 1), trẻ em là người dưới bao nhiêu tuổi?",
+    "options": [
+      "Dưới 16 tuổi",
+      "Dưới 14 tuổi",
+      "Dưới 18 tuổi",
+      "Dưới 15 tuổi"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên tìm hiểu Luật Trẻ em năm 2016: trẻ em là người dưới 16 tuổi; còn theo Bộ luật Dân sự 2015, người chưa đủ 18 tuổi là người chưa thành niên.",
+    "source": "Luật Trẻ em 2016 (số 102/2016/QH13), Điều 1: \"Trẻ em là người dưới 16 tuổi\"; liên hệ Bộ luật Dân sự 2015, Điều 21 (người chưa thành niên là người chưa đủ 18 tuổi)"
+  }
+]

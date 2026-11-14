@@ -1,0 +1,322 @@
+[
+  {
+    "id": "g9_toan_01_v2",
+    "subject": "Toán",
+    "topic": "Căn bậc hai",
+    "type": "academic",
+    "question": "Đưa thừa số ra ngoài dấu căn, ta có √50 bằng:",
+    "options": [
+      "2√5",
+      "5√2",
+      "25√2",
+      "10√5"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại phép đưa thừa số ra ngoài dấu căn bậc hai: √(a²b) = a√b với a ≥ 0, b ≥ 0; ví dụ √50 = √(25·2) (Toán 9, chương Căn bậc hai và căn bậc ba).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 9 – Căn thức – Căn bậc hai và căn bậc ba – YCCĐ: Thực hiện được một số phép tính đơn giản về căn bậc hai của số thực không âm (đưa thừa số ra ngoài dấu căn, đưa thừa số vào trong dấu căn,...)"
+  },
+  {
+    "id": "g9_toan_02",
+    "subject": "Toán",
+    "topic": "Phương trình bậc hai một ẩn",
+    "type": "academic",
+    "question": "Phương trình x² − 5x + 6 = 0 có các nghiệm là:",
+    "options": [
+      "x = 2 và x = 3",
+      "x = −2 và x = −3",
+      "x = 1 và x = 6",
+      "x = −1 và x = 6"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại công thức nghiệm và hệ thức Vi-ét của phương trình bậc hai (Toán 9, chương Phương trình bậc hai một ẩn).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 9 – Phương trình bậc hai một ẩn. Định lí Viète – YCCĐ: Giải được phương trình bậc hai một ẩn; giải thích được định lí Viète và ứng dụng (tính nhẩm nghiệm)"
+  },
+  {
+    "id": "g9_toan_03",
+    "subject": "Toán",
+    "topic": "Tỉ số lượng giác của góc nhọn",
+    "type": "academic",
+    "question": "Giá trị của sin 30° bằng bao nhiêu?",
+    "options": [
+      "√3/2",
+      "√2/2",
+      "1",
+      "1/2"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bảng tỉ số lượng giác của các góc đặc biệt 30°, 45°, 60° (Toán 9, chương Hệ thức lượng trong tam giác vuông).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 9 – Tỉ số lượng giác của góc nhọn – YCCĐ: Giải thích được tỉ số lượng giác của các góc nhọn đặc biệt (30°, 45°, 60°)"
+  },
+  {
+    "id": "g9_nguvan_01",
+    "subject": "Ngữ văn",
+    "topic": "Truyện thơ Nôm",
+    "type": "academic",
+    "question": "Tác giả của \"Truyện Kiều\" là ai?",
+    "options": [
+      "Nguyễn Trãi",
+      "Nguyễn Du",
+      "Hồ Xuân Hương",
+      "Nguyễn Đình Chiểu"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài về Nguyễn Du và truyện thơ Nôm \"Truyện Kiều\" (Ngữ văn 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 9 – Đọc văn bản – Truyện thơ Nôm – YCCĐ: Nhận biết và phân tích được một số yếu tố của truyện thơ Nôm; văn bản gợi ý: Truyện Kiều (Nguyễn Du)"
+  },
+  {
+    "id": "g9_nguvan_02_v2",
+    "subject": "Ngữ văn",
+    "topic": "Biện pháp tu từ chơi chữ",
+    "type": "academic",
+    "question": "Trong câu ca dao \"Bà già đi chợ Cầu Đông / Bói xem một quẻ lấy chồng lợi chăng / Thầy bói xem quẻ nói rằng / Lợi thì có lợi nhưng răng không còn\", từ \"lợi\" được dùng để tạo nên biện pháp tu từ nào?",
+    "options": [
+      "So sánh",
+      "Nhân hoá",
+      "Chơi chữ",
+      "Liệt kê"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại biện pháp tu từ chơi chữ (dùng từ đồng âm, gần âm, nhiều nghĩa để tạo sự dí dỏm), cùng với điệp thanh và điệp vần (Ngữ văn 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Ngữ văn – Lớp 9 – Kiến thức tiếng Việt – Biện pháp tu từ – YCCĐ: Biện pháp tu từ chơi chữ, điệp thanh và điệp vần: đặc điểm và tác dụng"
+  },
+  {
+    "id": "g9_tienganh_01_v2",
+    "subject": "Tiếng Anh",
+    "topic": "Suggest + V-ing",
+    "type": "academic",
+    "question": "Choose the correct answer: \"My friend suggested ___ to the history museum this weekend.\"",
+    "options": [
+      "go",
+      "to go",
+      "went",
+      "going"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cấu trúc suggest + danh động từ (V-ing), ví dụ: She suggested going for a walk (Tiếng Anh 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 9 – Kiến thức ngôn ngữ – Ngữ pháp – YCCĐ: Cấu trúc Suggest + danh động từ (V-ing)"
+  },
+  {
+    "id": "g9_tienganh_02",
+    "subject": "Tiếng Anh",
+    "topic": "Câu ước với wish",
+    "type": "academic",
+    "question": "Choose the correct answer: \"I wish I ___ more free time now.\"",
+    "options": [
+      "have",
+      "will have",
+      "having",
+      "had"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cấu trúc câu ước ở hiện tại: S + wish + S + V (quá khứ đơn).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Anh – Lớp 9 – Kiến thức ngôn ngữ – Ngữ pháp – YCCĐ: Thì quá khứ đơn với wish"
+  },
+  {
+    "id": "g9_khtn_01",
+    "subject": "Khoa học tự nhiên",
+    "topic": "Định luật Ohm",
+    "type": "academic",
+    "question": "Một điện trở được mắc vào hiệu điện thế 12 V thì cường độ dòng điện qua nó là 0,5 A. Giá trị điện trở là:",
+    "options": [
+      "24 Ω",
+      "6 Ω",
+      "12,5 Ω",
+      "0,04 Ω"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại định luật Ohm I = U/R và cách suy ra R = U/I (KHTN 9, phần Điện).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học tự nhiên – Lớp 9 – Điện – Định luật Ohm – YCCĐ: Xây dựng được định luật Ohm: cường độ dòng điện tỉ lệ thuận với hiệu điện thế và tỉ lệ nghịch với điện trở; tính được điện trở"
+  },
+  {
+    "id": "g9_khtn_02",
+    "subject": "Khoa học tự nhiên",
+    "topic": "Tính chất hóa học của kim loại",
+    "type": "academic",
+    "question": "Kim loại nào sau đây KHÔNG tác dụng với dung dịch HCl loãng?",
+    "options": [
+      "Fe",
+      "Zn",
+      "Cu",
+      "Mg"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên ôn lại dãy hoạt động hóa học của kim loại: kim loại đứng sau H (như Cu, Ag, Au) không đẩy được H₂ khỏi dung dịch axit (KHTN 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học tự nhiên – Lớp 9 – Kim loại – Dãy hoạt động hoá học – YCCĐ: Nêu được dãy hoạt động hoá học (K, Na, Ca, Mg, Al, Zn, Fe, Pb, H, Cu, Ag, Au) và trình bày được ý nghĩa của dãy"
+  },
+  {
+    "id": "g9_khtn_03",
+    "subject": "Khoa học tự nhiên",
+    "topic": "ADN và gen",
+    "type": "academic",
+    "question": "Theo nguyên tắc bổ sung trong phân tử ADN, nucleotide loại A liên kết với loại nào?",
+    "options": [
+      "G",
+      "C",
+      "U",
+      "T"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại cấu trúc ADN và nguyên tắc bổ sung A – T, G – C (KHTN 9, phần Di truyền).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học tự nhiên – Lớp 9 – Di truyền – Nucleic acid và gene – YCCĐ: Mô tả được DNA có cấu trúc xoắn kép, các nucleotide liên kết giữa 2 mạch theo nguyên tắc bổ sung"
+  },
+  {
+    "id": "g9_lsdl_01",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Cách mạng tháng Tám năm 1945",
+    "type": "academic",
+    "question": "Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa vào ngày nào?",
+    "options": [
+      "19/8/1945",
+      "2/9/1945",
+      "23/8/1945",
+      "7/5/1954"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên ôn lại bài Cách mạng tháng Tám năm 1945 và sự ra đời của nước Việt Nam Dân chủ Cộng hòa (Lịch sử và Địa lí 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 9 – Phân môn Lịch sử – Cách mạng tháng Tám năm 1945 – YCCĐ: Trình bày được diễn biến chính của Cách mạng tháng Tám năm 1945 và sự ra đời của nước Việt Nam Dân chủ Cộng hoà"
+  },
+  {
+    "id": "g9_lsdl_02",
+    "subject": "Lịch sử và Địa lí",
+    "topic": "Vùng Đồng bằng sông Cửu Long",
+    "type": "academic",
+    "question": "Vùng nào là vùng sản xuất lúa gạo lớn nhất nước ta?",
+    "options": [
+      "Đồng bằng sông Hồng",
+      "Tây Nguyên",
+      "Bắc Trung Bộ",
+      "Đồng bằng sông Cửu Long"
+    ],
+    "answerIndex": 3,
+    "suggestion": "Em nên ôn lại bài vùng Đồng bằng sông Cửu Long và vai trò sản xuất lương thực của vùng (phần Địa lí 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 9 – Phân môn Địa lí – Vùng Đồng bằng sông Cửu Long – YCCĐ: Trình bày được thế mạnh và sự phát triển các ngành kinh tế của vùng, trong đó có sản xuất lương thực (nội dung vùng đã điều chỉnh theo TT 17/2025)"
+  },
+  {
+    "id": "g9_gdcd_01",
+    "subject": "Giáo dục công dân",
+    "topic": "Vi phạm pháp luật và trách nhiệm pháp lí",
+    "type": "academic",
+    "question": "Người có hành vi phạm tội được quy định trong Bộ luật Hình sự sẽ phải chịu loại trách nhiệm pháp lí nào?",
+    "options": [
+      "Trách nhiệm hình sự",
+      "Trách nhiệm kỉ luật",
+      "Trách nhiệm hành chính",
+      "Trách nhiệm dân sự"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài Vi phạm pháp luật và trách nhiệm pháp lí, phân biệt các loại trách nhiệm hình sự, hành chính, dân sự, kỉ luật (GDCD 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 9 – Vi phạm pháp luật và trách nhiệm pháp lí – YCCĐ: Nêu được khái niệm vi phạm pháp luật và trách nhiệm pháp lí; các loại vi phạm pháp luật và trách nhiệm pháp lí"
+  },
+  {
+    "id": "g9_tinhoc_01_v2",
+    "subject": "Tin học",
+    "topic": "Đánh giá chất lượng thông tin",
+    "type": "academic",
+    "question": "Bạn An dùng bản tin dự báo thời tiết của tuần trước để quyết định có đi dã ngoại vào ngày mai hay không. Thông tin bạn An dùng không đảm bảo tính chất nào của thông tin?",
+    "options": [
+      "Tính mới",
+      "Tính giải trí",
+      "Tính bảo mật",
+      "Tính thẩm mĩ"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại bài Đánh giá chất lượng thông tin: thông tin tốt cần có tính mới, tính chính xác, tính đầy đủ và tính sử dụng được (Tin học 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 9 – Chủ đề C. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin – Đánh giá chất lượng thông tin – YCCĐ: Giải thích được tính mới, tính chính xác, tính đầy đủ, tính sử dụng được của thông tin"
+  },
+  {
+    "id": "g9_mo_01",
+    "subject": "Câu hỏi mở",
+    "topic": "An toàn trên mạng",
+    "type": "open",
+    "question": "Một người lạ quen qua mạng xã hội liên tục xin ảnh riêng tư và rủ em gặp mặt một mình. Em nên làm gì?",
+    "options": [
+      "Gửi ảnh để giữ tình bạn",
+      "Đồng ý gặp nhưng không nói với ai",
+      "Từ chối, chặn tài khoản và kể cho bố mẹ hoặc thầy cô",
+      "Tiếp tục nói chuyện để xem người đó là ai"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em nên tìm hiểu các kĩ năng an toàn trên mạng: không chia sẻ thông tin, hình ảnh riêng tư với người lạ và luôn báo cho người lớn tin cậy khi gặp tình huống bất thường.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học – Lớp 9 – Chủ đề D. Đạo đức, pháp luật và văn hoá trong môi trường số – YCCĐ: Nêu được một số hành vi vi phạm pháp luật, trái đạo đức, thiếu văn hoá khi hoạt động trong môi trường số; biết tự bảo vệ và nhờ người lớn giúp đỡ"
+  },
+  {
+    "id": "g9_mo_02",
+    "subject": "Câu hỏi mở",
+    "topic": "Định hướng nghề nghiệp",
+    "type": "open",
+    "question": "Sắp thi vào lớp 10, em đang phân vân chọn trường và hướng học tiếp. Cách làm nào phù hợp nhất?",
+    "options": [
+      "Chọn trường mà bạn thân chọn",
+      "Tìm hiểu sở thích, năng lực của bản thân và trao đổi với gia đình, thầy cô",
+      "Chọn ngẫu nhiên cho nhanh",
+      "Chọn trường nổi tiếng nhất dù không phù hợp với sức học"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu về định hướng nghề nghiệp: đánh giá sở thích, năng lực bản thân và tham khảo ý kiến gia đình, thầy cô trước khi quyết định.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Công nghệ – Lớp 9 – Định hướng nghề nghiệp – Lựa chọn nghề nghiệp – YCCĐ: Hiểu được sau khi kết thúc THCS có những hướng đi nào; giải thích được các bước và các yếu tố ảnh hưởng tới quyết định lựa chọn nghề nghiệp"
+  },
+  {
+    "id": "g9_mo_03_v2",
+    "subject": "Câu hỏi mở",
+    "topic": "Giải quyết bất đồng trong gia đình",
+    "type": "open",
+    "question": "Em và bố mẹ không cùng ý kiến về thời gian em được dùng điện thoại mỗi ngày. Cách làm nào phù hợp nhất?",
+    "options": [
+      "Cãi lại và đóng cửa phòng không nói chuyện",
+      "Lén dùng điện thoại khi bố mẹ không để ý",
+      "Bình tĩnh trình bày suy nghĩ, lắng nghe bố mẹ và cùng thống nhất một thời gian hợp lí",
+      "Bỏ ăn để bố mẹ phải đồng ý"
+    ],
+    "answerIndex": 2,
+    "suggestion": "Em hãy rèn luyện cách giải quyết bất đồng trong gia đình: bình tĩnh, tôn trọng, lắng nghe và cùng nhau tìm ra thoả thuận phù hợp.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm, hướng nghiệp – Lớp 9 – Hoạt động chăm sóc gia đình – YCCĐ: Biết giải quyết bất đồng trong quan hệ giữa bản thân với các thành viên trong gia đình"
+  },
+  {
+    "id": "g9_xahoi_01_v2",
+    "subject": "Kiến thức xã hội",
+    "topic": "Người thành niên",
+    "type": "social",
+    "question": "Theo Bộ luật Dân sự năm 2015, người thành niên là người từ đủ bao nhiêu tuổi trở lên?",
+    "options": [
+      "Đủ 16 tuổi",
+      "Đủ 18 tuổi",
+      "Đủ 15 tuổi",
+      "Đủ 21 tuổi"
+    ],
+    "answerIndex": 1,
+    "suggestion": "Em nên tìm hiểu quy định về người thành niên trong Bộ luật Dân sự 2015: người từ đủ 18 tuổi trở lên là người thành niên; người chưa đủ 18 tuổi là người chưa thành niên.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Giáo dục công dân – Lớp 9 – Vi phạm pháp luật và trách nhiệm pháp lí – YCCĐ: Phân tích, đánh giá được các hành vi vi phạm pháp luật và trách nhiệm pháp lí trong tình huống cụ thể; Bộ luật Dân sự 2015, Điều 20"
+  },
+  {
+    "id": "g9_xahoi_02_v2",
+    "subject": "Kiến thức xã hội",
+    "topic": "Lịch sử Việt Nam 1954 – 1975",
+    "type": "social",
+    "question": "Chiến dịch Hồ Chí Minh lịch sử, giải phóng hoàn toàn miền Nam, kết thúc thắng lợi vào ngày nào?",
+    "options": [
+      "30/4/1975",
+      "2/9/1945",
+      "7/5/1954",
+      "27/1/1973"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên ôn lại cuộc kháng chiến chống Mỹ, cứu nước, đặc biệt là cuộc Tổng tiến công và nổi dậy mùa Xuân 1975 với Chiến dịch Hồ Chí Minh (Lịch sử và Địa lí 9).",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 9 – Phân môn Lịch sử – Việt Nam từ năm 1954 đến năm 1975 – YCCĐ: Mô tả được các thắng lợi tiêu biểu về quân sự của nhân dân miền Nam trong kháng chiến chống Mỹ, cứu nước (…Chiến dịch Hồ Chí Minh năm 1975)"
+  },
+  {
+    "id": "g9_xahoi_03",
+    "subject": "Kiến thức xã hội",
+    "topic": "Việt Nam và ASEAN",
+    "type": "social",
+    "question": "Việt Nam chính thức trở thành thành viên của Hiệp hội các quốc gia Đông Nam Á (ASEAN) vào năm nào?",
+    "options": [
+      "1995",
+      "1967",
+      "1986",
+      "2007"
+    ],
+    "answerIndex": 0,
+    "suggestion": "Em nên tìm hiểu thêm về quá trình Việt Nam hội nhập khu vực, gia nhập ASEAN năm 1995.",
+    "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Lịch sử và Địa lí – Lớp 9 – Phân môn Lịch sử – Châu Á và Đông Nam Á; Việt Nam từ năm 1991 đến nay – YCCĐ: Trình bày được sự hình thành và phát triển của ASEAN; mô tả được quá trình phát triển của ASEAN từ năm 1991 đến nay"
+  }
+]
