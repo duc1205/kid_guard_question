@@ -3,7 +3,8 @@
 
     python3 scripts/build_manifest.py [--previous <manifest đã phát hành>] [--check]
 
-- Luật kiểm tra giống app (QuestionFileParser): file sai thì dừng, không ghi gì.
+- Luật kiểm tra nằm trong check_questions.py (gồm luật của app QuestionFileParser
+  và luật chất lượng). Có lỗi thì dừng, không ghi gì; cảnh báo chỉ in ra.
 - Có file đổi so với bản đã phát hành → tăng `version`. Không bao giờ giảm
   `version` (máy đang ở bản cao hơn sẽ bỏ qua bản thấp hơn).
 - --check: chỉ kiểm tra, báo lỗi nếu manifest.json chưa khớp với các file.
@@ -11,55 +12,14 @@
 import argparse
 import hashlib
 import json
-import re
 import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 MANIFEST = ROOT / "manifest.json"
-GRADE_FILE = re.compile(r"^grade_(\d+)\.json$")
-MIN_GRADE, MAX_GRADE = 1, 14
-MIN_QUESTIONS = 5
-TYPES = {"academic", "open", "social"}
-TEXT_FIELDS = ("id", "subject", "topic", "question", "suggestion")
-
-
-def validate(path: Path, raw: bytes) -> int:
-    """Trả về số câu hỏi; ném ValueError nếu file không hợp lệ."""
-    try:
-        data = json.loads(raw.decode("utf-8-sig"))
-    except (UnicodeDecodeError, json.JSONDecodeError) as e:
-        raise ValueError(f"{path.name}: không phải JSON hợp lệ ({e})")
-    if not isinstance(data, list):
-        raise ValueError(f"{path.name}: gốc phải là một danh sách câu hỏi")
-    ids = set()
-    for i, q in enumerate(data, 1):
-        where = f"{path.name} câu #{i} (id={q.get('id') if isinstance(q, dict) else '?'})"
-        if not isinstance(q, dict):
-            raise ValueError(f"{where}: phải là object")
-        for f in TEXT_FIELDS:
-            if not isinstance(q.get(f), str) or not q[f].strip():
-                raise ValueError(f"{where}: thiếu hoặc rỗng trường '{f}'")
-        if q["id"] in ids:
-            raise ValueError(f"{where}: trùng id")
-        ids.add(q["id"])
-        if q.get("type") not in TYPES:
-            raise ValueError(f"{where}: 'type' phải là một trong {sorted(TYPES)}")
-        opts = q.get("options")
-        if (
-            not isinstance(opts, list)
-            or len(opts) != 4
-            or not all(isinstance(o, str) and o.strip() for o in opts)
-            or len(set(opts)) != 4
-        ):
-            raise ValueError(f"{where}: 'options' phải có đúng 4 đáp án khác nhau, không rỗng")
-        ans = q.get("answerIndex")
-        if not isinstance(ans, int) or isinstance(ans, bool) or not 0 <= ans <= 3:
-            raise ValueError(f"{where}: 'answerIndex' phải là số 0–3")
-    if len(data) < MIN_QUESTIONS:
-        raise ValueError(f"{path.name}: cần ít nhất {MIN_QUESTIONS} câu (có {len(data)})")
-    return len(data)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import check_questions  # noqa: E402  (cùng thư mục; một bộ luật duy nhất)
 
 
 def load_json(path):
@@ -82,34 +42,23 @@ def main() -> int:
     current = load_json(MANIFEST)
     previous = load_json(args.previous) if args.previous else current
 
-    files = []
-    for p in ROOT.iterdir():
-        m = GRADE_FILE.match(p.name)
-        if m and MIN_GRADE <= int(m.group(1)) <= MAX_GRADE:
-            files.append((int(m.group(1)), p))
-    files.sort()
-    if not files:
-        print("Không tìm thấy file grade_N.json nào", file=sys.stderr)
+    report, counts = check_questions.check_directory(ROOT)
+    for w in report.warnings:
+        print(f"CẢNH BÁO  {w}")
+    if report.errors:
+        print("Câu hỏi không hợp lệ, KHÔNG phát hành:", file=sys.stderr)
+        for e in report.errors:
+            print(f"  - {e}", file=sys.stderr)
         return 1
 
-    grades, errors = {}, []
-    for grade, path in files:
+    grades = {}
+    for grade, path in check_questions.grade_files(ROOT):
         raw = path.read_bytes()
-        try:
-            count = validate(path, raw)
-        except ValueError as e:
-            errors.append(str(e))
-            continue
         grades[str(grade)] = {
             "file": path.name,
             "sha256": hashlib.sha256(raw).hexdigest(),
-            "count": count,
+            "count": counts[grade],
         }
-    if errors:
-        print("Câu hỏi không hợp lệ, KHÔNG phát hành:", file=sys.stderr)
-        for e in errors:
-            print(f"  - {e}", file=sys.stderr)
-        return 1
 
     prev_version = int(previous.get("version") or 0)
     cur_version = int(current.get("version") or 0)
