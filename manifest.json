@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-14",
+  "version": 2,
+  "updatedAt": "2026-11-15",
   "grades": {
     "1": {
       "file": "grade_1.json",
@@ -14,12 +14,12 @@
     },
     "3": {
       "file": "grade_3.json",
-      "sha256": "db82328b63c84e5f411ec59764fbe487ce0d92ad6b6f60f6909cd9c6cffe7d1a",
+      "sha256": "75c36f40b2afd976ef235bd94b6b95b773dbdda5ad7f1b83b2e0414b3dd0dab1",
       "count": 24
     },
     "4": {
       "file": "grade_4.json",
-      "sha256": "264ded6c2f1e19b0aec126e1bb33fb869f5b5178bbea18c72a4236ca94f3f7e4",
+      "sha256": "038fe1637df80ecc349cd80fbf141268fc2b8f46962eb135a84dc9d5892c8614",
       "count": 24
     },
     "5": {
@@ -64,12 +64,12 @@
     },
     "13": {
       "file": "grade_13.json",
-      "sha256": "aa451967cc91c494fa1d8bf45cd68a8dc9f98cb2650a411fc18744ac76868881",
+      "sha256": "c25cca3558e0a01613643c277cdfb15bbdb254b02603358352caa47c6a14a794",
       "count": 24
     },
     "14": {
       "file": "grade_14.json",
-      "sha256": "ce8cf06001883711f5d31c99086ba656aeb39cef5752baac7343a99df7f2e0e8",
+      "sha256": "b652e6d05d525a52b5ed46eb5d15688e47623a279acc417f7304a72b5cf6bdde",
       "count": 24
     }
   }

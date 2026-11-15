@@ -48,15 +48,15 @@
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Toán – Lớp 4 – Các phép tính với số tự nhiên – YCCĐ: Tính được số trung bình cộng của hai hay nhiều số"
   },
   {
-    "id": "g4_toan_04",
+    "id": "g4_toan_04_v2",
     "subject": "Toán",
     "topic": "Góc nhọn, góc tù, góc bẹt",
     "type": "academic",
     "question": "Góc tù là góc như thế nào?",
     "options": [
-      "Góc bé hơn góc vuông",
-      "Góc bằng góc vuông",
-      "Góc bằng hai góc vuông",
+      "Góc bé hơn góc vuông và không phải góc bẹt",
+      "Góc có hai cạnh vuông góc với nhau",
+      "Góc có hai cạnh nằm trên cùng một đường thẳng",
       "Góc lớn hơn góc vuông nhưng bé hơn góc bẹt"
     ],
     "answerIndex": 3,
@@ -128,16 +128,16 @@
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 4 – Kiến thức tiếng Việt – Câu – YCCĐ: Câu và thành phần chính của câu: đặc điểm và chức năng"
   },
   {
-    "id": "g4_daoduc_01",
+    "id": "g4_daoduc_01_v2",
     "subject": "Đạo đức",
     "topic": "Biết ơn người lao động",
     "type": "academic",
     "question": "Việc làm nào thể hiện sự biết ơn người lao động?",
     "options": [
       "Giữ gìn đồ dùng và không vứt rác bừa bãi",
-      "Lãng phí cơm, thức ăn",
-      "Vẽ bậy lên tường",
-      "Chế giễu cô lao công"
+      "Vứt rác xuống sân vì đã có cô lao công dọn",
+      "Để đồ chơi bừa bãi vì đã có người dọn giúp",
+      "Chỉ cảm ơn những người lao động mình quen"
     ],
     "answerIndex": 0,
     "suggestion": "Em nên ôn lại bài biết ơn người lao động ở môn Đạo đức lớp 4: trân trọng và giữ gìn sản phẩm của người lao động.",
@@ -160,16 +160,16 @@
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Khoa học – Lớp 4 – Chất – Nước – YCCĐ: Sử dụng được các thuật ngữ bay hơi, ngưng tụ, đông đặc, nóng chảy để mô tả sự chuyển thể của nước"
   },
   {
-    "id": "g4_khoahoc_02",
+    "id": "g4_khoahoc_02_v2",
     "subject": "Khoa học",
     "topic": "Thực vật cần gì để sống",
     "type": "academic",
     "question": "Để sống và phát triển bình thường, thực vật cần những yếu tố nào?",
     "options": [
-      "Chỉ cần nước",
+      "Ánh sáng và nước là đủ, không cần chất khoáng",
       "Ánh sáng, nước, không khí và chất khoáng",
-      "Chỉ cần ánh sáng",
-      "Bóng tối và nước"
+      "Bóng tối, nước, không khí và chất khoáng",
+      "Ánh sáng, không khí và chất khoáng, không cần nước"
     ],
     "answerIndex": 1,
     "suggestion": "Em nên ôn lại bài nhu cầu sống của thực vật ở môn Khoa học lớp 4, có thể làm thí nghiệm trồng cây đậu để quan sát.",
@@ -288,31 +288,31 @@
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Công nghệ – Lớp 4 – Trồng hoa và cây cảnh trong chậu – YCCĐ: Mô tả được các công việc chủ yếu để chăm sóc một số loại hoa và cây cảnh phổ biến"
   },
   {
-    "id": "g4_mo_01",
+    "id": "g4_mo_01_v2",
     "subject": "Câu hỏi mở",
     "topic": "Sinh hoạt điều độ",
     "type": "open",
     "question": "Bạn rủ em chơi game trên mạng đến nửa đêm. Em nên làm gì?",
     "options": [
       "Từ chối và đi ngủ đúng giờ để giữ sức khỏe",
-      "Chơi đến sáng cho vui",
-      "Chơi lén khi bố mẹ đã ngủ",
-      "Nghỉ học ngày mai để ngủ bù"
+      "Chơi đến nửa đêm rồi ngủ bù vào giờ ra chơi",
+      "Chơi lén khi bố mẹ đã ngủ để không bị mắng",
+      "Đồng ý chơi một chút rồi cứ thế chơi đến khuya"
     ],
     "answerIndex": 0,
     "suggestion": "Con hãy nhớ ngủ đủ giấc và đúng giờ giúp con khỏe mạnh, học tốt; hãy biết từ chối khi bị rủ chơi game quá khuya.",
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 4 – Hoạt động hướng vào bản thân – Rèn luyện bản thân – YCCĐ: Thể hiện được nền nếp sinh hoạt"
   },
   {
-    "id": "g4_mo_02",
+    "id": "g4_mo_02_v2",
     "subject": "Câu hỏi mở",
     "topic": "Trung thực trong học tập",
     "type": "open",
     "question": "Trong giờ kiểm tra, bạn ngồi cạnh nhờ em cho chép bài. Em nên làm gì?",
     "options": [
-      "Cho bạn chép hết bài",
-      "Nhắc đáp án nhỏ cho bạn",
-      "Đổi bài cho bạn",
+      "Cho bạn chép hết bài vì bạn là bạn thân của em",
+      "Nhắc nhỏ đáp án cho bạn khi cô không để ý",
+      "Đổi bài cho bạn chép rồi lấy lại trước khi nộp",
       "Từ chối nhẹ nhàng và khuyên bạn tự làm bài"
     ],
     "answerIndex": 3,
@@ -320,32 +320,32 @@
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 4 – Hoạt động xây dựng nhà trường – YCCĐ: Nêu được một số vấn đề thường xảy ra trong quan hệ với bạn bè và đề xuất được cách giải quyết"
   },
   {
-    "id": "g4_mo_04",
+    "id": "g4_mo_04_v2",
     "subject": "Câu hỏi mở",
     "topic": "Phòng tránh bị xâm hại",
     "type": "open",
     "question": "Một người lạ cho em kẹo và rủ em đi theo để xem \"một thứ rất hay\". Em nên làm gì?",
     "options": [
-      "Từ chối, đi nhanh đến chỗ đông người và kể ngay cho bố mẹ, thầy cô",
-      "Đi theo vì người đó có vẻ tốt bụng",
-      "Nhận kẹo rồi đi theo một lúc",
-      "Giữ bí mật, không kể với ai"
+      "Từ chối, đến chỗ đông người và kể ngay cho bố mẹ, thầy cô",
+      "Đi theo một lúc vì người đó có vẻ hiền lành, tốt bụng",
+      "Nhận kẹo cho lịch sự rồi đi theo người đó xem thử",
+      "Từ chối nhưng giữ bí mật, không kể chuyện này với ai"
     ],
     "answerIndex": 0,
     "suggestion": "Con hãy nhớ: không nhận quà và không đi theo người lạ; khi thấy không an toàn hãy chạy đến chỗ đông người và báo ngay cho người lớn tin cậy.",
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Hoạt động trải nghiệm – Lớp 4 – Hoạt động hướng vào bản thân – Rèn luyện bản thân – YCCĐ: Nhận biết được nguy cơ bị xâm hại và thực hiện được những hành động để phòng tránh bị xâm hại"
   },
   {
-    "id": "g4_xahoi_04",
+    "id": "g4_xahoi_04_v2",
     "subject": "Kiến thức xã hội",
     "topic": "Bổn phận của trẻ em",
     "type": "social",
     "question": "Việc nào sau đây là bổn phận của trẻ em đối với gia đình?",
     "options": [
-      "Đòi bố mẹ mua mọi thứ mình thích",
+      "Đòi bố mẹ mua mọi thứ mình thích khi được điểm cao",
       "Kính trọng, lễ phép, hiếu thảo với ông bà, cha mẹ",
-      "Chỉ lo chơi, không phụ giúp việc nhà",
-      "Nói dối bố mẹ để được đi chơi"
+      "Chỉ lo học, không cần phụ giúp việc nhà",
+      "Nói dối bố mẹ để được đi chơi cùng các bạn"
     ],
     "answerIndex": 1,
     "suggestion": "Em hãy nhớ bổn phận của trẻ em với gia đình: kính trọng, lễ phép, hiếu thảo với ông bà, cha mẹ và phụ giúp việc nhà vừa sức.",

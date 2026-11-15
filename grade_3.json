@@ -160,32 +160,32 @@
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tiếng Việt – Lớp 3 – Kiến thức tiếng Việt – Kiểu câu – YCCĐ: Sơ giản về câu kể, câu hỏi, câu khiến, câu cảm: đặc điểm thể hiện qua dấu câu, từ đánh dấu kiểu câu và công dụng"
   },
   {
-    "id": "g3_daoduc_01",
+    "id": "g3_daoduc_01_v2",
     "subject": "Đạo đức",
     "topic": "Em yêu Tổ quốc Việt Nam",
     "type": "academic",
     "question": "Trong lễ chào cờ, em nên làm gì?",
     "options": [
       "Đứng nghiêm, hướng về lá cờ và hát Quốc ca",
-      "Nói chuyện với bạn",
-      "Ngồi xuống cho đỡ mỏi",
-      "Chơi đùa sau hàng"
+      "Đứng thẳng nhưng vừa hát vừa nói chuyện với bạn",
+      "Ngồi xuống ghế, nhìn lá cờ và nghe các bạn hát",
+      "Đứng nghiêm nhưng quay lưng lại phía lá cờ"
     ],
     "answerIndex": 0,
     "suggestion": "Em nên ôn lại bài em yêu Tổ quốc Việt Nam ở môn Đạo đức lớp 3, nhớ nghiêm trang khi chào cờ và hát Quốc ca.",
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Em yêu Tổ quốc Việt Nam – YCCĐ: Biết Quốc hiệu, Quốc kì, Quốc ca; nghiêm trang khi chào cờ và hát Quốc ca"
   },
   {
-    "id": "g3_daoduc_02",
+    "id": "g3_daoduc_02_v2",
     "subject": "Đạo đức",
     "topic": "Giữ lời hứa",
     "type": "academic",
     "question": "Thế nào là giữ lời hứa?",
     "options": [
-      "Hứa thật nhiều với mọi người",
-      "Hứa xong rồi quên",
+      "Hứa thật nhiều điều để mọi người vui lòng ngay",
+      "Chỉ làm theo lời hứa khi có người lớn nhắc nhở",
       "Thực hiện đúng điều mình đã hứa với người khác",
-      "Không bao giờ hứa với ai"
+      "Hứa với bạn rồi đổi ý khi thấy việc đó khó làm"
     ],
     "answerIndex": 2,
     "suggestion": "Em nên ôn lại bài giữ lời hứa ở môn Đạo đức lớp 3: đã hứa thì cố gắng làm đúng điều mình hứa.",
@@ -288,64 +288,64 @@
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Mĩ thuật – Lớp 3 – Mĩ thuật tạo hình – Yếu tố và nguyên lí tạo hình – YCCĐ: Biết phân biệt màu cơ bản và màu thứ cấp; tạo được màu thứ cấp và đọc được tên các màu đó"
   },
   {
-    "id": "g3_mo_04",
+    "id": "g3_mo_04_v2",
     "subject": "Câu hỏi mở",
     "topic": "Xử lí bất hoà với bạn bè",
     "type": "open",
     "question": "Hai bạn trong nhóm cãi nhau vì cùng muốn đọc một quyển truyện. Em nên làm gì?",
     "options": [
-      "Đứng ngoài cổ vũ cho to hơn",
+      "Đứng ngoài cổ vũ xem bạn nào giành được truyện",
       "Khuyên hai bạn bình tĩnh và thay phiên nhau đọc",
-      "Lấy quyển truyện đem giấu đi",
-      "Chê bai cả hai bạn"
+      "Lấy quyển truyện đem giấu đi cho hai bạn thôi cãi",
+      "Bênh bạn thân hơn và bảo bạn kia phải nhường"
     ],
     "answerIndex": 1,
     "suggestion": "Con hãy nhớ khi bạn bè bất hoà, con có thể giúp các bạn bình tĩnh, lắng nghe nhau và tìm cách chia sẻ công bằng; nếu không được thì nhờ thầy cô.",
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Xử lí bất hoà với bạn bè – YCCĐ: Thực hiện được một số cách đơn giản, phù hợp để xử lí bất hoà; sẵn sàng giúp bạn bè xử lí bất hoà với nhau"
   },
   {
-    "id": "g3_mo_02",
+    "id": "g3_mo_02_v2",
     "subject": "Câu hỏi mở",
     "topic": "An toàn trên mạng",
     "type": "open",
     "question": "Một người lạ nhắn tin qua mạng hỏi địa chỉ nhà em. Em nên làm gì?",
     "options": [
-      "Gửi địa chỉ cho người đó",
+      "Gửi địa chỉ vì người đó nói là bạn của bố",
       "Không trả lời và báo ngay cho bố mẹ",
-      "Gửi thêm ảnh của mình",
-      "Hẹn gặp người đó"
+      "Hỏi tên người đó trước rồi mới gửi địa chỉ",
+      "Hẹn gặp người đó ở cổng trường cho an toàn"
     ],
     "answerIndex": 1,
     "suggestion": "Con hãy nhớ không bao giờ chia sẻ địa chỉ, số điện thoại hay hình ảnh với người lạ trên mạng, và luôn kể với bố mẹ.",
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Tin học (Tin học và Công nghệ) – Lớp 3 – Chủ đề D. Đạo đức, pháp luật và văn hoá trong môi trường số – YCCĐ: Có ý thức bảo vệ thông tin cá nhân và gia đình khi giao tiếp qua máy tính; biết người xấu có thể lợi dụng thông tin này"
   },
   {
-    "id": "g3_mo_03",
+    "id": "g3_mo_03_v2",
     "subject": "Câu hỏi mở",
     "topic": "Trung thực",
     "type": "open",
     "question": "Em bị điểm kém trong bài kiểm tra. Em nên làm gì?",
     "options": [
       "Thật thà kể với bố mẹ và cố gắng học tốt hơn",
-      "Giấu bài kiểm tra đi",
-      "Sửa điểm trong bài",
-      "Nói dối là cô chưa trả bài"
+      "Giấu bài kiểm tra đi, chờ lần sau điểm cao hơn",
+      "Tự sửa điểm trong bài rồi mới đưa bố mẹ xem",
+      "Nói với bố mẹ là cô giáo chưa trả bài kiểm tra"
     ],
     "answerIndex": 0,
     "suggestion": "Con hãy nhớ trung thực với bố mẹ, điểm kém là cơ hội để con biết mình cần ôn thêm phần nào.",
     "source": "CT GDPT 2018 (sửa đổi theo TT 13/2022, TT 17/2025) – Đạo đức – Lớp 3 – Khám phá bản thân – YCCĐ: Nêu được điểm mạnh, điểm yếu của bản thân; rèn luyện để khắc phục điểm yếu"
   },
   {
-    "id": "g3_xahoi_01",
+    "id": "g3_xahoi_01_v2",
     "subject": "Kiến thức xã hội",
     "topic": "An toàn giao thông",
     "type": "social",
     "question": "Khi ngồi sau xe máy, em phải làm gì?",
     "options": [
-      "Đứng lên yên xe",
-      "Bỏ hai tay ra để chơi",
+      "Đội mũ bảo hiểm nhưng không cần cài quai",
+      "Bỏ hai tay ra, không cần bám vào người lái",
       "Đội mũ bảo hiểm và cài quai đúng cách",
-      "Ngồi quay ngược ra sau"
+      "Ngồi quay ngược ra sau để nhìn đường cho rõ"
     ],
     "answerIndex": 2,
     "suggestion": "Em nên ôn lại quy định an toàn giao thông: luôn đội mũ bảo hiểm cài quai đúng cách và ngồi ngay ngắn khi đi xe máy.",

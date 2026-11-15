@@ -304,7 +304,7 @@
     "source": "American Statistical Association (2016), ASA Statement on Statistical Significance and P-Values – Nguyên tắc 4: suy luận đúng đòi hỏi báo cáo đầy đủ và minh bạch (tránh p-hacking)"
   },
   {
-    "id": "sdh_mo_02",
+    "id": "sdh_mo_02_v2",
     "subject": "Câu hỏi mở",
     "topic": "Tạp chí săn mồi (predatory journals)",
     "type": "open",
@@ -313,14 +313,14 @@
       "Nộp ngay vì được đăng nhanh sẽ có lợi cho hồ sơ",
       "Nộp bài cho nhiều tạp chí như vậy cùng lúc để chắc chắn được đăng",
       "Trả lời email để thương lượng giảm phí",
-      "Thận trọng, kiểm tra tạp chí (danh mục Scopus/WoS, ban biên tập, quy trình phản biện) và hỏi ý kiến người hướng dẫn"
+      "Thận trọng: kiểm tra tạp chí (Scopus/WoS, ban biên tập, phản biện) và hỏi người hướng dẫn"
     ],
     "answerIndex": 3,
     "suggestion": "Bạn nên tìm hiểu dấu hiệu của tạp chí săn mồi: mời chào qua email, hứa đăng rất nhanh, thu phí nhưng phản biện sơ sài hoặc không có; hãy kiểm tra tạp chí trên các cơ sở dữ liệu uy tín và tham khảo người hướng dẫn trước khi nộp bài.",
     "source": "Think. Check. Submit. (thinkchecksubmit.org, sáng kiến có COPE tham gia) – Danh mục kiểm tra tạp chí trước khi nộp bài – Nhận diện tạp chí săn mồi"
   },
   {
-    "id": "sdh_mo_03",
+    "id": "sdh_mo_03_v2",
     "subject": "Câu hỏi mở",
     "topic": "Sử dụng AI khi viết luận văn",
     "type": "open",
@@ -328,7 +328,7 @@
     "options": [
       "Để AI viết toàn bộ luận văn rồi nộp dưới tên mình",
       "Ghi công cụ AI là đồng tác giả của luận văn",
-      "Tuân thủ quy định của cơ sở đào tạo, công khai cách sử dụng AI và tự kiểm chứng mọi nội dung, trích dẫn",
+      "Tuân thủ quy định của trường, công khai cách dùng AI và tự kiểm chứng mọi nội dung",
       "Dùng các tài liệu tham khảo do AI gợi ý mà không cần kiểm tra"
     ],
     "answerIndex": 2,
@@ -336,14 +336,14 @@
     "source": "COPE Position Statement: Authorship and AI tools (2023) – Công cụ AI không thể là tác giả; tác giả phải công khai cách dùng AI và chịu trách nhiệm toàn bộ nội dung"
   },
   {
-    "id": "sdh_xahoi_01",
+    "id": "sdh_xahoi_01_v2",
     "subject": "Kiến thức xã hội",
     "topic": "Kinh tế vĩ mô",
     "type": "social",
     "question": "Tổng sản phẩm quốc nội (GDP) được hiểu là gì?",
     "options": [
       "Tổng thu nhập của công dân một nước, dù sinh sống ở đâu",
-      "Tổng giá trị thị trường của hàng hóa, dịch vụ cuối cùng được sản xuất trong lãnh thổ một quốc gia trong một thời kỳ nhất định",
+      "Tổng giá trị hàng hóa, dịch vụ cuối cùng sản xuất trong lãnh thổ một nước trong một thời kỳ",
       "Tổng giá trị xuất khẩu của một quốc gia trong một năm",
       "Tổng thu ngân sách nhà nước trong một năm"
     ],
